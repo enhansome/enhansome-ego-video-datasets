@@ -409,7 +409,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * \[⭐️] **Ego4D** (2022) — \~3,670 h; AR, VQA, forecasting, many.
-  [![arXiv](https://img.shields.io/badge/arXiv-2110.07058-b31b1b.svg)](https://arxiv.org/abs/2110.07058) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://arxiv.org/abs/2110.07058) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/facebookresearch/Ego4d) ⭐ 635 | 🐛 68 | 🌐 Jupyter Notebook | 📅 2026-07-25
+  [![arXiv](https://img.shields.io/badge/arXiv-2110.07058-b31b1b.svg)](https://arxiv.org/abs/2110.07058) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://arxiv.org/abs/2110.07058) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/facebookresearch/Ego4d) ⭐ 635 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2026-07-25
 
 * \[⭐️] **EPIC-KITCHENS-100** (2021) — 100 h of unscripted kitchen activity with 90K segments; the canonical egocentric action-recognition and anticipation benchmark.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://link.springer.com/article/10.1007/s11263-021-01531-2) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://epic-kitchens.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/epic-kitchens/epic-kitchens-100-annotations) ⭐ 172 | 🐛 2 | 🌐 Python | 📅 2022-08-01
@@ -589,7 +589,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
   [![arXiv](https://img.shields.io/badge/arXiv-2208.03826-b31b1b.svg)](https://arxiv.org/abs/2208.03826) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/owenzlz/EgoHOS) ⭐ 147 | 🐛 13 | 🌐 Python | 📅 2024-02-26
 
 * **AssemblyHands** (2023) — 3M egocentric hand images on top of Assembly101 for detailed 3D hand pose estimation during assembly.
-  [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/facebookresearch/assemblyhands-toolkit) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2026-05-25
+  [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/facebookresearch/assemblyhands-toolkit) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2026-05-25
 
 * **EgoObjects** (2023) — 9.2K+ videos; Detection, instance seg.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_EgoObjects_A_Large-Scale_Egocentric_Dataset_for_Fine-Grained_Object_Understanding_ICCV_2023_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Zhu_EgoObjects_A_Large-Scale_Egocentric_Dataset_for_Fine-Grained_Object_Understanding_ICCV_2023_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/facebookresearch/EgoObjects) ⚠️ Archived
@@ -748,7 +748,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * **EgoVerse** (2026) — 1,362 h of egocentric human demonstrations spanning \~80K episodes and 1,965 tasks for robot learning from human manipulation experience.
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 513 | 🐛 148 | 🌐 Jupyter Notebook | 📅 2026-08-13
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 515 | 🐛 147 | 🌐 Jupyter Notebook | 📅 2026-08-14
 
 * \[⭐️] **EgoExoLearn** (2024) — 120 h ego+exo; Procedural, async views.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/OpenGVLab/EgoExoLearn) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2025-08-26 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/hyf015/EgoExoLearn)
@@ -897,14 +897,14 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 
 | Name                  | Description                                                                      | Link                                                                                                            |
 | --------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Ego4D CLI             | Official downloader and tooling for accessing Ego4D releases.                    | [GitHub](https://github.com/facebookresearch/Ego4d) ⭐ 635 \| 🐛 68 \| 🌐 Jupyter Notebook \| 📅 2026-07-25      |
+| Ego4D CLI             | Official downloader and tooling for accessing Ego4D releases.                    | [GitHub](https://github.com/facebookresearch/Ego4d) ⭐ 635 \| 🐛 71 \| 🌐 Jupyter Notebook \| 📅 2026-07-25      |
 | HOMIE-toolkit         | Toolkit released with Ropedia Xperience-10M for large-scale multimodal ego data. | [GitHub](https://github.com/Ropedia/HOMIE-toolkit) ⭐ 110 \| 🐛 0 \| 🌐 Python \| 📅 2026-06-11                  |
-| AssemblyHands Toolkit | Official toolkit for the AssemblyHands benchmark.                                | [GitHub](https://github.com/facebookresearch/assemblyhands-toolkit) ⭐ 135 \| 🐛 5 \| 🌐 Python \| 📅 2026-05-25 |
+| AssemblyHands Toolkit | Official toolkit for the AssemblyHands benchmark.                                | [GitHub](https://github.com/facebookresearch/assemblyhands-toolkit) ⭐ 137 \| 🐛 5 \| 🌐 Python \| 📅 2026-05-25 |
 | TREK-150 Toolkit      | Toolkit for the TREK-150 egocentric tracking benchmark.                          | [GitHub](https://github.com/matteo-dunnhofer/TREK-150-toolkit) ⭐ 12 \| 🐛 0 \| 🌐 Python \| 📅 2025-08-12       |
 
 ## 🔗 Related Awesome Lists
 
-* [awesome-egocentric-vision](https://github.com/Sid2697/awesome-egocentric-vision) ⭐ 336 | 🐛 3 | 📅 2026-07-06
+* [awesome-egocentric-vision](https://github.com/Sid2697/awesome-egocentric-vision) ⭐ 337 | 🐛 3 | 📅 2026-07-06
 * [Awesome-Egocentric](https://github.com/EgoAlpha/Awesome-Egocentric) ⭐ 53 | 🐛 1 | 📅 2023-10-27
 * [Awesome-Egocentric-and-Exocentric-Vision](https://github.com/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision) ⭐ 42 | 🐛 2 | 📅 2025-11-14
 
@@ -925,4 +925,4 @@ If you have suggestions, dataset updates, or find this project useful, feel free
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
