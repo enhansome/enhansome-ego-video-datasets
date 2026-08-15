@@ -87,7 +87,7 @@
             "last_commit": "2025-03-19T01:42:16Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -958,10 +958,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T20:50:40Z",
+            "last_commit": "2026-08-15T20:57:15Z",
             "owner": "GaTech-RL2",
             "repo": "EgoVerse",
-            "stars": 515
+            "stars": 520
           }
         },
         {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:02:58.521Z",
+    "last_updated": "2026-08-15T20:59:51.834Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
