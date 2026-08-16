@@ -958,10 +958,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T20:57:15Z",
+            "last_commit": "2026-08-15T22:58:32Z",
             "owner": "GaTech-RL2",
             "repo": "EgoVerse",
-            "stars": 520
+            "stars": 521
           }
         },
         {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:59:51.834Z",
+    "last_updated": "2026-08-16T20:59:07.547Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
