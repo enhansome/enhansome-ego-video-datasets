@@ -38,7 +38,7 @@
             "last_commit": "2026-06-11T12:06:53Z",
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 110
+            "stars": 112
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-06-23T04:43:09Z",
             "owner": "chenyt31",
             "repo": "Wh0",
-            "stars": 22
+            "stars": 23
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2025-03-19T01:42:16Z",
             "owner": "EvolvingLMMs-Lab",
             "repo": "EgoLife",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -384,8 +384,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2026-06-23T13:25:12Z",
+            "language": "Python",
+            "last_commit": "2026-08-18T14:05:12Z",
             "owner": "shunya-kato",
             "repo": "LongEgoRefer",
             "stars": 0
@@ -465,7 +465,7 @@
             "last_commit": "2026-07-25T16:23:16Z",
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -668,7 +668,7 @@
             "last_commit": "2025-08-20T20:41:20Z",
             "owner": "apple",
             "repo": "ml-egodex",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -958,10 +958,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T17:23:21Z",
+            "last_commit": "2026-08-18T14:33:21Z",
             "owner": "GaTech-RL2",
             "repo": "EgoVerse",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -1166,7 +1166,7 @@
             "last_commit": "2026-07-06T16:41:29Z",
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:03:47.894Z",
+    "last_updated": "2026-08-18T21:01:06.543Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
