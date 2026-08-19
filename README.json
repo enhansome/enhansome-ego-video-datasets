@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 1273133764,
                 "language": "Python",
-                "last_commit": "2026-06-23T04:43:09Z",
+                "last_commit": "2026-08-19T14:17:09Z",
                 "owner": "chenyt31",
                 "repo": "Wh0",
                 "stars": 23
@@ -964,7 +964,7 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-18T21:58:59Z",
+                "last_commit": "2026-08-19T18:24:30Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 524
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:58.782Z",
+    "last_updated": "2026-08-19T21:04:03.245Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
