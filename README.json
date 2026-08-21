@@ -75,7 +75,7 @@
                 "last_commit": "2025-03-19T01:42:16Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -506,7 +506,7 @@
                 "last_commit": "2025-04-08T03:19:09Z",
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -669,7 +669,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 370
+                "stars": 373
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2024-02-26T21:34:43Z",
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -801,10 +801,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:43:12Z",
+                "last_commit": "2026-08-21T04:53:29Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 35
+                "stars": 36
               }
             },
             {
@@ -819,7 +819,7 @@
                 "last_commit": "2026-08-03T17:04:17Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 32
+                "stars": 33
               }
             },
             {
@@ -964,10 +964,10 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T20:48:11Z",
+                "last_commit": "2026-08-21T20:20:14Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-07-06T16:41:29Z",
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -1209,7 +1209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:05:16.040Z",
+    "last_updated": "2026-08-21T21:01:25.923Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
