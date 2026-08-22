@@ -7,6 +7,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Open-AoE (2026) — ~2,000 h of smartphone-collected manipulation video from 500+ contributors with bilingual text, MANO hand pose, camera trajectory, and atomic-action annotations, plus capture-to-training tools for VLA and world-model research.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291871738,
+                "language": "Python",
+                "last_commit": "2026-07-31T04:06:02Z",
+                "owner": "ant-research",
+                "repo": "Open-AoE",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
               "title": "EgoVid-5M (2024) — 5M first-person clips curated for text-and-motion-conditioned video generation from wearable footage.",
               "description": null,
               "children": [],
@@ -32,7 +47,7 @@
                 "last_commit": "2026-06-11T12:06:53Z",
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 112
+                "stars": 113
               }
             },
             {
@@ -106,6 +121,21 @@
                 "owner": "egoschema",
                 "repo": "EgoSchema",
                 "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoServe (2026) — 3K+ manually verified proactive-service instances over EgoLife, HoloAssist, and CaptainCook4D, organized into 10 assistance categories and four temporal horizons from instant alerts to multi-day habit coaching.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1275860673,
+                "language": "Python",
+                "last_commit": "2026-07-14T12:09:25Z",
+                "owner": "SitongGong",
+                "repo": "EgoMemo",
+                "stars": 15
               }
             },
             {
@@ -213,6 +243,21 @@
             },
             {
               "node_type": "item",
+              "title": "HumanCLAW-Bench (2026) — 1,218 long-horizon find–navigate–interact episodes across 41 simulated indoor scenes for evaluating whether VLMs can select and sequence actions from a continuously updated egocentric body view.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1309535034,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:01:25Z",
+                "owner": "Human-CLAW",
+                "repo": "HumanCLAW",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
               "title": "EgoTaskQA (2022) — ~2K videos / 40K QA; Causal & task QA.",
               "description": null,
               "children": [],
@@ -288,6 +333,21 @@
             },
             {
               "node_type": "item",
+              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297943021,
+                "language": "Python",
+                "last_commit": "2026-08-13T11:07:13Z",
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Causal-Plan-1M (2026) — 1M QA pairs with four-stage causal reasoning-trace annotations over 22,201 egocentric clips (770+ h curated from Ego4D, EPIC-KITCHENS, HoloAssist, MECCANO, and others), plus the 1,200-instance Causal-Plan-Bench for physically grounded embodied planning.",
               "description": null,
               "children": [],
@@ -344,6 +404,21 @@
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
                 "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrossView (2026) — ~6K multi-camera video questions across autonomous driving, surveillance, ego/exo activity, and robotics, including 4–7 synchronized Ego-Exo4D cameras per egocentric question.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1279657246,
+                "language": "Python",
+                "last_commit": "2026-06-30T19:32:34Z",
+                "owner": "UTAustin-SwarmLab",
+                "repo": "CrossView",
+                "stars": 1
               }
             },
             {
@@ -477,6 +552,21 @@
                 "owner": "epic-kitchens",
                 "repo": "epic-kitchens-100-annotations",
                 "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "World In Your Hands (2025) — 1000+ h of labeled human manipulation data with video-language annotations for action understanding, dexterous transfer, and VLA training.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1119309642,
+                "language": "Python",
+                "last_commit": "2026-05-10T14:26:19Z",
+                "owner": "tars-robotics",
+                "repo": "World-In-Your-Hands",
+                "stars": 127
               }
             },
             {
@@ -643,6 +733,21 @@
                 "repo": "EgoCampus",
                 "stars": 7
               }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoPolice (2026) — 180+ h of real police body-worn camera footage with second-by-second annotations for nine high-stakes police/civilian action classes, classification folds, and multiple-choice VideoQA.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277262891,
+                "language": "JavaScript",
+                "last_commit": "2026-07-24T00:38:35Z",
+                "owner": "princetonvisualai",
+                "repo": "EgoPolice",
+                "stars": 4
+              }
             }
           ],
           "description": null,
@@ -714,7 +819,7 @@
                 "last_commit": "2026-05-25T08:36:08Z",
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 137
+                "stars": 138
               }
             },
             {
@@ -804,7 +909,7 @@
                 "last_commit": "2026-08-21T04:53:29Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -964,10 +1069,10 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T20:20:14Z",
+                "last_commit": "2026-08-22T03:21:24Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 525
+                "stars": 524
               }
             },
             {
@@ -1097,7 +1202,7 @@
                 "archived": false,
                 "id": 1251885652,
                 "language": "Python",
-                "last_commit": "2026-06-24T12:26:42Z",
+                "last_commit": "2026-08-22T11:42:29Z",
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
                 "stars": 50
@@ -1209,10 +1314,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:01:25.923Z",
+    "last_updated": "2026-08-22T21:00:12.870Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
-    "original_repository_sha": "e1b91de782df763537bd60e57453769c684430bb",
+    "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
     "title": "🎥 Awesome Egocentric Video Datasets with stars"
