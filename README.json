@@ -238,7 +238,7 @@
                 "last_commit": "2026-04-28T16:47:31Z",
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 95
+                "stars": 96
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -906,7 +906,7 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-21T04:53:29Z",
+                "last_commit": "2026-08-23T09:37:02Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 37
@@ -1069,7 +1069,7 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-22T03:21:24Z",
+                "last_commit": "2026-08-23T20:37:10Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 524
@@ -1202,10 +1202,10 @@
                 "archived": false,
                 "id": 1251885652,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:42:29Z",
+                "last_commit": "2026-08-23T15:19:34Z",
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 50
+                "stars": 52
               }
             },
             {
@@ -1314,7 +1314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:00:12.870Z",
+    "last_updated": "2026-08-23T20:59:07.444Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
