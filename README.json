@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Open-AoE",
+              "description": "2026 ~2,000 h / 500+ contributors Manipulation pretraining, data toolchain Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291871738,
+                "language": "Python",
+                "last_commit": "2026-07-31T04:06:02Z",
+                "owner": "ant-research",
+                "repo": "Open-AoE",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Open-AoE (2026) — ~2,000 h of smartphone-collected manipulation video from 500+ contributors with bilingual text, MANO hand pose, camera trajectory, and atomic-action annotations, plus capture-to-training tools for VLA and world-model research.",
               "description": null,
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-07-31T04:06:02Z",
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 149
+                "stars": 151
               }
             },
             {
@@ -62,7 +84,7 @@
                 "last_commit": "2026-08-19T14:17:09Z",
                 "owner": "chenyt31",
                 "repo": "Wh0",
-                "stars": 23
+                "stars": 24
               }
             }
           ],
@@ -80,6 +102,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "EgoExoMem",
+              "description": "2026 2.6K MCQs / 390 videos Cross-view memory reasoning Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1242727260,
+                "language": "Python",
+                "last_commit": "2026-06-29T20:55:26Z",
+                "owner": "RuipingL",
+                "repo": "EgoExoMem",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Ego",
+              "description": "2022 ~12 h / 41 seq. Multi-wearer, summarization Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159887909,
+                "language": null,
+                "last_commit": "2019-11-25T17:53:53Z",
+                "owner": "M-Elfeki",
+                "repo": "Multi-DPP",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "[⭐️] EgoLife (2025) — ~266-300 h of daily-life capture in EgoHouse with Meta Aria, third-person cameras, and mmWave sensors for persistent assistant memory.",
               "description": null,
               "children": [],
@@ -90,7 +149,7 @@
                 "last_commit": "2025-03-19T01:42:16Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 458
+                "stars": 457
               }
             },
             {
@@ -202,6 +261,28 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoExoMem",
+              "description": "Cross-view memory reasoning over synchronized ego-exo videos EgoExo4D / LEMMA GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1242727260,
+                "language": "Python",
+                "last_commit": "2026-06-29T20:55:26Z",
+                "owner": "RuipingL",
+                "repo": "EgoExoMem",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "🧠 Memory, Summarization & Long-form Understanding"
@@ -209,6 +290,178 @@
     {
       "description": "These datasets target egocentric video-language pretraining, instruction following, dialog, and question answering over first-person streams.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ EgoClip",
+              "description": "2022 3.8M clip–text pairs Video-language pretraining Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498228650,
+                "language": "Python",
+                "last_commit": "2024-05-09T05:52:12Z",
+                "owner": "showlab",
+                "repo": "EgoVLP",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VIABench",
+              "description": "2026 761 videos / 46.9 h / 14.5K annotations Visual-impairment assistance Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297943021,
+                "language": "Python",
+                "last_commit": "2026-08-13T11:07:13Z",
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongEgoRefer",
+              "description": "2026 1,498 refs / avg. 45 min Long-form video REC, grounding Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277961801,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:05:12Z",
+                "owner": "shunya-kato",
+                "repo": "LongEgoRefer",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoGapBench",
+              "description": "2026 1,000 action-selection items Egocentric action selection Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283524315,
+                "language": "Python",
+                "last_commit": "2026-08-05T00:51:30Z",
+                "owner": "jhCOR",
+                "repo": "EgoGapBench",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minerva-Ego",
+              "description": "2026 1,160 QA / 156 videos Spatiotemporal reasoning traces Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855266292,
+                "language": null,
+                "last_commit": "2026-04-28T16:47:31Z",
+                "owner": "google-deepmind",
+                "repo": "neptune",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyEgo",
+              "description": "2026 541 long videos / 5K QA Personalized VideoQA, ego-grounding Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1099728320,
+                "language": "Python",
+                "last_commit": "2026-04-03T13:12:20Z",
+                "owner": "Ryougetsu3606",
+                "repo": "MyEgo",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LifeDialBench / EgoMem",
+              "description": "2026 EgoMem + LifeMem (coming soon) Lifelog memory, online eval Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209173604,
+                "language": null,
+                "last_commit": "2026-05-16T07:54:23Z",
+                "owner": "RayNeo-AI-2025",
+                "repo": "LifeDialBench",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pause-and-Think",
+              "description": "2026 10K QA clips + 300-sample benchmark Assistive action suggestion Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1236301383,
+                "language": "Python",
+                "last_commit": "2026-06-30T03:01:54Z",
+                "owner": "sssshivvvv",
+                "repo": "pause-and-think",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEMS",
+              "description": "2025 20+ h emergency scenarios EMS QA, multimodal Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846129082,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-11T19:01:36Z",
+                "owner": "UVA-DSA",
+                "repo": "EgoEMS",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HowToDIV",
+              "description": "2025 ~24 h instructional Dialog, procedural QA Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028069520,
+                "language": "Python",
+                "last_commit": "2025-08-19T05:41:51Z",
+                "owner": "google",
+                "repo": "howtodiv",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistQ",
+              "description": "2022 100 long videos / 529 QA Instructional QA Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467488029,
+                "language": "SCSS",
+                "last_commit": "2022-06-21T01:43:43Z",
+                "owner": "showlab",
+                "repo": "assistq",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
         {
           "children": [
             {
@@ -515,6 +768,178 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VIABench",
+              "description": "Proactive reminder, VQA, and vision-guided assistance VIABench GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297943021,
+                "language": "Python",
+                "last_commit": "2026-08-13T11:07:13Z",
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongEgoRefer",
+              "description": "Long-form egocentric spatiotemporal referring expression comprehension Ego4D GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277961801,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:05:12Z",
+                "owner": "shunya-kato",
+                "repo": "LongEgoRefer",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoGapBench",
+              "description": "Egocentric action selection in multi-agent scenes EgoGapBench GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283524315,
+                "language": "Python",
+                "last_commit": "2026-08-05T00:51:30Z",
+                "owner": "jhCOR",
+                "repo": "EgoGapBench",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minerva-Ego",
+              "description": "Egocentric multi-step VideoQA with spatiotemporal reasoning traces HD-EPIC GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855266292,
+                "language": null,
+                "last_commit": "2026-04-28T16:47:31Z",
+                "owner": "google-deepmind",
+                "repo": "neptune",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyEgo",
+              "description": "Personalized egocentric VideoQA MyEgo GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1099728320,
+                "language": "Python",
+                "last_commit": "2026-04-03T13:12:20Z",
+                "owner": "Ryougetsu3606",
+                "repo": "MyEgo",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LifeDialBench / EgoMem",
+              "description": "Lifelog memory and online evaluation EgoMem GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209173604,
+                "language": null,
+                "last_commit": "2026-05-16T07:54:23Z",
+                "owner": "RayNeo-AI-2025",
+                "repo": "LifeDialBench",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoExoBench",
+              "description": "Cross-perspective video understanding in MLLMs Ego-Exo4D / LEMMA / EgoExoLearn / TF2023 / EgoMe / CVMHAT GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998431125,
+                "language": "Python",
+                "last_commit": "2025-11-13T07:36:35Z",
+                "owner": "ayiyayi",
+                "repo": "EgoExoBench",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEMS",
+              "description": "EMS QA, multimodal assessment EgoEMS GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846129082,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-11T19:01:36Z",
+                "owner": "UVA-DSA",
+                "repo": "EgoEMS",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HowToDIV",
+              "description": "Multi-turn instructional dialog & QA HowToDIV GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028069520,
+                "language": "Python",
+                "last_commit": "2025-08-19T05:41:51Z",
+                "owner": "google",
+                "repo": "howtodiv",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AssistQ",
+              "description": "Instructional affordance-centric QA AssistQ GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467488029,
+                "language": "SCSS",
+                "last_commit": "2022-06-21T01:43:43Z",
+                "owner": "showlab",
+                "repo": "assistq",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pause-and-Think",
+              "description": "Video-grounded assistive action suggestion EPIC-KITCHENS / Ego4D / Assembly101 GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1236301383,
+                "language": "Python",
+                "last_commit": "2026-06-30T03:01:54Z",
+                "owner": "sssshivvvv",
+                "repo": "pause-and-think",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "💬 VLMs, Instructions & QA"
@@ -522,6 +947,148 @@
     {
       "description": "Canonical action-recognition, activity-analysis, affect, and interaction datasets built around first-person human behavior live here.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoPolice",
+              "description": "2026 180+ h / 9 action classes Body-camera action recognition, VideoQA Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277262891,
+                "language": "JavaScript",
+                "last_commit": "2026-07-24T00:38:35Z",
+                "owner": "princetonvisualai",
+                "repo": "EgoPolice",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "World In Your Hands",
+              "description": "2025 1000+ h labeled manipulation (paper) Action, dexterous transfer, VLA training Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1119309642,
+                "language": "Python",
+                "last_commit": "2026-05-10T14:26:19Z",
+                "owner": "tars-robotics",
+                "repo": "World-In-Your-Hands",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoCampus",
+              "description": "2025 ~32 h / campus paths (paper) Gaze, pedestrian ego Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1109495848,
+                "language": "Python",
+                "last_commit": "2026-07-27T21:36:01Z",
+                "owner": "ComputerVisionRutgers",
+                "repo": "EgoCampus",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoSurgery (Phase / Tool / HTS)",
+              "description": "2024 Open-surgery ego video Phase, tools, segmentation Phase / Tool / HTS GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806515167,
+                "language": null,
+                "last_commit": "2024-11-25T03:12:14Z",
+                "owner": "Fujiry0",
+                "repo": "EgoSurgery",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoExo-Fitness",
+              "description": "2024 32 h / 1,276 seq. Full-body action, quality assessment Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814056873,
+                "language": "Python",
+                "last_commit": "2025-04-08T03:19:09Z",
+                "owner": "iSEE-Laboratory",
+                "repo": "EgoExo-Fitness",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "E³ (Exploring Embodied Emotion)",
+              "description": "2024 50+ h Emotion, multimodal ego Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814932431,
+                "language": "Python",
+                "last_commit": "2025-07-01T09:44:38Z",
+                "owner": "Exploring-Embodied-Emotion-official",
+                "repo": "E3",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Epic-Sounding-Object",
+              "description": "2023 3.2K short clips Audio-visual localization Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611455432,
+                "language": "Python",
+                "last_commit": "2024-01-06T03:05:07Z",
+                "owner": "WikiChao",
+                "repo": "Ego-AV-Loc",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "N-EPIC-KITCHENS",
+              "description": "2022 Event + RGB subset Action, neuromorphic Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471533029,
+                "language": "Shell",
+                "last_commit": "2022-05-10T21:11:58Z",
+                "owner": "EgocentricVision",
+                "repo": "N-EPIC-Kitchens",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoCom",
+              "description": "2020 38.5 h conversation Multiperson ego dialog Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 310120914,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-11-23T16:45:32Z",
+                "owner": "facebookresearch",
+                "repo": "EgoCom-Dataset",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
         {
           "children": [
             {
@@ -536,7 +1103,7 @@
                 "last_commit": "2026-07-25T16:23:16Z",
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 636
+                "stars": 638
               }
             },
             {
@@ -753,6 +1320,58 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoPolice",
+              "description": "High-stakes action classification and body-camera VideoQA EgoPolice GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1277262891,
+                "language": "JavaScript",
+                "last_commit": "2026-07-24T00:38:35Z",
+                "owner": "princetonvisualai",
+                "repo": "EgoPolice",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "E³ (Exploring Embodied Emotion)",
+              "description": "Emotion recognition, classification, localization, reasoning E³ GitHub Standalone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814932431,
+                "language": "Python",
+                "last_commit": "2025-07-01T09:44:38Z",
+                "owner": "Exploring-Embodied-Emotion-official",
+                "repo": "E3",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoExo-Fitness",
+              "description": "Action localization, cross-view verification, skill determination EgoExo-Fitness GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814056873,
+                "language": "Python",
+                "last_commit": "2025-04-08T03:19:09Z",
+                "owner": "iSEE-Laboratory",
+                "repo": "EgoExo-Fitness",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "🏃 Action & Activity Recognition"
@@ -760,6 +1379,133 @@
     {
       "description": "This section focuses on egocentric hands, dexterous manipulation, object interaction, tracking, and dense 3D understanding around the body and manipulated objects.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ EgoDex",
+              "description": "2025 829 h / 30K trajectories Dexterous manipulation, pose Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1041036182,
+                "language": "Python",
+                "last_commit": "2025-08-20T20:41:20Z",
+                "owner": "apple",
+                "repo": "ml-egodex",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EventEgoHands",
+              "description": "2026 48 clips / 129.6K frames RGB+event hand detection Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990574157,
+                "language": "Python",
+                "last_commit": "2025-05-26T10:54:23Z",
+                "owner": "SynthSyntax",
+                "repo": "EventEgoHands",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEVHands",
+              "description": "2026 5,419 annotated seq. Stereo event 3D hand pose, gesture Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1202973396,
+                "language": null,
+                "last_commit": "2026-05-18T02:14:30Z",
+                "owner": "ZJUWang01",
+                "repo": "EgoEv-HandPose",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEMG",
+              "description": "2026 41 participants / 10+ h EMG + vision hand pose Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231599062,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:37:02Z",
+                "owner": "zhenqis123",
+                "repo": "EgoEMG",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoPoints",
+              "description": "2025 Point tracks + synthetic Tracking in ego video Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898532450,
+                "language": "Python",
+                "last_commit": "2025-03-20T10:33:17Z",
+                "owner": "AhmadDarKhalil",
+                "repo": "EgoPoints",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoObjects",
+              "description": "2023 9.2K+ videos Detection, instance seg Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 678119842,
+                "language": "Python",
+                "last_commit": "2023-10-06T10:01:35Z",
+                "owner": "facebookresearch",
+                "repo": "EgoObjects",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoHOS",
+              "description": "2022 11K+ images Hand–object segmentation Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 490034337,
+                "language": "Python",
+                "last_commit": "2024-02-26T21:34:43Z",
+                "owner": "owenzlz",
+                "repo": "EgoHOS",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "You2Me",
+              "description": "2020 14 seq., chest-mounted GoPro Body pose via ego–exo interaction Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 264275265,
+                "language": "Python",
+                "last_commit": "2021-08-31T19:27:18Z",
+                "owner": "facebookresearch",
+                "repo": "you2me",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
         {
           "children": [
             {
@@ -1051,6 +1797,58 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoEMG",
+              "description": "EMG-to-pose, vision-to-pose, and EMG+vision fusion EgoEMG GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231599062,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:37:02Z",
+                "owner": "zhenqis123",
+                "repo": "EgoEMG",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEVHands",
+              "description": "Stereo event 3D hand pose and gesture recognition EgoEVHands GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1202973396,
+                "language": null,
+                "last_commit": "2026-05-18T02:14:30Z",
+                "owner": "ZJUWang01",
+                "repo": "EgoEv-HandPose",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EventEgoHands",
+              "description": "Multimodal RGB-event egocentric hand detection EventEgoHands (from EgoHands) GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990574157,
+                "language": "Python",
+                "last_commit": "2025-05-26T10:54:23Z",
+                "owner": "SynthSyntax",
+                "repo": "EventEgoHands",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "✋ Hand–Object Interaction, Dexterity & 3D"
@@ -1062,6 +1860,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "⭐ EgoExoLearn",
+              "description": "2024 120 h ego+exo Procedural, async views Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 774702414,
+                "language": "Python",
+                "last_commit": "2025-08-26T05:59:00Z",
+                "owner": "OpenGVLab",
+                "repo": "EgoExoLearn",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EgoYC2 / Exo2EgoDVC",
+              "description": "2025 ~43 h cooking Dense captioning, procedural Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 898898039,
+                "language": "Python",
+                "last_commit": "2025-02-05T11:52:35Z",
+                "owner": "ut-vision",
+                "repo": "Exo2EgoDVC",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
               "description": null,
               "children": [],
@@ -1069,7 +1904,7 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-23T20:37:10Z",
+                "last_commit": "2026-08-24T05:15:13Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 524
@@ -1165,6 +2000,43 @@
           "children": [
             {
               "node_type": "item",
+              "title": "EgoTraj",
+              "description": "2026 10.7 h / 1.15M frames Egocentric trajectory prediction Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198622402,
+                "language": "Python",
+                "last_commit": "2026-08-04T14:42:56Z",
+                "owner": "yehiahmad",
+                "repo": "EgoTraj",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OST",
+              "description": "2017 57 sequences, 55 subjects, ~15 min/video, egocentric object search tasks, eye-tracking ground truth 3d scene understanding & localization Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85726369,
+                "language": "Lua",
+                "last_commit": "2020-03-12T22:39:41Z",
+                "owner": "Mengmi",
+                "repo": "deepfuturegaze_gan",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets at a glance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DR(eye)VE (2018) — ~6 h driving, 555K frames; Gaze prediction, driving ego video.",
               "description": null,
               "children": [],
@@ -1190,7 +2062,7 @@
                 "last_commit": "2024-04-30T17:07:04Z",
                 "owner": "LilyDaytoy",
                 "repo": "OpenPVSG",
-                "stars": 104
+                "stars": 103
               }
             },
             {
@@ -1205,7 +2077,7 @@
                 "last_commit": "2026-08-23T15:19:34Z",
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -1257,9 +2129,112 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoTraj",
+              "description": "Egocentric multimodal trajectory forecasting EgoTraj GitHub Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1198622402,
+                "language": "Python",
+                "last_commit": "2026-08-04T14:42:56Z",
+                "owner": "yehiahmad",
+                "repo": "EgoTraj",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "🗺️ 3D Scene Understanding & Localization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ego4D CLI",
+          "description": "Official downloader and tooling for accessing Ego4D releases. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 431206320,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-25T16:23:16Z",
+            "owner": "facebookresearch",
+            "repo": "Ego4d",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HOMIE-toolkit",
+          "description": "Toolkit released with Ropedia Xperience-10M for large-scale multimodal ego data. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183184813,
+            "language": "Python",
+            "last_commit": "2026-06-11T12:06:53Z",
+            "owner": "Ropedia",
+            "repo": "HOMIE-toolkit",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-AoE Toolchain",
+          "description": "Smartphone capture, reconstruction, visualization, retargeting, and model-ready conversion for Open-AoE. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291871738,
+            "language": "Python",
+            "last_commit": "2026-07-31T04:06:02Z",
+            "owner": "ant-research",
+            "repo": "Open-AoE",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssemblyHands Toolkit",
+          "description": "Official toolkit for the AssemblyHands benchmark. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642703702,
+            "language": "Python",
+            "last_commit": "2026-05-25T08:36:08Z",
+            "owner": "facebookresearch",
+            "repo": "assemblyhands-toolkit",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TREK-150 Toolkit",
+          "description": "Toolkit for the TREK-150 egocentric tracking benchmark. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 401608788,
+            "language": "Python",
+            "last_commit": "2025-08-12T00:59:32Z",
+            "owner": "matteo-dunnhofer",
+            "repo": "fpv-tracking-toolkit",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "🛠️ Tools & Libraries"
     },
     {
       "description": null,
@@ -1276,7 +2251,7 @@
             "last_commit": "2026-07-06T16:41:29Z",
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 340
+            "stars": 342
           }
         },
         {
@@ -1291,7 +2266,7 @@
             "last_commit": "2023-10-27T04:57:11Z",
             "owner": "EgoAlpha",
             "repo": "Awesome-Egocentric",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -1306,7 +2281,7 @@
             "last_commit": "2025-11-14T11:49:07Z",
             "owner": "ayiyayi",
             "repo": "Awesome-Egocentric-and-Exocentric-Vision",
-            "stars": 42
+            "stars": 43
           }
         }
       ],
@@ -1314,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:59:07.444Z",
+    "last_updated": "2026-08-24T14:35:28.468Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
