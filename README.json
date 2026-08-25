@@ -1435,10 +1435,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:37:02Z",
+                "last_commit": "2026-08-25T14:38:50Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -1652,10 +1652,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:37:02Z",
+                "last_commit": "2026-08-25T14:38:50Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -1670,7 +1670,7 @@
                 "last_commit": "2026-08-24T15:04:41Z",
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -1809,10 +1809,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:37:02Z",
+                "last_commit": "2026-08-25T14:38:50Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -1904,7 +1904,7 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T06:14:12Z",
+                "last_commit": "2026-08-25T20:47:35Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 525
@@ -2074,7 +2074,7 @@
                 "archived": false,
                 "id": 1251885652,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:19:34Z",
+                "last_commit": "2026-08-25T21:02:33Z",
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
                 "stars": 53
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:19.368Z",
+    "last_updated": "2026-08-25T21:04:24.876Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
