@@ -1103,7 +1103,7 @@
                 "last_commit": "2026-07-25T16:23:16Z",
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 638
+                "stars": 639
               }
             },
             {
@@ -1904,10 +1904,10 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T20:50:07Z",
+                "last_commit": "2026-08-25T06:14:12Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -2170,7 +2170,7 @@
             "last_commit": "2026-07-25T16:23:16Z",
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 638
+            "stars": 639
           }
         },
         {
@@ -2289,7 +2289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:06:54.721Z",
+    "last_updated": "2026-08-25T06:26:19.368Z",
     "original_repository": "player0718/awesome-ego-video-datasets",
     "original_repository_id": 1188023612,
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
