@@ -179,7 +179,7 @@
                 "last_commit": "2024-12-30T13:53:24Z",
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -1393,7 +1393,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 375
+                "stars": 376
               }
             },
             {
@@ -1435,10 +1435,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:09:59Z",
+                "last_commit": "2026-08-27T10:12:42Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -1520,7 +1520,7 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 375
+                "stars": 376
               }
             },
             {
@@ -1535,7 +1535,7 @@
                 "last_commit": "2019-02-20T17:41:37Z",
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 271
+                "stars": 272
               }
             },
             {
@@ -1652,10 +1652,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:09:59Z",
+                "last_commit": "2026-08-27T10:12:42Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -1809,10 +1809,10 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:09:59Z",
+                "last_commit": "2026-08-27T10:12:42Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -1904,7 +1904,7 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T22:22:19Z",
+                "last_commit": "2026-08-27T08:52:08Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 527
@@ -2289,9 +2289,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:15:05.968Z",
-    "original_repository": "player0718/awesome-ego-video-datasets",
-    "original_repository_id": 1188023612,
+    "last_updated": "2026-08-27T11:36:39.882Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1188023612,
+      "language": null,
+      "last_commit": "2026-08-22T07:24:58Z",
+      "owner": "player0718",
+      "repo": "awesome-ego-video-datasets",
+      "stars": 210
+    },
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
