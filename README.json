@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-31T04:06:02Z",
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 155
-              }
+                "stars": 156
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-07-31T04:06:02Z",
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 155
-              }
+                "stars": 156
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "JeffWang987",
                 "repo": "EgoVid",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "chenyt31",
                 "repo": "Wh0",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -113,7 +118,8 @@
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -128,7 +134,8 @@
                 "owner": "M-Elfeki",
                 "repo": "Multi-DPP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -150,7 +157,8 @@
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
                 "stars": 458
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "antoyang",
                 "repo": "VidChapters",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "egoschema",
                 "repo": "EgoSchema",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "Ziyang412",
                 "repo": "EgoMemReason",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "KangsanKim07",
                 "repo": "MA-EgoQA",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "M-Elfeki",
                 "repo": "Multi-DPP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -305,7 +321,8 @@
                 "owner": "showlab",
                 "repo": "EgoVLP",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -320,7 +337,8 @@
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -335,7 +353,8 @@
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -350,7 +369,8 @@
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -365,7 +385,8 @@
                 "owner": "google-deepmind",
                 "repo": "neptune",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -395,7 +417,8 @@
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "google",
                 "repo": "howtodiv",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -455,7 +481,8 @@
                 "owner": "showlab",
                 "repo": "assistq",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -477,7 +504,8 @@
                 "owner": "showlab",
                 "repo": "EgoVLP",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -492,7 +520,8 @@
                 "owner": "google-deepmind",
                 "repo": "neptune",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -506,8 +535,9 @@
                 "last_commit": "2026-08-19T08:01:25Z",
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 84
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -522,7 +552,8 @@
                 "owner": "Buzz-Beater",
                 "repo": "EgoTaskQA",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -537,7 +568,8 @@
                 "owner": "hd-epic",
                 "repo": "hd-epic-annotations",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -552,7 +584,8 @@
                 "owner": "Yui010206",
                 "repo": "Ego2Web",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -567,7 +600,8 @@
                 "owner": "google",
                 "repo": "howtodiv",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -582,7 +616,8 @@
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -597,7 +632,8 @@
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -612,7 +648,8 @@
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -627,7 +664,8 @@
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -642,7 +680,8 @@
                 "owner": "leiyj23",
                 "repo": "EgoSAT",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -657,7 +696,8 @@
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -672,7 +712,8 @@
                 "owner": "UTAustin-SwarmLab",
                 "repo": "CrossView",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -687,7 +728,8 @@
                 "owner": "HATS-ICT",
                 "repo": "GameplayQA",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -702,7 +744,8 @@
                 "owner": "showlab",
                 "repo": "assistq",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -717,7 +760,8 @@
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -732,7 +776,8 @@
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -747,7 +792,8 @@
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -762,7 +808,8 @@
                 "owner": "DStardust",
                 "repo": "EgoCoT",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -784,7 +831,8 @@
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -799,7 +847,8 @@
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -814,7 +863,8 @@
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -829,7 +879,8 @@
                 "owner": "google-deepmind",
                 "repo": "neptune",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -844,7 +895,8 @@
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -859,7 +911,8 @@
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -874,7 +927,8 @@
                 "owner": "ayiyayi",
                 "repo": "EgoExoBench",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -889,7 +943,8 @@
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -904,7 +959,8 @@
                 "owner": "google",
                 "repo": "howtodiv",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -919,7 +975,8 @@
                 "owner": "showlab",
                 "repo": "assistq",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -934,7 +991,8 @@
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -962,7 +1020,8 @@
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -976,8 +1035,9 @@
                 "last_commit": "2026-05-10T14:26:19Z",
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1052,8 @@
                 "owner": "ComputerVisionRutgers",
                 "repo": "EgoCampus",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1068,8 @@
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1084,8 @@
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1100,8 @@
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1052,7 +1116,8 @@
                 "owner": "WikiChao",
                 "repo": "Ego-AV-Loc",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1067,7 +1132,8 @@
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1082,7 +1148,8 @@
                 "owner": "facebookresearch",
                 "repo": "EgoCom-Dataset",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1104,7 +1171,8 @@
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
                 "stars": 639
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1119,7 +1187,8 @@
                 "owner": "epic-kitchens",
                 "repo": "epic-kitchens-100-annotations",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1133,8 +1202,9 @@
                 "last_commit": "2026-05-10T14:26:19Z",
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1149,7 +1219,8 @@
                 "owner": "facebookresearch",
                 "repo": "EgoCom-Dataset",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1164,7 +1235,8 @@
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1179,7 +1251,8 @@
                 "owner": "fpv-iplab",
                 "repo": "MECCANO",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1194,7 +1267,8 @@
                 "owner": "Buzz-Beater",
                 "repo": "LEMMA",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1209,7 +1283,8 @@
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1224,7 +1299,8 @@
                 "owner": "WikiChao",
                 "repo": "Ego-AV-Loc",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1239,7 +1315,8 @@
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1254,7 +1331,8 @@
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1269,7 +1347,8 @@
                 "owner": "nishantrai18",
                 "repo": "homage",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1284,7 +1363,8 @@
                 "owner": "Ember-HoloAssist",
                 "repo": "holoassist-release",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1299,7 +1379,8 @@
                 "owner": "ComputerVisionRutgers",
                 "repo": "EgoCampus",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1314,7 +1395,8 @@
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1336,7 +1418,8 @@
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1434,8 @@
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1450,8 @@
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1393,8 +1478,9 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 376
-              }
+                "stars": 377
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1409,7 +1495,8 @@
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1424,7 +1511,8 @@
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1435,11 +1523,12 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:12:42Z",
+                "last_commit": "2026-08-28T03:29:40Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 39
-              }
+                "stars": 43
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1454,7 +1543,8 @@
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1469,7 +1559,8 @@
                 "owner": "facebookresearch",
                 "repo": "EgoObjects",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1484,7 +1575,8 @@
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1499,7 +1591,8 @@
                 "owner": "facebookresearch",
                 "repo": "you2me",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1520,8 +1613,9 @@
                 "last_commit": "2025-08-20T20:41:20Z",
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 376
-              }
+                "stars": 377
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1630,8 @@
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1551,7 +1646,8 @@
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1566,7 +1662,8 @@
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1581,7 +1678,8 @@
                 "owner": "facebookresearch",
                 "repo": "EgoObjects",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1595,8 +1693,9 @@
                 "last_commit": "2026-05-21T08:29:33Z",
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 81
-              }
+                "stars": 80
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1611,7 +1710,8 @@
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1626,7 +1726,24 @@
                 "owner": "facebookresearch",
                 "repo": "you2me",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoEMG (2026) — 10+ h of synchronized bilateral EMG, IMU, egocentric RGB, external RGB-D, and mocap-derived hand pose across 41 participants and 60 gesture classes.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231599062,
+                "language": "Python",
+                "last_commit": "2026-08-28T03:29:40Z",
+                "owner": "zhenqis123",
+                "repo": "EgoEMG",
+                "stars": 43
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1641,22 +1758,8 @@
                 "owner": "fredfyyang",
                 "repo": "Touch-and-Go",
                 "stars": 41
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EgoEMG (2026) — 10+ h of synchronized bilateral EMG, IMU, egocentric RGB, external RGB-D, and mocap-derived hand pose across 41 participants and 60 gesture classes.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1231599062,
-                "language": "Python",
-                "last_commit": "2026-08-27T10:12:42Z",
-                "owner": "zhenqis123",
-                "repo": "EgoEMG",
-                "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1671,7 +1774,8 @@
                 "owner": "Sid2697",
                 "repo": "HOPformer",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1686,7 +1790,8 @@
                 "owner": "ai4ce",
                 "repo": "EgoPAT3D",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1701,7 +1806,8 @@
                 "owner": "BatFaceWayne",
                 "repo": "POV_Surgery",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1716,7 +1822,8 @@
                 "owner": "matteo-dunnhofer",
                 "repo": "fpv-tracking-toolkit",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1731,7 +1838,8 @@
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1746,7 +1854,8 @@
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1761,7 +1870,8 @@
                 "owner": "fpv-iplab",
                 "repo": "ENIGMA-51",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1776,7 +1886,8 @@
                 "owner": "epic-kitchens",
                 "repo": "VISOR",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1791,7 +1902,8 @@
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1809,11 +1921,12 @@
                 "archived": false,
                 "id": 1231599062,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:12:42Z",
+                "last_commit": "2026-08-28T03:29:40Z",
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 39
-              }
+                "stars": 43
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1828,7 +1941,8 @@
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1843,7 +1957,8 @@
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1871,7 +1986,8 @@
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +2002,8 @@
                 "owner": "ut-vision",
                 "repo": "Exo2EgoDVC",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -1904,11 +2021,12 @@
                 "archived": false,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T08:52:08Z",
+                "last_commit": "2026-08-28T04:26:18Z",
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 527
-              }
+                "stars": 529
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1923,7 +2041,8 @@
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1938,7 +2057,8 @@
                 "owner": "Sid2697",
                 "repo": "EgoProceL-egocentric-procedure-learning",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1953,7 +2073,8 @@
                 "owner": "rhos-ai",
                 "repo": "GM-X",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1968,7 +2089,8 @@
                 "owner": "youngkyoonjang",
                 "repo": "EPIC_Tent2019",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1983,7 +2105,8 @@
                 "owner": "ut-vision",
                 "repo": "Exo2EgoDVC",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -2011,7 +2134,8 @@
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2026,7 +2150,8 @@
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -2047,8 +2172,9 @@
                 "last_commit": "2019-09-03T08:57:48Z",
                 "owner": "ndrplz",
                 "repo": "dreyeve",
-                "stars": 117
-              }
+                "stars": 118
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2063,7 +2189,8 @@
                 "owner": "LilyDaytoy",
                 "repo": "OpenPVSG",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2078,7 +2205,8 @@
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2093,7 +2221,8 @@
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2237,8 @@
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2123,7 +2253,8 @@
                 "owner": "francescapistilli",
                 "repo": "GLEN",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -2145,7 +2276,8 @@
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             }
           ],
           "description": null,
@@ -2171,7 +2303,8 @@
             "owner": "facebookresearch",
             "repo": "Ego4d",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2186,7 +2319,8 @@
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2200,8 +2334,9 @@
             "last_commit": "2026-07-31T04:06:02Z",
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 155
-          }
+            "stars": 156
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2216,7 +2351,8 @@
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2231,7 +2367,8 @@
             "owner": "matteo-dunnhofer",
             "repo": "fpv-tracking-toolkit",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         }
       ],
       "title": "🛠️ Tools & Libraries"
@@ -2252,7 +2389,8 @@
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2267,7 +2405,8 @@
             "owner": "EgoAlpha",
             "repo": "Awesome-Egocentric",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         },
         {
           "node_type": "item",
@@ -2282,14 +2421,15 @@
             "owner": "ayiyayi",
             "repo": "Awesome-Egocentric-and-Exocentric-Vision",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T04:30:06.161Z"
         }
       ],
       "title": "🔗 Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:39.882Z",
+    "last_updated": "2026-08-28T04:30:06.161Z",
     "original_repository_info": {
       "archived": false,
       "id": 1188023612,
