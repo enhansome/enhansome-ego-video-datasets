@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1291871738,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T04:06:02Z",
+                "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1291871738,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T04:06:02Z",
+                "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Nips 2025] EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation",
+                "homepage": null,
                 "id": 888250766,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-31T08:57:54Z",
+                "open_issues": 3,
                 "owner": "JeffWang987",
                 "repo": "EgoVid",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1183184813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T12:06:53Z",
+                "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data",
+                "homepage": null,
                 "id": 1273133764,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-26T09:18:31Z",
+                "open_issues": 1,
                 "owner": "chenyt31",
                 "repo": "Wh0",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -112,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1242727260,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-29T20:55:26Z",
+                "open_issues": 0,
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -128,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-view Egocentric Video Summarization using a Supervised approach by modifying Determinantal point process",
+                "homepage": null,
                 "id": 159887909,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-11-25T17:53:53Z",
+                "open_issues": 1,
                 "owner": "M-Elfeki",
                 "repo": "Multi-DPP",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -151,12 +186,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] EgoLife: Towards Egocentric Life Assistant",
+                "homepage": "https://egolife-ai.github.io/",
                 "id": 795465838,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-19T01:42:16Z",
+                "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 458
+                "stars": 458,
+                "topics": [
+                  "egocentric-vision",
+                  "omnimodal",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -167,12 +211,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023 D&B] VidChapters-7M: Video Chapters at Scale",
+                "homepage": "http://arxiv.org/abs/2309.13952",
                 "id": 650217847,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-11-13T12:17:09Z",
+                "open_issues": 10,
                 "owner": "antoyang",
                 "repo": "VidChapters",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "dense-video-captioning",
+                  "multimodal-learning",
+                  "pre-training",
+                  "temporal-language-grounding",
+                  "vid2seq",
+                  "video-captioning",
+                  "video-chapter-generation",
+                  "video-understanding",
+                  "vision-and-language",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -183,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 653288099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-30T13:53:24Z",
+                "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -199,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repo of Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+                "homepage": null,
                 "id": 1275860673,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-14T12:09:25Z",
+                "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -215,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1234827273,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-14T04:23:55Z",
+                "open_issues": 2,
                 "owner": "Ziyang412",
                 "repo": "EgoMemReason",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -231,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
+                "homepage": null,
                 "id": 1177366473,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-11T01:55:50Z",
+                "open_issues": 1,
                 "owner": "KangsanKim07",
                 "repo": "MA-EgoQA",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -247,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1242727260,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-29T20:55:26Z",
+                "open_issues": 0,
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -263,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-view Egocentric Video Summarization using a Supervised approach by modifying Determinantal point process",
+                "homepage": null,
                 "id": 159887909,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-11-25T17:53:53Z",
+                "open_issues": 1,
                 "owner": "M-Elfeki",
                 "repo": "Multi-DPP",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -286,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1242727260,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-29T20:55:26Z",
+                "open_issues": 0,
                 "owner": "RuipingL",
                 "repo": "EgoExoMem",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -315,12 +410,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Egocentric Video-Language Pretraining",
+                "homepage": "https://arxiv.org/pdf/2206.01670.pdf",
                 "id": 498228650,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-09T05:52:12Z",
+                "open_issues": 5,
                 "owner": "showlab",
                 "repo": "EgoVLP",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "egocentric-vision",
+                  "pretraining",
+                  "pytorch",
+                  "video-language"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -331,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -347,12 +457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension",
+                "homepage": null,
                 "id": 1277961801,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-18T14:05:12Z",
+                "open_issues": 0,
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -363,12 +478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1283524315,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-05T00:51:30Z",
+                "open_issues": 0,
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -379,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 855266292,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-28T16:47:31Z",
+                "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -395,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                "homepage": null,
                 "id": 1099728320,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-03T13:12:20Z",
+                "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -411,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1209173604,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-16T07:54:23Z",
+                "open_issues": 1,
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -427,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for pause-and-think model",
+                "homepage": null,
                 "id": 1236301383,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-30T03:01:54Z",
+                "open_issues": 0,
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -443,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo will include all code, instructions related to the EMS multimodal dataset. ",
+                "homepage": null,
                 "id": 846129082,
                 "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-11T19:01:36Z",
+                "open_issues": 0,
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -459,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1028069520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-19T05:41:51Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -475,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467488029,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-06-21T01:43:43Z",
+                "open_issues": 0,
                 "owner": "showlab",
                 "repo": "assistq",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -498,12 +653,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Egocentric Video-Language Pretraining",
+                "homepage": "https://arxiv.org/pdf/2206.01670.pdf",
                 "id": 498228650,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-09T05:52:12Z",
+                "open_issues": 5,
                 "owner": "showlab",
                 "repo": "EgoVLP",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "egocentric-vision",
+                  "pretraining",
+                  "pytorch",
+                  "video-language"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -514,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 855266292,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-28T16:47:31Z",
+                "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -530,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1309535034,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T08:01:25Z",
+                "open_issues": 1,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -546,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for NeurIPS 2022 Datasets and Benchmarks paper - EgoTaskQA: Understanding Human Tasks in Egocentric Videos.",
+                "homepage": "https://sites.google.com/view/egotaskqa",
                 "id": 547719757,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-17T02:25:37Z",
+                "open_issues": 3,
                 "owner": "Buzz-Beater",
                 "repo": "EgoTaskQA",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -562,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 927688735,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-14T09:25:59Z",
+                "open_issues": 8,
                 "owner": "hd-epic",
                 "repo": "hd-epic-annotations",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -578,12 +763,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+                "homepage": "https://ego2web.github.io/",
                 "id": 1133328613,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-25T02:10:46Z",
+                "open_issues": 0,
                 "owner": "Yui010206",
                 "repo": "Ego2Web",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "video",
+                  "videounderstanding",
+                  "webagent"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -594,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1028069520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-19T05:41:51Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -610,12 +809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                "homepage": null,
                 "id": 1099728320,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-03T13:12:20Z",
+                "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -626,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -642,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Token Predictors Are Not Planners: Building Physically Grounded Causal Reasoners",
+                "homepage": null,
                 "id": 1255727155,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-02T05:27:42Z",
+                "open_issues": 0,
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -658,12 +872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo will include all code, instructions related to the EMS multimodal dataset. ",
+                "homepage": null,
                 "id": 846129082,
                 "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-11T19:01:36Z",
+                "open_issues": 0,
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -674,12 +893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoSAT is an ECCV 2026 benchmark for egocentric streaming interaction understanding, with 1,997 videos and 4.8K QA pairs. It evaluates VLMs on retrospective, present, and prospective reasoning plus answerability and confidence diagnostics.",
+                "homepage": null,
                 "id": 1277923180,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-25T18:03:43Z",
+                "open_issues": 0,
                 "owner": "leiyj23",
                 "repo": "EgoSAT",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -690,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1209173604,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-16T07:54:23Z",
+                "open_issues": 1,
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -706,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1279657246,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-30T19:32:34Z",
+                "open_issues": 0,
                 "owner": "UTAustin-SwarmLab",
                 "repo": "CrossView",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -722,12 +956,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2026] benchmark codebase for paper: \"GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents\"",
+                "homepage": "https://hats-ict.github.io/gameplayqa",
                 "id": 1190169674,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-22T20:38:52Z",
+                "open_issues": 0,
                 "owner": "HATS-ICT",
                 "repo": "GameplayQA",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "acl",
+                  "acl2026",
+                  "agent",
+                  "benchmark",
+                  "gameai",
+                  "llm",
+                  "mllm",
+                  "multimodal",
+                  "question-answering",
+                  "video-question-answering",
+                  "videounderstanding"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -738,12 +989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467488029,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-06-21T01:43:43Z",
+                "open_issues": 0,
                 "owner": "showlab",
                 "repo": "assistq",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -754,12 +1010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension",
+                "homepage": null,
                 "id": 1277961801,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-18T14:05:12Z",
+                "open_issues": 0,
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -770,12 +1031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1283524315,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-05T00:51:30Z",
+                "open_issues": 0,
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -786,12 +1052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for pause-and-think model",
+                "homepage": null,
                 "id": 1236301383,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-30T03:01:54Z",
+                "open_issues": 0,
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -802,12 +1073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1199311907,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-06-01T09:16:06Z",
+                "open_issues": 0,
                 "owner": "DStardust",
                 "repo": "EgoCoT",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -825,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -841,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension",
+                "homepage": null,
                 "id": 1277961801,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-18T14:05:12Z",
+                "open_issues": 0,
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -857,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1283524315,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-05T00:51:30Z",
+                "open_issues": 0,
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -873,12 +1164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 855266292,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-28T16:47:31Z",
+                "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -889,12 +1185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                "homepage": null,
                 "id": 1099728320,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-03T13:12:20Z",
+                "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -905,12 +1206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1209173604,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-16T07:54:23Z",
+                "open_issues": 1,
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -921,12 +1227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 998431125,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-13T07:36:35Z",
+                "open_issues": 2,
                 "owner": "ayiyayi",
                 "repo": "EgoExoBench",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -937,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo will include all code, instructions related to the EMS multimodal dataset. ",
+                "homepage": null,
                 "id": 846129082,
                 "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-11T19:01:36Z",
+                "open_issues": 0,
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -953,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1028069520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-19T05:41:51Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -969,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 467488029,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-06-21T01:43:43Z",
+                "open_issues": 0,
                 "owner": "showlab",
                 "repo": "assistq",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -985,12 +1311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for pause-and-think model",
+                "homepage": null,
                 "id": 1236301383,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-30T03:01:54Z",
+                "open_issues": 0,
                 "owner": "sssshivvvv",
                 "repo": "pause-and-think",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1014,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1277262891,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T00:38:35Z",
+                "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1030,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1119309642,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-10T14:26:19Z",
+                "open_issues": 4,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1046,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoCampus",
+                "homepage": null,
                 "id": 1109495848,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-27T21:36:01Z",
+                "open_issues": 3,
                 "owner": "ComputerVisionRutgers",
                 "repo": "EgoCampus",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1062,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] Official dataset release for \"EgoSurgery: A Dataset for Surgical Video Understanding from Egocentric Open Surgery Videos\"",
+                "homepage": null,
                 "id": 806515167,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-25T03:12:14Z",
+                "open_issues": 7,
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1078,12 +1429,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ECCV 2024) Official repository of paper \"EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding\"",
+                "homepage": null,
                 "id": 814056873,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-08T03:19:09Z",
+                "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "action-understanding",
+                  "dataset",
+                  "egocentric-vision"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1094,12 +1454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 814932431,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-01T09:44:38Z",
+                "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1110,12 +1475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Egocentric Audio-Visual Object Localization",
+                "homepage": null,
                 "id": 611455432,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-06T03:05:07Z",
+                "open_issues": 5,
                 "owner": "WikiChao",
                 "repo": "Ego-AV-Loc",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1126,12 +1496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N-EPIC-Kitchens: The event-based camera extension of the large-scale EPIC-Kitchens dataset.",
+                "homepage": null,
                 "id": 471533029,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-05-10T21:11:58Z",
+                "open_issues": 0,
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1142,12 +1517,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "EgoCom: A Multi-person Multi-modal Egocentric Communications Dataset",
+                "homepage": "https://ieeexplore.ieee.org/document/9200754",
                 "id": 310120914,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-23T16:45:32Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "EgoCom-Dataset",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1165,12 +1545,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ego4d dataset repository. Download the dataset, visualize, extract features & example usage of the dataset",
+                "homepage": "https://ego4d-data.org/docs/",
                 "id": 431206320,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-25T16:23:16Z",
+                "open_issues": 73,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 639
+                "stars": 639,
+                "topics": [
+                  "computer-vision",
+                  "dataset",
+                  "feature-extraction",
+                  "video",
+                  "visuzalization"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1181,12 +1572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":plate_with_cutlery:  Annotations for the public release of the EPIC-KITCHENS-100 dataset",
+                "homepage": null,
                 "id": 261220865,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-01T21:00:00Z",
+                "open_issues": 2,
                 "owner": "epic-kitchens",
                 "repo": "epic-kitchens-100-annotations",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1197,12 +1593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1119309642,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-10T14:26:19Z",
+                "open_issues": 4,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1213,12 +1614,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "EgoCom: A Multi-person Multi-modal Egocentric Communications Dataset",
+                "homepage": "https://ieeexplore.ieee.org/document/9200754",
                 "id": 310120914,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2020-11-23T16:45:32Z",
+                "open_issues": 1,
                 "owner": "facebookresearch",
                 "repo": "EgoCom-Dataset",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1229,12 +1635,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ECCV 2024) Official repository of paper \"EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding\"",
+                "homepage": null,
                 "id": 814056873,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-08T03:19:09Z",
+                "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "action-understanding",
+                  "dataset",
+                  "egocentric-vision"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1245,12 +1660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MECCANO Dataset: official repository in which we provide code and models.",
+                "homepage": null,
                 "id": 318525018,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-31T16:10:09Z",
+                "open_issues": 1,
                 "owner": "fpv-iplab",
                 "repo": "MECCANO",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1261,12 +1681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ECCV 2020 paper - LEMMA: A Multi-view Dataset for LEarning Multi-agent Multi-task Activities",
+                "homepage": null,
                 "id": 284823777,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-08T16:08:48Z",
+                "open_issues": 2,
                 "owner": "Buzz-Beater",
                 "repo": "LEMMA",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1277,12 +1702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] Official dataset release for \"EgoSurgery: A Dataset for Surgical Video Understanding from Egocentric Open Surgery Videos\"",
+                "homepage": null,
                 "id": 806515167,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-25T03:12:14Z",
+                "open_issues": 7,
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1293,12 +1723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Egocentric Audio-Visual Object Localization",
+                "homepage": null,
                 "id": 611455432,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-06T03:05:07Z",
+                "open_issues": 5,
                 "owner": "WikiChao",
                 "repo": "Ego-AV-Loc",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1309,12 +1744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 814932431,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-01T09:44:38Z",
+                "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1325,12 +1765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N-EPIC-Kitchens: The event-based camera extension of the large-scale EPIC-Kitchens dataset.",
+                "homepage": null,
                 "id": 471533029,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-05-10T21:11:58Z",
+                "open_issues": 0,
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1341,12 +1786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home Action Genome: Cooperative Contrastive Action Understanding",
+                "homepage": null,
                 "id": 379766056,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-08T00:49:46Z",
+                "open_issues": 2,
                 "owner": "nishantrai18",
                 "repo": "homage",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1357,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 836303131,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-31T15:06:55Z",
+                "open_issues": 5,
                 "owner": "Ember-HoloAssist",
                 "repo": "holoassist-release",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1373,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoCampus",
+                "homepage": null,
                 "id": 1109495848,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-27T21:36:01Z",
+                "open_issues": 3,
                 "owner": "ComputerVisionRutgers",
                 "repo": "EgoCampus",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1389,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1277262891,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T00:38:35Z",
+                "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1412,12 +1877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1277262891,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T00:38:35Z",
+                "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1428,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 814932431,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-01T09:44:38Z",
+                "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1444,12 +1919,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ECCV 2024) Official repository of paper \"EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding\"",
+                "homepage": null,
                 "id": 814056873,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-08T03:19:09Z",
+                "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "action-understanding",
+                  "dataset",
+                  "egocentric-vision"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1473,12 +1957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video",
+                "homepage": "https://arxiv.org/abs/2505.11709",
                 "id": 1041036182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
+                "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378
+                "stars": 378,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1489,12 +1978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 990574157,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-26T10:54:23Z",
+                "open_issues": 0,
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1505,12 +1999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition Based on Binocular Event Cameras\". Code, pre-trained models, dataset links, and experiment results are to be uploaded.",
+                "homepage": null,
                 "id": 1202973396,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-18T02:14:30Z",
+                "open_issues": 1,
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1521,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1231599062,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
+                "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1537,12 +2041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 898532450,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T10:33:17Z",
+                "open_issues": 2,
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1553,12 +2062,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ICCV2023] EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding",
+                "homepage": null,
                 "id": 678119842,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T10:01:35Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "EgoObjects",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1569,12 +2083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine-Grained Egocentric Hand-Object Segmentation, ECCV 2022",
+                "homepage": null,
                 "id": 490034337,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-26T21:34:43Z",
+                "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1585,12 +2104,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Inferring Body Pose in Egocentric Video via First and Second Person Interactions",
+                "homepage": null,
                 "id": 264275265,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-31T19:27:18Z",
+                "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "you2me",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1608,12 +2132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video",
+                "homepage": "https://arxiv.org/abs/2505.11709",
                 "id": 1041036182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
+                "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378
+                "stars": 378,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1624,12 +2153,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset and code for the paper \"First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations\", CVPR 2018.",
+                "homepage": null,
                 "id": 149117007,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
+                "open_issues": 2,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "action-recognition",
+                  "benchmark",
+                  "computer-vision",
+                  "dataset",
+                  "hand-pose-estimation"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1640,12 +2180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine-Grained Egocentric Hand-Object Segmentation, ECCV 2022",
+                "homepage": null,
                 "id": 490034337,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-26T21:34:43Z",
+                "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1656,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AssemblyHands Toolkit is a Python package that provides data loader, visualization, and evaluation tools for the AssemblyHands dataset (CVPR 2023).",
+                "homepage": null,
                 "id": 642703702,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-25T08:36:08Z",
+                "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1672,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ICCV2023] EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding",
+                "homepage": null,
                 "id": 678119842,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T10:01:35Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "EgoObjects",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1688,12 +2243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1200270683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-21T08:29:33Z",
+                "open_issues": 6,
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1704,12 +2264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://taeinkwon.com/projects/h2o/",
                 "id": 367454283,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-05T06:38:38Z",
+                "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1720,12 +2285,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Inferring Body Pose in Egocentric Video via First and Second Person Interactions",
+                "homepage": null,
                 "id": 264275265,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-31T19:27:18Z",
+                "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "you2me",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1736,12 +2306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1231599062,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
+                "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1752,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568009983,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-05T04:03:12Z",
+                "open_issues": 4,
                 "owner": "fredfyyang",
                 "repo": "Touch-and-Go",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1768,12 +2348,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                "homepage": "https://sid2697.github.io/epic-contact/",
                 "id": 1283976546,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:04:41Z",
+                "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "3d",
+                  "arctic",
+                  "egocentric-videos",
+                  "egocentric-vision",
+                  "epic-kitchens",
+                  "hand-object-interaction",
+                  "in-the-wild",
+                  "pose-estimation"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1784,12 +2378,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Egocentric Action Target Prediction in 3D",
+                "homepage": "https://ai4ce.github.io/EgoPAT3D/",
                 "id": 368669516,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-12-02T18:28:54Z",
+                "open_issues": 2,
                 "owner": "ai4ce",
                 "repo": "EgoPAT3D",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "3d-computer-vision",
+                  "computer-vision",
+                  "dataset",
+                  "deep-learning",
+                  "egocentric-vision",
+                  "human-robot-collaboration",
+                  "human-robot-interaction",
+                  "machine-learning",
+                  "multimodal-learning",
+                  "target-prediction",
+                  "wearable-robotics"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1800,12 +2411,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI2023 Oral] POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities",
+                "homepage": "https://batfacewayne.github.io/POV_Surgery_io/",
                 "id": 659709703,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-24T18:35:36Z",
+                "open_issues": 0,
                 "owner": "BatFaceWayne",
                 "repo": "POV_Surgery",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "3d-hand-pose-estimation",
+                  "3d-object-tracking",
+                  "blender-python",
+                  "blender-render",
+                  "egocentric-videos",
+                  "hand-pose-estimation",
+                  "object-pose-estimation",
+                  "smplx-texture",
+                  "surgical-mixed-reality",
+                  "synthetic-dataset-generation"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1816,12 +2443,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025 ✨ / IJCV 2023] Official code repository to download the VISTA and TREK-150 benchmark datasets and run experiments on them.",
+                "homepage": null,
                 "id": 401608788,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-12T00:59:32Z",
+                "open_issues": 0,
                 "owner": "matteo-dunnhofer",
                 "repo": "fpv-tracking-toolkit",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "computer-vision",
+                  "egocentric-vision",
+                  "first-person-vision",
+                  "iccv2025",
+                  "ijcv",
+                  "third-person-vision",
+                  "trek-150",
+                  "video-object-segmentation",
+                  "vista",
+                  "visual-object-tracking",
+                  "visual-tracking",
+                  "vot2021"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1832,12 +2477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 898532450,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T10:33:17Z",
+                "open_issues": 2,
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1848,12 +2498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition Based on Binocular Event Cameras\". Code, pre-trained models, dataset links, and experiment results are to be uploaded.",
+                "homepage": null,
                 "id": 1202973396,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-18T02:14:30Z",
+                "open_issues": 1,
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1864,12 +2519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 702409595,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-03-20T10:54:55Z",
+                "open_issues": 0,
                 "owner": "fpv-iplab",
                 "repo": "ENIGMA-51",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1880,12 +2540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500839501,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-02-18T08:28:09Z",
+                "open_issues": 0,
                 "owner": "epic-kitchens",
                 "repo": "VISOR",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1896,12 +2561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 990574157,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-26T10:54:23Z",
+                "open_issues": 0,
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1919,12 +2589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1231599062,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
+                "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1935,12 +2610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition Based on Binocular Event Cameras\". Code, pre-trained models, dataset links, and experiment results are to be uploaded.",
+                "homepage": null,
                 "id": 1202973396,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-18T02:14:30Z",
+                "open_issues": 1,
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1951,12 +2631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 990574157,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-26T10:54:23Z",
+                "open_issues": 0,
                 "owner": "SynthSyntax",
                 "repo": "EventEgoHands",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -1980,12 +2665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Data and benchmark code for the EgoExoLearn dataset",
+                "homepage": null,
                 "id": 774702414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-26T05:59:00Z",
+                "open_issues": 4,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -1996,12 +2686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2025] Exo2EgoDVC: Dense Video Captioning of Egocentric Human Activities Using Web Instructional Videos",
+                "homepage": null,
                 "id": 898898039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-05T11:52:35Z",
+                "open_issues": 0,
                 "owner": "ut-vision",
                 "repo": "Exo2EgoDVC",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -2019,12 +2714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World",
+                "homepage": null,
                 "id": 931195201,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-29T01:07:03Z",
+                "open_issues": 168,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 529
+                "stars": 529,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2035,12 +2735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Data and benchmark code for the EgoExoLearn dataset",
+                "homepage": null,
                 "id": 774702414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-26T05:59:00Z",
+                "open_issues": 4,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2051,12 +2756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code implementation for our ECCV, 2022 paper titled \"My View is the Best View: Procedure Learning from Egocentric Videos\"",
+                "homepage": null,
                 "id": 512118465,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-05T16:45:30Z",
+                "open_issues": 6,
                 "owner": "Sid2697",
                 "repo": "EgoProceL-egocentric-procedure-learning",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2067,12 +2777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repo of The Great March Project.  https://www.rhos.ai/research/gm-100",
+                "homepage": null,
                 "id": 1145000527,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-17T06:45:56Z",
+                "open_issues": 0,
                 "owner": "rhos-ai",
                 "repo": "GM-X",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2083,12 +2798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EPIC_Tent2019 annotation",
+                "homepage": null,
                 "id": 277362123,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-23T16:37:23Z",
+                "open_issues": 2,
                 "owner": "youngkyoonjang",
                 "repo": "EPIC_Tent2019",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2099,12 +2819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2025] Exo2EgoDVC: Dense Video Captioning of Egocentric Human Activities Using Web Instructional Videos",
+                "homepage": null,
                 "id": 898898039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-05T11:52:35Z",
+                "open_issues": 0,
                 "owner": "ut-vision",
                 "repo": "Exo2EgoDVC",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -2128,12 +2853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
+                "homepage": null,
                 "id": 1198622402,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T14:42:56Z",
+                "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2144,12 +2874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Future Gaze: Gaze Anticipation on Egocentric Videos Using Adversarial Networks",
+                "homepage": null,
                 "id": 85726369,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2020-03-12T22:39:41Z",
+                "open_issues": 0,
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -2167,12 +2902,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI 2018] Predicting the Driver’s Focus of Attention: the DR(eye)VE Project. A deep neural network learnt to reproduce the human driver focus of attention (FoA) in a variety of real-world driving scenarios.",
+                "homepage": "https://arxiv.org/pdf/1705.03854.pdf",
                 "id": 81813768,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-09-03T08:57:48Z",
+                "open_issues": 7,
                 "owner": "ndrplz",
                 "repo": "dreyeve",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "adas",
+                  "attention",
+                  "automotive",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "driver-focus"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2183,12 +2933,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking Panoptic Video Scene Graph Generation (PVSG), CVPR'23",
+                "homepage": "https://jingkang50.github.io/PVSG/",
                 "id": 529166321,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-30T17:07:04Z",
+                "open_issues": 19,
                 "owner": "LilyDaytoy",
                 "repo": "OpenPVSG",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "scene-graph",
+                  "scene-graph-generation",
+                  "scene-understanding",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2199,12 +2959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2026] An official implementation of \"OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs\"",
+                "homepage": null,
                 "id": 1251885652,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:02:33Z",
+                "open_issues": 1,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2215,12 +2980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Future Gaze: Gaze Anticipation on Egocentric Videos Using Adversarial Networks",
+                "homepage": null,
                 "id": 85726369,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2020-03-12T22:39:41Z",
+                "open_issues": 0,
                 "owner": "Mengmi",
                 "repo": "deepfuturegaze_gan",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2231,12 +3001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
+                "homepage": null,
                 "id": 1198622402,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T14:42:56Z",
+                "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2247,12 +3022,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs\"",
+                "homepage": "https://francescapistilli.github.io/GLEN/",
                 "id": 1286984412,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-03T08:55:11Z",
+                "open_issues": 0,
                 "owner": "francescapistilli",
                 "repo": "GLEN",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "graph-learning",
+                  "human-activity-understanding",
+                  "scene-graphs"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -2270,12 +3054,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
+                "homepage": null,
                 "id": 1198622402,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T14:42:56Z",
+                "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -2297,12 +3086,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ego4d dataset repository. Download the dataset, visualize, extract features & example usage of the dataset",
+            "homepage": "https://ego4d-data.org/docs/",
             "id": 431206320,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-25T16:23:16Z",
+            "open_issues": 73,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 639
+            "stars": 639,
+            "topics": [
+              "computer-vision",
+              "dataset",
+              "feature-extraction",
+              "video",
+              "visuzalization"
+            ]
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2313,12 +3113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1183184813,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-11T12:06:53Z",
+            "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2329,12 +3134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1291871738,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T04:06:02Z",
+            "open_issues": 3,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2345,12 +3155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AssemblyHands Toolkit is a Python package that provides data loader, visualization, and evaluation tools for the AssemblyHands dataset (CVPR 2023).",
+            "homepage": null,
             "id": 642703702,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-25T08:36:08Z",
+            "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2361,12 +3176,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025 ✨ / IJCV 2023] Official code repository to download the VISTA and TREK-150 benchmark datasets and run experiments on them.",
+            "homepage": null,
             "id": 401608788,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-12T00:59:32Z",
+            "open_issues": 0,
             "owner": "matteo-dunnhofer",
             "repo": "fpv-tracking-toolkit",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "computer-vision",
+              "egocentric-vision",
+              "first-person-vision",
+              "iccv2025",
+              "ijcv",
+              "third-person-vision",
+              "trek-150",
+              "video-object-segmentation",
+              "vista",
+              "visual-object-tracking",
+              "visual-tracking",
+              "vot2021"
+            ]
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         }
@@ -2383,12 +3216,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of egocentric (first-person) vision and related area resources",
+            "homepage": null,
             "id": 283992870,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-06T16:41:29Z",
+            "open_issues": 3,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "activity-recognition",
+              "awesome",
+              "awesome-list",
+              "computer-vision",
+              "egocentric-actions",
+              "egocentric-activities",
+              "egocentric-videos",
+              "first-person-video",
+              "person-videos"
+            ]
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2399,12 +3247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473602038,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-27T04:57:11Z",
+            "open_issues": 1,
             "owner": "EgoAlpha",
             "repo": "Awesome-Egocentric",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         },
@@ -2415,12 +3268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 933977673,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-14T11:49:07Z",
+            "open_issues": 2,
             "owner": "ayiyayi",
             "repo": "Awesome-Egocentric-and-Exocentric-Vision",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
         }
@@ -2429,15 +3287,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:58.032Z",
+    "last_updated": "2026-08-29T04:50:58.326Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
+      "homepage": null,
       "id": 1188023612,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-22T07:24:58Z",
+      "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 210
+      "stars": 210,
+      "topics": [
+        "awesome-list",
+        "computer-vision",
+        "datasets",
+        "egocentric-datasets",
+        "egocentric-vision",
+        "first-person-video",
+        "video-datasets"
+      ]
     },
     "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
