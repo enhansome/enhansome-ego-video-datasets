@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 458,
+                "stars": 457,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -709,7 +709,7 @@
                 "open_issues": 1,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1966,7 +1966,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 8,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-29T01:07:03Z",
+                "last_commit": "2026-08-29T19:18:58Z",
                 "open_issues": 168,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 529,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3143,7 +3143,7 @@
             "open_issues": 3,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3225,7 +3225,7 @@
             "open_issues": 3,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:58.326Z",
+    "last_updated": "2026-08-29T22:48:17.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
