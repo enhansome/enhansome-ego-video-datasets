@@ -91,7 +91,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 116,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -709,7 +709,7 @@
                 "open_issues": 1,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 86,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 639,
+                "stars": 638,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -1963,10 +1963,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2029,7 +2029,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2138,10 +2138,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T20:41:20Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2273,7 +2273,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2315,7 +2315,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2598,7 +2598,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-01T05:30:46Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-02T22:06:27Z",
+                "open_issues": 169,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 535,
+                "stars": 536,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2968,7 +2968,7 @@
                 "open_issues": 1,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3095,7 +3095,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 639,
+            "stars": 638,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3122,7 +3122,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 116,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:50:14.020Z",
+    "last_updated": "2026-09-02T22:51:22.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3299,7 +3299,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 214,
+      "stars": 215,
       "topics": [
         "awesome-list",
         "computer-vision",
