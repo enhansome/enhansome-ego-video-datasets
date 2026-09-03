@@ -91,7 +91,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 118,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -220,7 +220,7 @@
                 "open_issues": 10,
                 "owner": "antoyang",
                 "repo": "VidChapters",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "dense-video-captioning",
                   "multimodal-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 638,
+                "stars": 639,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -1602,7 +1602,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-02T22:06:27Z",
-                "open_issues": 169,
+                "last_commit": "2026-09-03T22:25:32Z",
+                "open_issues": 175,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 536,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2858,7 +2858,7 @@
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T19:37:34Z",
+                "last_commit": "2026-09-03T21:32:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
@@ -3006,7 +3006,7 @@
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T19:37:34Z",
+                "last_commit": "2026-09-03T21:32:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
@@ -3059,7 +3059,7 @@
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T19:37:34Z",
+                "last_commit": "2026-09-03T21:32:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
@@ -3095,7 +3095,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3122,7 +3122,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 118,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:51:22.018Z",
+    "last_updated": "2026-09-03T22:49:33.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
