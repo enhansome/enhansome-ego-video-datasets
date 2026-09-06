@@ -212,7 +212,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
   [![arXiv](https://img.shields.io/badge/arXiv-2308.09126-b31b1b.svg)](https://arxiv.org/abs/2308.09126) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoschema.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/egoschema/EgoSchema) ⭐ 118 | 🐛 5 | 🌐 Python | 📅 2024-12-30
 
 * **EgoServe** (2026) — 3K+ manually verified proactive-service instances over EgoLife, HoloAssist, and CaptainCook4D, organized into 10 assistance categories and four temporal horizons from instant alerts to multi-day habit coaching.
-  [![arXiv](https://img.shields.io/badge/arXiv-2607.11523-b31b1b.svg)](https://arxiv.org/abs/2607.11523) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://sitonggong.github.io/EgoServe-page/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/SitongGong/EgoMemo) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-07-14 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/SitongGong/EgoServe)
+  [![arXiv](https://img.shields.io/badge/arXiv-2607.11523-b31b1b.svg)](https://arxiv.org/abs/2607.11523) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://sitonggong.github.io/EgoServe-page/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/SitongGong/EgoMemo) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-07-14 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/SitongGong/EgoServe)
 
 * **EgoMemReason** (2026) — 500 multiple-choice questions over week-long EgoLife video for entity, event, and behavior memory reasoning, with public questions and leaderboard evaluation.
   [![arXiv](https://img.shields.io/badge/arXiv-2605.09874-b31b1b.svg)](https://arxiv.org/abs/2605.09874) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egomemreason.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Ziyang412/EgoMemReason) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-07-14 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/Ted412/EgoMemReason)
@@ -316,7 +316,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
   [![arXiv](https://img.shields.io/badge/arXiv-2605.15342-b31b1b.svg)](https://arxiv.org/abs/2605.15342) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/google-deepmind/neptune) ⭐ 96 | 🐛 5 | 📅 2026-04-28
 
 * **HumanCLAW-Bench** (2026) — 1,218 long-horizon find–navigate–interact episodes across 41 simulated indoor scenes for evaluating whether VLMs can select and sequence actions from a continuously updated egocentric body view.
-  [![arXiv](https://img.shields.io/badge/arXiv-2607.27180-b31b1b.svg)](https://arxiv.org/abs/2607.27180) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://human-claw.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Human-CLAW/HumanCLAW) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2026-08-19
+  [![arXiv](https://img.shields.io/badge/arXiv-2607.27180-b31b1b.svg)](https://arxiv.org/abs/2607.27180) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://human-claw.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Human-CLAW/HumanCLAW) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2026-08-19
 
 * **EgoTaskQA** (2022) — \~2K videos / 40K QA; Causal & task QA.
   [![arXiv](https://img.shields.io/badge/arXiv-2210.03929-b31b1b.svg)](https://arxiv.org/abs/2210.03929) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://sites.google.com/view/egotaskqa) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Buzz-Beater/EgoTaskQA) ⭐ 47 | 🐛 3 | 🌐 Python | 📅 2023-04-17
@@ -706,7 +706,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
   [![arXiv](https://img.shields.io/badge/arXiv-2211.12498-b31b1b.svg)](https://arxiv.org/abs/2211.12498) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://touch-and-go.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/fredfyyang/Touch-and-Go) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2023-09-05
 
 * **EPIC-Contact** (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.30598-b31b1b.svg)](https://arxiv.org/abs/2606.30598) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://sid2697.github.io/epic-contact/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Sid2697/HOPformer) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2026-08-24 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/Sid2697/epic-contact)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.30598-b31b1b.svg)](https://arxiv.org/abs/2606.30598) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://sid2697.github.io/epic-contact/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/Sid2697/HOPformer) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2026-09-06 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/Sid2697/epic-contact)
 
 * **EgoPAT3D** (2022) — 1M+ frames RGB-D; 3D action target prediction.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/ai4ce/EgoPAT3D) ⭐ 32 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-12-02
@@ -850,7 +850,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * **EgoVerse** (2026) — 1,362 h of egocentric human demonstrations spanning \~80K episodes and 1,965 tasks for robot learning from human manipulation experience.
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 540 | 🐛 175 | 🌐 Jupyter Notebook | 📅 2026-09-05
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 540 | 🐛 176 | 🌐 Jupyter Notebook | 📅 2026-09-06
 
 * \[⭐️] **EgoExoLearn** (2024) — 120 h ego+exo; Procedural, async views.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/OpenGVLab/EgoExoLearn) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2025-08-26 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/hyf015/EgoExoLearn)
@@ -1052,4 +1052,4 @@ If you have suggestions, dataset updates, or find this project useful, feel free
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
