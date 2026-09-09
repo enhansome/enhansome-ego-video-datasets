@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 166,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 166,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "JeffWang987",
                 "repo": "EgoVid",
-                "stars": 144,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -684,8 +684,8 @@
                 "id": 1309535034,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-19T08:01:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-09T03:28:40Z",
+                "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
                 "stars": 99,
@@ -2029,7 +2029,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 45,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2315,7 +2315,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 45,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2357,7 +2357,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2598,7 +2598,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 45,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-08T18:52:34Z",
-                "open_issues": 180,
+                "last_commit": "2026-09-09T03:27:10Z",
+                "open_issues": 181,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 541,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3143,7 +3143,7 @@
             "open_issues": 3,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 166,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3222,7 +3222,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-06T16:41:29Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
             "stars": 346,
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:58:54.805Z",
+    "last_updated": "2026-09-09T22:46:16.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3296,7 +3296,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-22T07:24:58Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
       "stars": 218,
