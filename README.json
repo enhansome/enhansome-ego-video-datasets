@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 99,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1966,7 +1966,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 383,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 9,
                 "owner": "apple",
                 "repo": "ml-egodex",
-                "stars": 383,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-09T03:27:10Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-10T19:28:53Z",
+                "open_issues": 183,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 542,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:46:16.846Z",
+    "last_updated": "2026-09-10T22:47:12.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3299,7 +3299,7 @@
       "open_issues": 1,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 218,
+      "stars": 219,
       "topics": [
         "awesome-list",
         "computer-vision",
