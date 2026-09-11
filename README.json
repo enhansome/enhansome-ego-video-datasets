@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -252,7 +252,7 @@
                 "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -273,7 +273,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -419,7 +419,7 @@
                 "open_issues": 5,
                 "owner": "showlab",
                 "repo": "EgoVLP",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "egocentric-vision",
                   "pretraining",
@@ -662,7 +662,7 @@
                 "open_issues": 5,
                 "owner": "showlab",
                 "repo": "EgoVLP",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "egocentric-vision",
                   "pretraining",
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 102,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -944,7 +944,7 @@
                 "open_issues": 0,
                 "owner": "UTAustin-SwarmLab",
                 "repo": "CrossView",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1816,7 +1816,7 @@
                 "open_issues": 5,
                 "owner": "Ember-HoloAssist",
                 "repo": "holoassist-release",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1962,9 +1962,9 @@
                 "id": 1041036182,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-08-20T20:41:20Z",
+                "last_commit": "2026-09-11T15:56:23Z",
                 "open_issues": 9,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
                 "stars": 385,
                 "topics": []
@@ -2008,7 +2008,7 @@
                 "open_issues": 1,
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2137,9 +2137,9 @@
                 "id": 1041036182,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-08-20T20:41:20Z",
+                "last_commit": "2026-09-11T15:56:23Z",
                 "open_issues": 9,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
                 "stars": 385,
                 "topics": []
@@ -2472,6 +2472,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoEVHands (2026) — 5,419 real-world stereo event-camera egocentric sequences with dense 2D/3D hand keypoints across 38 gesture classes; the official repository currently says code, models, and dataset links are to be uploaded.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of the paper \"EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition Based on Binocular Event Cameras\". Code, pre-trained models, dataset links, and experiment results are to be uploaded.",
+                "homepage": null,
+                "id": 1202973396,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-05-18T02:14:30Z",
+                "open_issues": 1,
+                "owner": "ZJUWang01",
+                "repo": "EgoEv-HandPose",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoPoints (2025) — Point tracks + synthetic; Tracking in ego video.",
               "description": null,
               "children": [],
@@ -2487,27 +2508,6 @@
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
                 "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoEVHands (2026) — 5,419 real-world stereo event-camera egocentric sequences with dense 2D/3D hand keypoints across 38 gesture classes; the official repository currently says code, models, and dataset links are to be uploaded.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of the paper \"EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition Based on Binocular Event Cameras\". Code, pre-trained models, dataset links, and experiment results are to be uploaded.",
-                "homepage": null,
-                "id": 1202973396,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-05-18T02:14:30Z",
-                "open_issues": 1,
-                "owner": "ZJUWang01",
-                "repo": "EgoEv-HandPose",
-                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2619,7 +2619,7 @@
                 "open_issues": 1,
                 "owner": "ZJUWang01",
                 "repo": "EgoEv-HandPose",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,7 +2719,7 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-10T19:28:53Z",
+                "last_commit": "2026-09-11T20:31:16Z",
                 "open_issues": 183,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:47:12.331Z",
+    "last_updated": "2026-09-11T22:48:07.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3299,7 +3299,7 @@
       "open_issues": 1,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 219,
+      "stars": 220,
       "topics": [
         "awesome-list",
         "computer-vision",
