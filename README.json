@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 168,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 168,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -683,12 +683,12 @@
                 "homepage": null,
                 "id": 1309535034,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:28:40Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-13T00:14:12Z",
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 106,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1417,7 +1417,7 @@
                 "open_issues": 7,
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1711,7 +1711,7 @@
                 "open_issues": 7,
                 "owner": "Fujiry0",
                 "repo": "EgoSurgery",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2322,6 +2322,36 @@
             },
             {
               "node_type": "item",
+              "title": "EPIC-Contact (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                "homepage": "https://sid2697.github.io/epic-contact/",
+                "id": 1283976546,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-06T08:34:59Z",
+                "open_issues": 1,
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 41,
+                "topics": [
+                  "3d",
+                  "arctic",
+                  "egocentric-videos",
+                  "egocentric-vision",
+                  "epic-kitchens",
+                  "hand-object-interaction",
+                  "in-the-wild",
+                  "pose-estimation"
+                ]
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "Touch and Go (2022) — 12K+ vis–tactile frames; Vision + touch.",
               "description": null,
               "children": [],
@@ -2338,36 +2368,6 @@
                 "repo": "Touch-and-Go",
                 "stars": 41,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EPIC-Contact (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                "homepage": "https://sid2697.github.io/epic-contact/",
-                "id": 1283976546,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-06T08:34:59Z",
-                "open_issues": 1,
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 40,
-                "topics": [
-                  "3d",
-                  "arctic",
-                  "egocentric-videos",
-                  "egocentric-vision",
-                  "epic-kitchens",
-                  "hand-object-interaction",
-                  "in-the-wild",
-                  "pose-estimation"
-                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-12T22:23:11Z",
-                "open_issues": 193,
+                "last_commit": "2026-09-13T21:59:21Z",
+                "open_issues": 204,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 545,
@@ -3143,7 +3143,7 @@
             "open_issues": 3,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 168,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3225,7 +3225,7 @@
             "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:34:07.890Z",
+    "last_updated": "2026-09-13T22:37:55.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
