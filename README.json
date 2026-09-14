@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -91,7 +91,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -107,8 +107,8 @@
                 "homepage": null,
                 "id": 1273133764,
                 "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-01T06:50:27Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T06:53:54Z",
                 "open_issues": 1,
                 "owner": "chenyt31",
                 "repo": "Wh0",
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 108,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -2336,7 +2336,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:59:21Z",
-                "open_issues": 204,
+                "last_commit": "2026-09-14T19:22:54Z",
+                "open_issues": 205,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 545,
@@ -3095,7 +3095,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3122,7 +3122,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3143,7 +3143,7 @@
             "open_issues": 3,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:37:55.628Z",
+    "last_updated": "2026-09-14T23:30:03.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
