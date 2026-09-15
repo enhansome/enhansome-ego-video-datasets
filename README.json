@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-31T04:06:02Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-31T04:06:02Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -91,7 +91,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -273,7 +273,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1463,7 +1463,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1602,7 +1602,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1753,7 +1753,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1907,7 +1907,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1966,7 +1966,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 385,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 385,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2336,7 +2336,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2674,7 +2674,7 @@
                 "open_issues": 4,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:22:54Z",
-                "open_issues": 205,
+                "last_commit": "2026-09-15T17:15:34Z",
+                "open_issues": 206,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 545,
@@ -2744,7 +2744,7 @@
                 "open_issues": 4,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3122,7 +3122,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3140,10 +3140,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-31T04:06:02Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3225,7 +3225,7 @@
             "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -3256,7 +3256,7 @@
             "open_issues": 1,
             "owner": "EgoAlpha",
             "repo": "Awesome-Egocentric",
-            "stars": 54,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3277,7 +3277,7 @@
             "open_issues": 2,
             "owner": "ayiyayi",
             "repo": "Awesome-Egocentric-and-Exocentric-Vision",
-            "stars": 43,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:30:03.042Z",
+    "last_updated": "2026-09-15T23:11:12.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
