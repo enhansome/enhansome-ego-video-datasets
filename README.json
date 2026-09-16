@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 646,
+                "stars": 647,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-15T17:15:34Z",
-                "open_issues": 206,
+                "last_commit": "2026-09-16T21:15:15Z",
+                "open_issues": 217,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 545,
+                "stars": 546,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3095,7 +3095,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3225,7 +3225,7 @@
             "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:11:12.761Z",
+    "last_updated": "2026-09-16T23:15:43.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
