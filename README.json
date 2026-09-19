@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 113,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1554,7 +1554,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:55:27Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-19T15:29:04Z",
+                "open_issues": 235,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 547,
@@ -3095,7 +3095,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3287,7 +3287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:49:46.303Z",
+    "last_updated": "2026-09-19T22:30:10.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
