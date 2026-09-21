@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -273,7 +273,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1602,7 +1602,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1966,7 +1966,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2092,7 +2092,7 @@
                 "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 149,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2141,7 +2141,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2189,7 +2189,7 @@
                 "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 149,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2207,7 +2207,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-25T08:36:08Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
                 "stars": 138,
@@ -2719,11 +2719,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-20T19:09:04Z",
+                "last_commit": "2026-09-21T18:45:23Z",
                 "open_issues": 228,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 550,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3150,6 +3150,33 @@
         },
         {
           "node_type": "item",
+          "title": "ego-stereo-cn-v1-tools",
+          "description": "Loading + timing verification for the ego-stereo-cn-v1 LeRobot v3 stereo+IMU sample (hardware-synced). GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Loading and timing-verification tools for ego-stereo-cn-v1 (egocentric stereo LeRobot dataset) — 10K HoursData",
+            "homepage": "https://10khoursdata.com",
+            "id": 1362704811,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-09T20:53:05Z",
+            "open_issues": 0,
+            "owner": "TateZhouSiu",
+            "repo": "ego-stereo-cn-v1-tools",
+            "stars": 1,
+            "topics": [
+              "dataset",
+              "egocentric",
+              "lerobot",
+              "robot-learning",
+              "stereo"
+            ]
+          },
+          "first_seen": "2026-09-21T23:39:22.173Z"
+        },
+        {
+          "node_type": "item",
           "title": "AssemblyHands Toolkit",
           "description": "Official toolkit for the AssemblyHands benchmark. GitHub",
           "children": [],
@@ -3161,7 +3188,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-25T08:36:08Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
             "stars": 138,
@@ -3221,8 +3248,8 @@
             "id": 283992870,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-07-06T16:41:29Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-21T15:25:07Z",
+            "open_issues": 3,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
             "stars": 348,
@@ -3287,7 +3314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:42:20.015Z",
+    "last_updated": "2026-09-21T23:39:22.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3295,11 +3322,11 @@
       "id": 1188023612,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-22T07:24:58Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-21T07:00:06Z",
+      "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 221,
+      "stars": 224,
       "topics": [
         "awesome-list",
         "computer-vision",
@@ -3310,7 +3337,7 @@
         "video-datasets"
       ]
     },
-    "original_repository_sha": "759ca72b2fb4dea614f0eb9650ac039c4c26dd13",
+    "original_repository_sha": "b131939b7950b2028f21a501df13c648b3bbcf58",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
     "title": "🎥 Awesome Egocentric Video Datasets with stars"
