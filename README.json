@@ -91,7 +91,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -508,7 +508,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -709,7 +709,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -825,27 +825,6 @@
             },
             {
               "node_type": "item",
-              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1297943021,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-13T11:07:13Z",
-                "open_issues": 0,
-                "owner": "MCG-NJU",
-                "repo": "VIABench",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
               "title": "Causal-Plan-1M (2026) — 1M QA pairs with four-stage causal reasoning-trace annotations over 22,201 egocentric clips (770+ h curated from Ego4D, EPIC-KITCHENS, HoloAssist, MECCANO, and others), plus the 1,200-instance Causal-Plan-Bench for physically grounded embodied planning.",
               "description": null,
               "children": [],
@@ -860,6 +839,27 @@
                 "open_issues": 0,
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1297943021,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
                 "stars": 5,
                 "topics": []
               },
@@ -1173,7 +1173,7 @@
                 "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "neptune",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2336,7 +2336,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:45:23Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-22T18:51:28Z",
+                "open_issues": 226,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 552,
@@ -3122,7 +3122,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 123,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3314,7 +3314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:39:22.173Z",
+    "last_updated": "2026-09-22T23:16:53.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3326,7 +3326,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 224,
+      "stars": 225,
       "topics": [
         "awesome-list",
         "computer-vision",
