@@ -445,7 +445,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 118,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -804,6 +804,27 @@
             },
             {
               "node_type": "item",
+              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1297943021,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
               "description": null,
               "children": [],
@@ -840,27 +861,6 @@
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1297943021,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-13T11:07:13Z",
-                "open_issues": 0,
-                "owner": "MCG-NJU",
-                "repo": "VIABench",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1110,7 +1110,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2719,8 +2719,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-25T20:55:53Z",
-                "open_issues": 239,
+                "last_commit": "2026-09-26T19:54:37Z",
+                "open_issues": 241,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 552,
@@ -3314,7 +3314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:35:23.214Z",
+    "last_updated": "2026-09-26T23:10:01.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
