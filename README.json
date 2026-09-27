@@ -783,6 +783,31 @@
             },
             {
               "node_type": "item",
+              "title": "RealTimeVideo-Instruct-112K (2026) — StreamTTT training annotations whose questions are posed when evidence first becomes visible. Includes Ego4D, Aria Digital Twin, and EgoTimeQA alongside general-video sources; source videos are obtained separately. Provides 22,493 Ego4D and 6,861 ADT samples.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Implementation of StreamTTT",
+                "homepage": null,
+                "id": 1350601186,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-13T19:58:14Z",
+                "open_issues": 0,
+                "owner": "zeyun-zhong",
+                "repo": "StreamTTT",
+                "stars": 8,
+                "topics": [
+                  "streaming-video",
+                  "test-time-training",
+                  "vlm"
+                ]
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "HowToDIV (2025) — ~24 h instructional; Dialog, procedural QA.",
               "description": null,
               "children": [],
@@ -930,6 +955,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1345707965,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-01T14:59:04Z",
+                "open_issues": 0,
+                "owner": "NYCU-NLP-Lab",
+                "repo": "EgoArgus",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "CrossView (2026) — ~6K multi-camera video questions across autonomous driving, surveillance, ego/exo activity, and robotics, including 4–7 synchronized Ego-Exo4D cameras per egocentric question.",
               "description": null,
               "children": [],
@@ -981,6 +1027,27 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoNight (2025) — Real and synthetic first-person videos with aligned day–night subsets and an additional night-only subset; 12 QA types evaluate low-light understanding. Introduced in a 2025 preprint and published at ICLR 2026, with auxiliary depth and day–night retrieval tasks.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1215706667,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-04-20T14:15:17Z",
+                "open_issues": 0,
+                "owner": "insait-institute",
+                "repo": "EgoNight",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -1094,6 +1161,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoArgus (2026)",
+              "description": "Modality-grounded assistance, intervention EgoArgus Official Dataset+benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1345707965,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-01T14:59:04Z",
+                "open_issues": 0,
+                "owner": "NYCU-NLP-Lab",
+                "repo": "EgoArgus",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
             {
               "node_type": "item",
               "title": "VIABench",
@@ -1554,7 +1642,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 650,
+                "stars": 651,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -1973,6 +2061,27 @@
             },
             {
               "node_type": "item",
+              "title": "EMPIRE-651K",
+              "description": "2026 650,910 windows / 111 tasks Bimanual hand-motion forecasting Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1341331676,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-25T05:33:25Z",
+                "open_issues": 1,
+                "owner": "wangwen-banban",
+                "repo": "EMPIRE",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EventEgoHands",
               "description": "2026 48 clips / 129.6K frames RGB+event hand detection Paper GitHub",
               "children": [],
@@ -2238,6 +2347,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An egocentric data pipeline that curates in-the-wild egocentric human videos into fully-annotated training data.",
+                "homepage": "https://egosteer.github.io/",
+                "id": 1277104373,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-26T12:04:38Z",
+                "open_issues": 0,
+                "owner": "egosteer",
+                "repo": "egosmith",
+                "stars": 84,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoTouch (2026) — 1,891 bimanual hand-object interaction episodes across 208 manipulation tasks with synchronized egocentric and wrist RGB video, 3D hand pose, and dense tactile pressure maps.",
               "description": null,
               "children": [],
@@ -2438,6 +2568,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1350553732,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-16T21:48:32Z",
+                "open_issues": 2,
+                "owner": "eth-siplab",
+                "repo": "EgoPHI",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "TREK-150 (2021) — 150 EPIC seq; Object tracking.",
               "description": null,
               "children": [],
@@ -2514,6 +2665,38 @@
             },
             {
               "node_type": "item",
+              "title": "EEH-R / N-HOT3D extension (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[IEEE Access 2026] EventEgoHands++ & [ICIP 2025] EventEgoHands official implementation",
+                "homepage": "https://ryhara.github.io/EventEgoHandsV2/",
+                "id": 1151304059,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T01:38:46Z",
+                "open_issues": 0,
+                "owner": "ryhara",
+                "repo": "EventEgoHandsV2",
+                "stars": 8,
+                "topics": [
+                  "event-based",
+                  "event-based-camera",
+                  "event-based-vision",
+                  "event-camera",
+                  "hand",
+                  "hand-detection",
+                  "hand-detector",
+                  "hand-pose",
+                  "hand-pose-detection",
+                  "hand-pose-estimation"
+                ]
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "ENIGMA-51 (2023) — 22 h industrial; Fine-grained behavior.",
               "description": null,
               "children": [],
@@ -2532,6 +2715,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EMPIRE-651K (2026) — Training windows paired with explicit per-hand manipulation plans for learning manipulation-aware future hand motion. The official EMPIRE repository supplies code and schema documentation and currently marks the dataset as coming soon.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1341331676,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-25T05:33:25Z",
+                "open_issues": 1,
+                "owner": "wangwen-banban",
+                "repo": "EMPIRE",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -2719,8 +2923,8 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-26T19:54:37Z",
-                "open_issues": 241,
+                "last_commit": "2026-09-27T05:08:17Z",
+                "open_issues": 242,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 552,
@@ -2837,6 +3041,34 @@
           "description": null,
           "node_type": "group",
           "title": "Entries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EgoErrorVQA (2026)",
+              "description": "Procedural-error understanding through open and multiple-choice QA CaptainCook4D / EPIC-Tent / EgoOops / Assembly101 Official Released annotations and evaluator; obtain source videos separately",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[EMNLP 2026] EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI",
+                "homepage": null,
+                "id": 1126151450,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-26T02:16:14Z",
+                "open_issues": 1,
+                "owner": "z1oong",
+                "repo": "EgoErrorVQA",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarks built on these datasets"
         }
       ],
       "title": "📋 Procedural Activities & Skill Learning"
@@ -2846,6 +3078,27 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "SlugTrails",
+              "description": "2026 3 buildings / 6 floors / 22,089 m² Floor-plan localization Paper GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
+                "homepage": null,
+                "id": 1331420197,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T17:43:25Z",
+                "open_issues": 1,
+                "owner": "Head-inthe-Cloud",
+                "repo": "SlugTrails",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
             {
               "node_type": "item",
               "title": "EgoTraj",
@@ -3039,6 +3292,27 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SlugTrails (2026) — 30 Hz Aria recordings aligned to semantic CAD floor plans using laser-surveyed anchors. Protocols cover walking single frames, stationary multi-view sweeps, and walking streams with odometry. The official repository lists data and evaluation tools as coming soon.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
+                "homepage": null,
+                "id": 1331420197,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T17:43:25Z",
+                "open_issues": 1,
+                "owner": "Head-inthe-Cloud",
+                "repo": "SlugTrails",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
             }
           ],
           "description": null,
@@ -3047,6 +3321,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "SlugTrails (2026)",
+              "description": "Single-frame, multi-view, and sequential floor-plan localization SlugTrails GitHub Data and tools coming soon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
+                "homepage": null,
+                "id": 1331420197,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-19T17:43:25Z",
+                "open_issues": 1,
+                "owner": "Head-inthe-Cloud",
+                "repo": "SlugTrails",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
             {
               "node_type": "item",
               "title": "EgoTraj",
@@ -3081,6 +3376,103 @@
       "items": [
         {
           "node_type": "item",
+          "title": "CapEgo",
+          "description": "Prototype for continuous capture, local annotation, dataset curation, and WAM exports; wearable hardware remains under development. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source egocentric (ego) data collection toolkit: continuous capture, local annotation, dataset curation, and validated WAM training exports.",
+            "homepage": null,
+            "id": 1380775045,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-24T06:12:54Z",
+            "open_issues": 0,
+            "owner": "Auromix",
+            "repo": "capego",
+            "stars": 0,
+            "topics": [
+              "data-collection",
+              "dataset-curation",
+              "ego",
+              "egocentric",
+              "egocentric-vision",
+              "egodex",
+              "world-action-model"
+            ]
+          },
+          "first_seen": "2026-09-27T23:25:03.707Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Ego Collector",
+          "description": "Pico video/body/hand import, episode annotation, G1 retargeting, and LeRobot v3 export. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PICO egocentric video and full-body tracking: annotation, G1 retargeting, and LeRobot v3 dataset export.",
+            "homepage": null,
+            "id": 1388402375,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-26T02:57:01Z",
+            "open_issues": 0,
+            "owner": "WB-WaM",
+            "repo": "Pico-Ego-Collector",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-27T23:25:03.707Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ego2LeRobot",
+          "description": "Transforms egocentric manipulation video into estimated world-frame bimanual 14-DoF trajectories and LeRobot datasets. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert egocentric videos (e.g. Egocentric-100K) into 14-DoF LeRobot state/action datasets for VLA / Pi0.5 pretrain.",
+            "homepage": null,
+            "id": 1377832275,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-20T03:02:07Z",
+            "open_issues": 0,
+            "owner": "alexantaluo0",
+            "repo": "Ego2LeRobot",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-27T23:25:03.707Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vernier",
+          "description": "Human-referenced audit tooling for hand-visibility and manipulation-quality claims in Egocentric-10K/100K. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Error bars on a dataset vendor's quality claim: pre-registered measurement of Build AI's Egocentric-10K/100K hand-visibility and manipulation figures, with human gold, PPI intervals, and a distilled judge.",
+            "homepage": null,
+            "id": 1357525278,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-05T22:11:16Z",
+            "open_issues": 0,
+            "owner": "caiotheodoro",
+            "repo": "vernier",
+            "stars": 1,
+            "topics": [
+              "dataset-quality",
+              "llm-as-judge",
+              "measurement",
+              "statistics"
+            ]
+          },
+          "first_seen": "2026-09-27T23:25:03.707Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ego4D CLI",
           "description": "Official downloader and tooling for accessing Ego4D releases. GitHub",
           "children": [],
@@ -3095,7 +3487,7 @@
             "open_issues": 74,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 650,
+            "stars": 651,
             "topics": [
               "computer-vision",
               "dataset",
@@ -3314,7 +3706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:10:01.389Z",
+    "last_updated": "2026-09-27T23:25:03.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3322,7 +3714,7 @@
       "id": 1188023612,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T07:00:06Z",
+      "last_commit": "2026-09-27T12:14:47Z",
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
@@ -3337,7 +3729,7 @@
         "video-datasets"
       ]
     },
-    "original_repository_sha": "b131939b7950b2028f21a501df13c648b3bbcf58",
+    "original_repository_sha": "ad66766a81ce7252eca47454f91a3003e5c3e259",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
     "title": "🎥 Awesome Egocentric Video Datasets with stars"
