@@ -220,7 +220,7 @@
                 "open_issues": 10,
                 "owner": "antoyang",
                 "repo": "VidChapters",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "dense-video-captioning",
                   "multimodal-learning",
@@ -252,7 +252,7 @@
                 "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -613,7 +613,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -797,7 +797,7 @@
                 "open_issues": 0,
                 "owner": "zeyun-zhong",
                 "repo": "StreamTTT",
-                "stars": 8,
+                "stars": 10,
                 "topics": [
                   "streaming-video",
                   "test-time-training",
@@ -822,7 +822,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1366,7 +1366,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2066,7 +2066,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting",
                 "homepage": null,
                 "id": 1341331676,
                 "language": "Python",
@@ -2138,7 +2138,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2410,6 +2410,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoEMG (2026) — 10+ h of synchronized bilateral EMG, IMU, egocentric RGB, external RGB-D, and mocap-derived hand pose across 41 participants and 60 gesture classes.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1231599062,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T03:29:40Z",
+                "open_issues": 1,
+                "owner": "zhenqis123",
+                "repo": "EgoEMG",
+                "stars": 51,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "You2Me (2020) — 14 seq., chest-mounted GoPro; Body pose via ego–exo interaction.",
               "description": null,
               "children": [],
@@ -2425,27 +2446,6 @@
                 "owner": "facebookresearch",
                 "repo": "you2me",
                 "stars": 51,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoEMG (2026) — 10+ h of synchronized bilateral EMG, IMU, egocentric RGB, external RGB-D, and mocap-derived hand pose across 41 participants and 60 gesture classes.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1231599062,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-28T03:29:40Z",
-                "open_issues": 1,
-                "owner": "zhenqis123",
-                "repo": "EgoEMG",
-                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2723,7 +2723,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting",
                 "homepage": null,
                 "id": 1341331676,
                 "language": "Python",
@@ -2802,7 +2802,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2923,11 +2923,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-27T05:08:17Z",
-                "open_issues": 242,
+                "last_commit": "2026-09-28T23:19:13Z",
+                "open_issues": 243,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 552,
+                "stars": 553,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3090,7 +3090,7 @@
                 "id": 1331420197,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T17:43:25Z",
+                "last_commit": "2026-09-28T05:51:28Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -3305,7 +3305,7 @@
                 "id": 1331420197,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T17:43:25Z",
+                "last_commit": "2026-09-28T05:51:28Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -3333,7 +3333,7 @@
                 "id": 1331420197,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T17:43:25Z",
+                "last_commit": "2026-09-28T05:51:28Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -3706,7 +3706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:25:03.707Z",
+    "last_updated": "2026-09-29T00:35:18.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3718,7 +3718,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 225,
+      "stars": 226,
       "topics": [
         "awesome-list",
         "computer-vision",
