@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -195,7 +195,7 @@
                 "open_issues": 12,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -252,7 +252,7 @@
                 "open_issues": 5,
                 "owner": "egoschema",
                 "repo": "EgoSchema",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -688,7 +688,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -797,7 +797,7 @@
                 "open_issues": 0,
                 "owner": "zeyun-zhong",
                 "repo": "StreamTTT",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "streaming-video",
                   "test-time-training",
@@ -1639,7 +1639,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-25T16:23:16Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
                 "stars": 651,
@@ -2075,7 +2075,7 @@
                 "open_issues": 1,
                 "owner": "wangwen-banban",
                 "repo": "EMPIRE",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -2357,7 +2357,7 @@
                 "id": 1277104373,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T12:04:38Z",
+                "last_commit": "2026-09-29T19:10:23Z",
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
@@ -2466,7 +2466,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 43,
+                "stars": 45,
                 "topics": [
                   "3d",
                   "arctic",
@@ -2732,7 +2732,7 @@
                 "open_issues": 1,
                 "owner": "wangwen-banban",
                 "repo": "EMPIRE",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -2923,11 +2923,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-28T23:19:13Z",
+                "last_commit": "2026-09-29T21:24:54Z",
                 "open_issues": 243,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 553,
+                "stars": 554,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3094,7 +3094,7 @@
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -3115,7 +3115,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3263,7 +3263,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3309,7 +3309,7 @@
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -3337,7 +3337,7 @@
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -3358,7 +3358,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3484,7 +3484,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-07-25T16:23:16Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "facebookresearch",
             "repo": "Ego4d",
             "stars": 651,
@@ -3535,7 +3535,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3644,7 +3644,7 @@
             "open_issues": 3,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -3706,7 +3706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:35:18.758Z",
+    "last_updated": "2026-09-29T23:57:34.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3718,7 +3718,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 226,
+      "stars": 227,
       "topics": [
         "awesome-list",
         "computer-vision",
