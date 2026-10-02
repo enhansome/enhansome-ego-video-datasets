@@ -997,6 +997,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoNight (2025) — Real and synthetic first-person videos with aligned day–night subsets and an additional night-only subset; 12 QA types evaluate low-light understanding. Introduced in a 2025 preprint and published at ICLR 2026, with auxiliary depth and day–night retrieval tasks.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1215706667,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-04-20T14:15:17Z",
+                "open_issues": 0,
+                "owner": "insait-institute",
+                "repo": "EgoNight",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "GameplayQA (2026) — ~2.4K QA pairs across 15 task categories and 3 cognitive levels for decision-dense, POV-synced multi-video understanding of multi-agent 3D gameplay, with densely labeled first-person player viewpoints (1.22 labels/sec); egocentric viewpoints are virtual/synthetic. ACL 2026.",
               "description": null,
               "children": [],
@@ -1027,27 +1048,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoNight (2025) — Real and synthetic first-person videos with aligned day–night subsets and an additional night-only subset; 12 QA types evaluate low-light understanding. Introduced in a 2025 preprint and published at ICLR 2026, with auxiliary depth and day–night retrieval tasks.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1215706667,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-04-20T14:15:17Z",
-                "open_issues": 0,
-                "owner": "insait-institute",
-                "repo": "EgoNight",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -1593,7 +1593,7 @@
                 "open_issues": 0,
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1862,7 +1862,7 @@
                 "open_issues": 0,
                 "owner": "EgocentricVision",
                 "repo": "N-EPIC-Kitchens",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2138,7 +2138,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2357,7 +2357,7 @@
                 "id": 1277104373,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T19:10:23Z",
+                "last_commit": "2026-10-01T12:45:05Z",
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
@@ -2403,7 +2403,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2424,7 +2424,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2760,6 +2760,27 @@
             },
             {
               "node_type": "item",
+              "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repo for the Ego-Exo4D human meshes dataset",
+                "homepage": "https://abhiram824.github.io/egoexo4d_human_meshes/",
+                "id": 1333922757,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T05:32:15Z",
+                "open_issues": 0,
+                "owner": "Abhiram824",
+                "repo": "egoexo4d_human_meshes",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-02T00:14:52.229Z"
+            },
+            {
+              "node_type": "item",
               "title": "EventEgoHands (2026) — 48 egocentric clips (~1.2 h, 129.6K frames) pairing RGB with synthetic event streams (synthesized from EgoHands via v2e) and 393K hand bounding boxes for RGB-event hand detection under motion blur and low light.",
               "description": null,
               "children": [],
@@ -2802,7 +2823,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2923,11 +2944,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-30T23:08:11Z",
+                "last_commit": "2026-10-01T20:07:37Z",
                 "open_issues": 245,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3706,7 +3727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:11:13.606Z",
+    "last_updated": "2026-10-02T00:14:52.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
