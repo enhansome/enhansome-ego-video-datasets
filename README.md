@@ -246,7 +246,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * \[⭐️] **EgoLife** (2025) — \~266-300 h of daily-life capture in EgoHouse with Meta Aria, third-person cameras, and mmWave sensors for persistent assistant memory.
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.03803-b31b1b.svg)](https://arxiv.org/abs/2503.03803) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egolife-ai.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 466 | 🐛 12 | 🌐 Python | 📅 2025-03-19 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/lmms-lab/EgoLife)
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.03803-b31b1b.svg)](https://arxiv.org/abs/2503.03803) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egolife-ai.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/EvolvingLMMs-Lab/EgoLife) ⭐ 466 | 🐛 13 | 🌐 Python | 📅 2025-03-19 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/lmms-lab/EgoLife)
 
 * **VidChapters-7M** (2023) — 817K videos / 7M chapters; Chaptering (not ego-only).
   [![arXiv](https://img.shields.io/badge/arXiv-2309.13952-b31b1b.svg)](https://arxiv.org/abs/2309.13952) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://antoyang.github.io/vidchapters.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/antoyang/VidChapters) ⭐ 215 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2023-11-13
@@ -828,7 +828,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
   [![arXiv](https://img.shields.io/badge/arXiv-2412.04592-b31b1b.svg)](https://arxiv.org/abs/2412.04592) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://arxiv.org/abs/2412.04592) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/AhmadDarKhalil/EgoPoints) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-03-20
 
 * **EEH-R / N-HOT3D extension** (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).
-  [![arXiv](https://img.shields.io/badge/arXiv-2609.17189-b31b1b.svg)](https://arxiv.org/abs/2609.17189) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://ryhara.github.io/EventEgoHandsV2/) [![Code](https://img.shields.io/badge/Code-Link-black.svg)](https://github.com/ryhara/EventEgoHandsV2) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-09-19
+  [![arXiv](https://img.shields.io/badge/arXiv-2609.17189-b31b1b.svg)](https://arxiv.org/abs/2609.17189) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://ryhara.github.io/EventEgoHandsV2/) [![Code](https://img.shields.io/badge/Code-Link-black.svg)](https://github.com/ryhara/EventEgoHandsV2) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 
 * **ENIGMA-51** (2023) — 22 h industrial; Fine-grained behavior.
   [![arXiv](https://img.shields.io/badge/arXiv-2309.14809-b31b1b.svg)](https://arxiv.org/abs/2309.14809) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://fpv-iplab.github.io/ENIGMA-51/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/fpv-iplab/ENIGMA-51) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-20
@@ -990,7 +990,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * **EgoVerse** (2026) — 1,362 h of egocentric human demonstrations spanning \~80K episodes and 1,965 tasks for robot learning from human manipulation experience.
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 556 | 🐛 245 | 🌐 Jupyter Notebook | 📅 2026-10-01
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 557 | 🐛 245 | 🌐 Jupyter Notebook | 📅 2026-10-02
 
 * \[⭐️] **EgoExoLearn** (2024) — 120 h ego+exo; Procedural, async views.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/OpenGVLab/EgoExoLearn) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2025-08-26 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/hyf015/EgoExoLearn)
