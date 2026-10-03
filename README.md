@@ -104,7 +104,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 | Ego2Robot               | 2026 | 18,561 h / 15 robot morphologies              | Ego-to-robot data synthesis, VLA pretraining | [Paper](https://arxiv.org/abs/2608.02580) | [Site](https://www-ye.github.io/ego2robot_blog/)                                               |
 | ACE-Data-0              | 2026 | 150 h / 75K episodes / 200 tasks              | Multimodal embodied pretraining              | [Paper](https://arxiv.org/abs/2607.28625) | [Site](https://ace-data-engine.github.io/ACE-Data-0/)                                          |
 | EgoPlay                 | 2026 | 106K event-triggered clip-prompt pairs        | Event-triggered ego video editing            | [Paper](https://arxiv.org/abs/2607.24560) | N/A                                                                                            |
-| Open-AoE                | 2026 | \~2,000 h / 500+ contributors                 | Manipulation pretraining, data toolchain     | [Paper](https://arxiv.org/abs/2607.14183) | [GitHub](https://github.com/ant-research/Open-AoE) ⭐ 177 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-24 |
+| Open-AoE                | 2026 | \~2,000 h / 500+ contributors                 | Manipulation pretraining, data toolchain     | [Paper](https://arxiv.org/abs/2607.14183) | [GitHub](https://github.com/ant-research/Open-AoE) ⭐ 178 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-24 |
 | EgoVid-Pro              | 2026 | 103K clips / \~12M frames                     | Hand-controlled ego video generation         | [Paper](https://arxiv.org/abs/2607.02075) | N/A                                                                                            |
 | RetailSMV               | 2026 | 32,105 clips / 16.1K ego + 16.0K exo          | Retail world-model adaptation                | [Paper](https://arxiv.org/abs/2607.00310) | [Site](https://dreamvu.ai/retailsmv/)                                                          |
 | EgoCS-400K              | 2026 | 400K+ videos / 10K h gameplay                 | Action-conditioned world models              | [Paper](https://arxiv.org/abs/2606.18180) | N/A                                                                                            |
@@ -120,7 +120,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * **Open-AoE** (2026) — \~2,000 h of smartphone-collected manipulation video from 500+ contributors with bilingual text, MANO hand pose, camera trajectory, and atomic-action annotations, plus capture-to-training tools for VLA and world-model research.
-  [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b.svg)](https://arxiv.org/abs/2607.14183) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/ant-research/Open-AoE) ⭐ 177 | 🐛 4 | 🌐 Python | 📅 2026-09-24 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
+  [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b.svg)](https://arxiv.org/abs/2607.14183) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/ant-research/Open-AoE) ⭐ 178 | 🐛 4 | 🌐 Python | 📅 2026-09-24 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
 
 * **EgoVid-5M** (2024) — 5M first-person clips curated for text-and-motion-conditioned video generation from wearable footage.
   [![arXiv](https://img.shields.io/badge/arXiv-2411.08380-b31b1b.svg)](https://arxiv.org/abs/2411.08380) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egovid.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/JeffWang987/EgoVid) ⭐ 145 | 🐛 3 | 🌐 Python | 📅 2025-07-31
@@ -990,7 +990,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 ### Entries
 
 * **EgoVerse** (2026) — 1,362 h of egocentric human demonstrations spanning \~80K episodes and 1,965 tasks for robot learning from human manipulation experience.
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 557 | 🐛 245 | 🌐 Jupyter Notebook | 📅 2026-10-02
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://egoverse.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/GaTech-RL2/EgoVerse) ⭐ 558 | 🐛 245 | 🌐 Jupyter Notebook | 📅 2026-10-02
 
 * \[⭐️] **EgoExoLearn** (2024) — 120 h ego+exo; Procedural, async views.
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Site](https://img.shields.io/badge/Site-Link-blue.svg)](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html) [![Code](https://img.shields.io/badge/Code-GitHub-black.svg)](https://github.com/OpenGVLab/EgoExoLearn) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2025-08-26 [![🤗](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow.svg)](https://huggingface.co/datasets/hyf015/EgoExoLearn)
@@ -1192,7 +1192,7 @@ Sorted newest to oldest, with flagship surveys and corpus papers highlighted fir
 | Vernier                | Human-referenced audit tooling for hand-visibility and manipulation-quality claims in Egocentric-10K/100K.                          | [GitHub](https://github.com/caiotheodoro/vernier) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-05                     |
 | Ego4D CLI              | Official downloader and tooling for accessing Ego4D releases.                                                                       | [GitHub](https://github.com/facebookresearch/Ego4d) ⭐ 651 \| 🐛 75 \| 🌐 Jupyter Notebook \| 📅 2026-07-25      |
 | HOMIE-toolkit          | Toolkit released with Ropedia Xperience-10M for large-scale multimodal ego data.                                                    | [GitHub](https://github.com/Ropedia/HOMIE-toolkit) ⭐ 122 \| 🐛 0 \| 🌐 Python \| 📅 2026-06-11                  |
-| Open-AoE Toolchain     | Smartphone capture, reconstruction, visualization, retargeting, and model-ready conversion for Open-AoE.                            | [GitHub](https://github.com/ant-research/Open-AoE) ⭐ 177 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-24                  |
+| Open-AoE Toolchain     | Smartphone capture, reconstruction, visualization, retargeting, and model-ready conversion for Open-AoE.                            | [GitHub](https://github.com/ant-research/Open-AoE) ⭐ 178 \| 🐛 4 \| 🌐 Python \| 📅 2026-09-24                  |
 | Ego-OSCAR              | Open-hardware stereo-inertial capture device and recording stack with a sub-$200 bill of materials.                                 | [Paper](https://arxiv.org/abs/2608.08285)                                                                       |
 | ego-stereo-cn-v1-tools | Loading + timing verification for the ego-stereo-cn-v1 LeRobot v3 stereo+IMU sample (hardware-synced).                              | [GitHub](https://github.com/TateZhouSiu/ego-stereo-cn-v1-tools) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-09       |
 | AssemblyHands Toolkit  | Official toolkit for the AssemblyHands benchmark.                                                                                   | [GitHub](https://github.com/facebookresearch/assemblyhands-toolkit) ⭐ 138 \| 🐛 6 \| 🌐 Python \| 📅 2026-05-25 |
@@ -1221,4 +1221,4 @@ If you have suggestions, dataset updates, or find this project useful, feel free
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

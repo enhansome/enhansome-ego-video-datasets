@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Open-AoE (2026) — ~2,000 h of smartphone-collected manipulation video from 500+ contributors with bilingual text, MANO hand pose, camera trajectory, and atomic-action annotations, plus capture-to-training tools for VLA and world-model research.",
-              "description": null,
+              "description": "ant-research/Open-AoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 177,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -57,7 +57,7 @@
             {
               "node_type": "item",
               "title": "EgoVid-5M (2024) — 5M first-person clips curated for text-and-motion-conditioned video generation from wearable footage.",
-              "description": null,
+              "description": "JeffWang987/EgoVid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] Ropedia Xperience-10M (2026) — 10M multimodal experiences with 6 RGB streams, stereo depth, pose/SLAM, hand-body mocap, audio, and IMU for large-scale ego pretraining.",
-              "description": null,
+              "description": "Ropedia/HOMIE-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "WM-H (Wh0) (2026) — 50K world-model-generated egocentric human-object manipulation episodes conditioned on language, objects, and scenes, then converted into robot-trainable supervision for dexterous VLA adaptation.",
-              "description": null,
+              "description": "chenyt31/Wh0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -182,7 +182,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EgoLife (2025) — ~266-300 h of daily-life capture in EgoHouse with Meta Aria, third-person cameras, and mmWave sensors for persistent assistant memory.",
-              "description": null,
+              "description": "EvolvingLMMs-Lab/EgoLife",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "VidChapters-7M (2023) — 817K videos / 7M chapters; Chaptering (not ego-only).",
-              "description": null,
+              "description": "antoyang/VidChapters",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,7 +239,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EgoSchema (2023) — 250+ h of long-form Ego4D video with 5K QA pairs designed to probe memory and causal understanding over extended clips.",
-              "description": null,
+              "description": "egoschema/EgoSchema",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -260,7 +260,7 @@
             {
               "node_type": "item",
               "title": "EgoServe (2026) — 3K+ manually verified proactive-service instances over EgoLife, HoloAssist, and CaptainCook4D, organized into 10 assistance categories and four temporal horizons from instant alerts to multi-day habit coaching.",
-              "description": null,
+              "description": "SitongGong/EgoMemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "EgoMemReason (2026) — 500 multiple-choice questions over week-long EgoLife video for entity, event, and behavior memory reasoning, with public questions and leaderboard evaluation.",
-              "description": null,
+              "description": "Ziyang412/EgoMemReason",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "MA-EgoQA (2026) — 1,741 QA pairs over six temporally aligned EgoLife egocentric streams spanning seven days, targeting multi-agent social interaction, task coordination, theory-of-mind, temporal reasoning, and environmental interaction.",
-              "description": null,
+              "description": "KangsanKim07/MA-EgoQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,7 +323,7 @@
             {
               "node_type": "item",
               "title": "EgoExoMem (2026) — 2.6K human-verified MCQs over 390 synchronized egocentric and exocentric videos from EgoExo4D and LEMMA for cross-view memory reasoning.",
-              "description": null,
+              "description": "RuipingL/EgoExoMem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Multi-Ego (2022) — ~12 h / 41 seq; Multi-wearer, summarization.",
-              "description": null,
+              "description": "M-Elfeki/Multi-DPP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EgoClip (2022) — 3.8M clip–text pairs; Video-language pretraining.",
-              "description": null,
+              "description": "showlab/EgoVLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -675,7 +675,7 @@
             {
               "node_type": "item",
               "title": "HumanCLAW-Bench (2026) — 1,218 long-horizon find–navigate–interact episodes across 41 simulated indoor scenes for evaluating whether VLMs can select and sequence actions from a continuously updated egocentric body view.",
-              "description": null,
+              "description": "Human-CLAW/HumanCLAW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -696,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Minerva-Ego (2026) — 1,160 hand-crafted multiple-choice questions over 156 HD-EPIC egocentric videos, paired with dense spatiotemporal human reasoning traces and object masks for diagnosable video reasoning.",
-              "description": null,
+              "description": "google-deepmind/neptune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,7 +717,7 @@
             {
               "node_type": "item",
               "title": "EgoTaskQA (2022) — ~2K videos / 40K QA; Causal & task QA.",
-              "description": null,
+              "description": "Buzz-Beater/EgoTaskQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -738,7 +738,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] HD-EPIC (2025) — ~41 h of densely labeled cooking video with recipe steps, audio events, gaze, 3D grounding, and VQA supervision.",
-              "description": null,
+              "description": "hd-epic/hd-epic-annotations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "Ego2Web (2026) — 500 egocentric video-instruction pairs for evaluating web agents that must ground real-world first-person visual context before executing online tasks.",
-              "description": null,
+              "description": "Yui010206/Ego2Web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +784,7 @@
             {
               "node_type": "item",
               "title": "RealTimeVideo-Instruct-112K (2026) — StreamTTT training annotations whose questions are posed when evidence first becomes visible. Includes Ego4D, Aria Digital Twin, and EgoTimeQA alongside general-video sources; source videos are obtained separately. Provides 22,493 Ego4D and 6,861 ADT samples.",
-              "description": null,
+              "description": "zeyun-zhong/StreamTTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -809,7 +809,7 @@
             {
               "node_type": "item",
               "title": "HowToDIV (2025) — ~24 h instructional; Dialog, procedural QA.",
-              "description": null,
+              "description": "google/howtodiv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -830,7 +830,7 @@
             {
               "node_type": "item",
               "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
-              "description": null,
+              "description": "MCG-NJU/VIABench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
-              "description": null,
+              "description": "Ryougetsu3606/MyEgo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "Causal-Plan-1M (2026) — 1M QA pairs with four-stage causal reasoning-trace annotations over 22,201 egocentric clips (770+ h curated from Ego4D, EPIC-KITCHENS, HoloAssist, MECCANO, and others), plus the 1,200-instance Causal-Plan-Bench for physically grounded embodied planning.",
-              "description": null,
+              "description": "THUSI-Lab/Causal-Reasoner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -893,7 +893,7 @@
             {
               "node_type": "item",
               "title": "EgoEMS (2025) — 20+ h emergency scenarios; EMS QA, multimodal.",
-              "description": null,
+              "description": "UVA-DSA/EgoEMS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
             {
               "node_type": "item",
               "title": "EgoSAT (2026) — 1,997 Ego4D videos (165 h) with ~4.8K QA pairs for streaming egocentric interaction understanding, covering retrospective, present, and prospective reasoning under partial observability.",
-              "description": null,
+              "description": "leiyj23/EgoSAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -935,7 +935,7 @@
             {
               "node_type": "item",
               "title": "LifeDialBench / EgoMem (2026) — Lifelog memory benchmark with EgoMem built from real-world egocentric videos and an online evaluation protocol; the project page currently marks the dataset and scripts as coming soon.",
-              "description": null,
+              "description": "RayNeo-AI-2025/LifeDialBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
-              "description": null,
+              "description": "NYCU-NLP-Lab/EgoArgus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -977,7 +977,7 @@
             {
               "node_type": "item",
               "title": "CrossView (2026) — ~6K multi-camera video questions across autonomous driving, surveillance, ego/exo activity, and robotics, including 4–7 synchronized Ego-Exo4D cameras per egocentric question.",
-              "description": null,
+              "description": "UTAustin-SwarmLab/CrossView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -998,7 +998,7 @@
             {
               "node_type": "item",
               "title": "EgoNight (2025) — Real and synthetic first-person videos with aligned day–night subsets and an additional night-only subset; 12 QA types evaluate low-light understanding. Introduced in a 2025 preprint and published at ICLR 2026, with auxiliary depth and day–night retrieval tasks.",
-              "description": null,
+              "description": "insait-institute/EgoNight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1019,7 +1019,7 @@
             {
               "node_type": "item",
               "title": "GameplayQA (2026) — ~2.4K QA pairs across 15 task categories and 3 cognitive levels for decision-dense, POV-synced multi-video understanding of multi-agent 3D gameplay, with densely labeled first-person player viewpoints (1.22 labels/sec); egocentric viewpoints are virtual/synthetic. ACL 2026.",
-              "description": null,
+              "description": "HATS-ICT/GameplayQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +1052,7 @@
             {
               "node_type": "item",
               "title": "AssistQ (2022) — 100 long videos / 529 QA; Instructional QA.",
-              "description": null,
+              "description": "showlab/assistq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +1073,7 @@
             {
               "node_type": "item",
               "title": "LongEgoRefer (2026) — 1,498 referring expressions over long-form Ego4D videos averaging 45 minutes, requiring temporal and spatial localization of sparse referred objects in untrimmed egocentric recordings.",
-              "description": null,
+              "description": "shunya-kato/LongEgoRefer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1094,7 +1094,7 @@
             {
               "node_type": "item",
               "title": "EgoGapBench (2026) — 1,000 egocentric action-selection items from multi-agent scenes without first-person body cues, designed to test whether VLMs choose actions from the correct self/other perspective.",
-              "description": null,
+              "description": "jhCOR/EgoGapBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "Pause-and-Think (2026) — 10,051 reasoning-annotated training QA clips and a 300-sample benchmark curated from EPIC-KITCHENS, Ego4D, and Assembly101 with structured thinking/answer supervision for video-grounded assistive action suggestion and goal planning.",
-              "description": null,
+              "description": "sssshivvvv/pause-and-think",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1136,7 +1136,7 @@
             {
               "node_type": "item",
               "title": "EgoCoT-Bench (2026) — 3,172 verifiable QA pairs over 351 first-person videos (sourced from Ego4D, EPIC-KITCHENS, Charades-Ego, MECCANO, and HD-EPIC) with step-by-step rationale annotations for evaluating grounded operation-centric chain-of-thought reasoning in MLLMs.",
-              "description": null,
+              "description": "DStardust/EgoCoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1629,7 +1629,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] Ego4D (2022) — ~3,670 h; AR, VQA, forecasting, many.",
-              "description": null,
+              "description": "facebookresearch/Ego4d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1656,7 +1656,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EPIC-KITCHENS-100 (2021) — 100 h of unscripted kitchen activity with 90K segments; the canonical egocentric action-recognition and anticipation benchmark.",
-              "description": null,
+              "description": "epic-kitchens/epic-kitchens-100-annotations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1677,7 +1677,7 @@
             {
               "node_type": "item",
               "title": "World In Your Hands (2025) — 1000+ h of labeled human manipulation data with video-language annotations for action understanding, dexterous transfer, and VLA training.",
-              "description": null,
+              "description": "tars-robotics/World-In-Your-Hands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1698,7 +1698,7 @@
             {
               "node_type": "item",
               "title": "EgoCom (2020) — 38.5 h conversation; Multiperson ego dialog.",
-              "description": null,
+              "description": "facebookresearch/EgoCom-Dataset",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1719,7 +1719,7 @@
             {
               "node_type": "item",
               "title": "EgoExo-Fitness (2024) — 32 h of synchronized egocentric and exocentric fitness video with temporal boundaries, sub-step annotations, action comments, and quality scores for full-body action understanding.",
-              "description": null,
+              "description": "iSEE-Laboratory/EgoExo-Fitness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1744,7 +1744,7 @@
             {
               "node_type": "item",
               "title": "MECCANO (2021) — ~55 h industrial; HOI, ego.",
-              "description": null,
+              "description": "fpv-iplab/MECCANO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1765,7 +1765,7 @@
             {
               "node_type": "item",
               "title": "LEMMA (2020) — Multi-view activities; Multi-agent tasks.",
-              "description": null,
+              "description": "Buzz-Beater/LEMMA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1786,7 +1786,7 @@
             {
               "node_type": "item",
               "title": "EgoSurgery (Phase / Tool / HTS) (2024) — Open-surgery ego video with companion phase, tool, and hand-tool segmentation releases for phase recognition, instrument analysis, and dense surgical interaction understanding.",
-              "description": null,
+              "description": "Fujiry0/EgoSurgery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1807,7 +1807,7 @@
             {
               "node_type": "item",
               "title": "Epic-Sounding-Object (2023) — 3.2K short clips; Audio-visual localization.",
-              "description": null,
+              "description": "WikiChao/Ego-AV-Loc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1828,7 +1828,7 @@
             {
               "node_type": "item",
               "title": "E³ (Exploring Embodied Emotion) (2024) — 50+ h; Emotion, multimodal ego.",
-              "description": null,
+              "description": "Exploring-Embodied-Emotion-official/E3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1849,7 +1849,7 @@
             {
               "node_type": "item",
               "title": "N-EPIC-KITCHENS (2022) — Event + RGB subset; Action, neuromorphic.",
-              "description": null,
+              "description": "EgocentricVision/N-EPIC-Kitchens",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1870,7 +1870,7 @@
             {
               "node_type": "item",
               "title": "HOMAGE (2021) — 30 h / compositional; Home activities.",
-              "description": null,
+              "description": "nishantrai18/homage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1891,7 +1891,7 @@
             {
               "node_type": "item",
               "title": "HoloAssist (2023) — 169 h; Interactive assistants.",
-              "description": null,
+              "description": "Ember-HoloAssist/holoassist-release",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1912,7 +1912,7 @@
             {
               "node_type": "item",
               "title": "EgoCampus (2025) — ~32 h / campus paths (paper); Gaze, pedestrian ego.",
-              "description": null,
+              "description": "ComputerVisionRutgers/EgoCampus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1933,7 +1933,7 @@
             {
               "node_type": "item",
               "title": "EgoPolice (2026) — 180+ h of real police body-worn camera footage with second-by-second annotations for nine high-stakes police/civilian action classes, classification folds, and multiple-choice VideoQA.",
-              "description": null,
+              "description": "princetonvisualai/EgoPolice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2237,7 +2237,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EgoDex (2025) — 829 h / 30K trajectories; Dexterous manipulation, pose.",
-              "description": null,
+              "description": "apple-aiml-research/ml-egodex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2258,7 +2258,7 @@
             {
               "node_type": "item",
               "title": "FPHA (2018) — 1,175 RGB-D sequences with 3D hand pose and action labels; a foundational first-person hand-action benchmark.",
-              "description": null,
+              "description": "guiggh/hand_pose_action",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2285,7 +2285,7 @@
             {
               "node_type": "item",
               "title": "EgoHOS (2022) — 11K+ images; Hand–object segmentation.",
-              "description": null,
+              "description": "owenzlz/EgoHOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2306,7 +2306,7 @@
             {
               "node_type": "item",
               "title": "AssemblyHands (2023) — 3M egocentric hand images on top of Assembly101 for detailed 3D hand pose estimation during assembly.",
-              "description": null,
+              "description": "facebookresearch/assemblyhands-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "EgoObjects (2023) — 9.2K+ videos; Detection, instance seg.",
-              "description": null,
+              "description": "facebookresearch/EgoObjects",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2348,7 +2348,7 @@
             {
               "node_type": "item",
               "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
-              "description": null,
+              "description": "egosteer/egosmith",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
             {
               "node_type": "item",
               "title": "EgoTouch (2026) — 1,891 bimanual hand-object interaction episodes across 208 manipulation tasks with synchronized egocentric and wrist RGB video, 3D hand pose, and dense tactile pressure maps.",
-              "description": null,
+              "description": "Jianyi2004/TouchAnything",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,7 +2390,7 @@
             {
               "node_type": "item",
               "title": "H2O (2021) — 100K+ frames; Two-hand interaction.",
-              "description": null,
+              "description": "taeinkwon/h2odataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2411,7 +2411,7 @@
             {
               "node_type": "item",
               "title": "EgoEMG (2026) — 10+ h of synchronized bilateral EMG, IMU, egocentric RGB, external RGB-D, and mocap-derived hand pose across 41 participants and 60 gesture classes.",
-              "description": null,
+              "description": "zhenqis123/EgoEMG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2432,7 +2432,7 @@
             {
               "node_type": "item",
               "title": "You2Me (2020) — 14 seq., chest-mounted GoPro; Body pose via ego–exo interaction.",
-              "description": null,
+              "description": "facebookresearch/you2me",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2453,7 +2453,7 @@
             {
               "node_type": "item",
               "title": "EPIC-Contact (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.",
-              "description": null,
+              "description": "Sid2697/HOPformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2483,7 +2483,7 @@
             {
               "node_type": "item",
               "title": "Touch and Go (2022) — 12K+ vis–tactile frames; Vision + touch.",
-              "description": null,
+              "description": "fredfyyang/Touch-and-Go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2504,7 +2504,7 @@
             {
               "node_type": "item",
               "title": "EgoPAT3D (2022) — 1M+ frames RGB-D; 3D action target prediction.",
-              "description": null,
+              "description": "ai4ce/EgoPAT3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2537,7 +2537,7 @@
             {
               "node_type": "item",
               "title": "POV-Surgery (2023) — ~88K frames, 53 seq. (synth.); Surgical hand–tool pose, segmentation.",
-              "description": null,
+              "description": "BatFaceWayne/POV_Surgery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2569,7 +2569,7 @@
             {
               "node_type": "item",
               "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
-              "description": null,
+              "description": "eth-siplab/EgoPHI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2590,7 +2590,7 @@
             {
               "node_type": "item",
               "title": "TREK-150 (2021) — 150 EPIC seq; Object tracking.",
-              "description": null,
+              "description": "matteo-dunnhofer/fpv-tracking-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2624,7 +2624,7 @@
             {
               "node_type": "item",
               "title": "EgoEVHands (2026) — 5,419 real-world stereo event-camera egocentric sequences with dense 2D/3D hand keypoints across 38 gesture classes; the official repository currently says code, models, and dataset links are to be uploaded.",
-              "description": null,
+              "description": "ZJUWang01/EgoEv-HandPose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2645,7 +2645,7 @@
             {
               "node_type": "item",
               "title": "EgoPoints (2025) — Point tracks + synthetic; Tracking in ego video.",
-              "description": null,
+              "description": "AhmadDarKhalil/EgoPoints",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2666,7 +2666,7 @@
             {
               "node_type": "item",
               "title": "EEH-R / N-HOT3D extension (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).",
-              "description": null,
+              "description": "ryhara/EventEgoHandsV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2698,7 +2698,7 @@
             {
               "node_type": "item",
               "title": "ENIGMA-51 (2023) — 22 h industrial; Fine-grained behavior.",
-              "description": null,
+              "description": "fpv-iplab/ENIGMA-51",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2719,7 +2719,7 @@
             {
               "node_type": "item",
               "title": "EMPIRE-651K (2026) — Training windows paired with explicit per-hand manipulation plans for learning manipulation-aware future hand motion. The official EMPIRE repository supplies code and schema documentation and currently marks the dataset as coming soon.",
-              "description": null,
+              "description": "wangwen-banban/EMPIRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2740,7 +2740,7 @@
             {
               "node_type": "item",
               "title": "VISOR (2022) — EPIC + masks / relations; Segmentation, HOI.",
-              "description": null,
+              "description": "epic-kitchens/VISOR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2761,7 +2761,7 @@
             {
               "node_type": "item",
               "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
-              "description": null,
+              "description": "Abhiram824/egoexo4d_human_meshes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2782,7 +2782,7 @@
             {
               "node_type": "item",
               "title": "EventEgoHands (2026) — 48 egocentric clips (~1.2 h, 129.6K frames) pairing RGB with synthetic event streams (synthesized from EgoHands via v2e) and 393K hand bounding boxes for RGB-event hand detection under motion blur and low light.",
-              "description": null,
+              "description": "SynthSyntax/EventEgoHands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2935,7 +2935,7 @@
             {
               "node_type": "item",
               "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
-              "description": null,
+              "description": "GaTech-RL2/EgoVerse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2948,7 +2948,7 @@
                 "open_issues": 245,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 557,
+                "stars": 558,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2956,7 +2956,7 @@
             {
               "node_type": "item",
               "title": "[⭐️] EgoExoLearn (2024) — 120 h ego+exo; Procedural, async views.",
-              "description": null,
+              "description": "OpenGVLab/EgoExoLearn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2977,7 +2977,7 @@
             {
               "node_type": "item",
               "title": "EgoProceL (2022) — 62 videos / 16 tasks; Procedure learning.",
-              "description": null,
+              "description": "Sid2697/EgoProceL-egocentric-procedure-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2998,7 +2998,7 @@
             {
               "node_type": "item",
               "title": "GM-100 (2026) — 100+ detail-oriented robot manipulation tasks with 13K+ teleoperated trajectories and robot first-person camera views for embodied skill evaluation.",
-              "description": null,
+              "description": "rhos-ai/GM-X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3019,7 +3019,7 @@
             {
               "node_type": "item",
               "title": "EPIC-Tent (2019) — 7+ h, tent assembly; Procedural, dual HMD + gaze.",
-              "description": null,
+              "description": "youngkyoonjang/EPIC_Tent2019",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3040,7 +3040,7 @@
             {
               "node_type": "item",
               "title": "EgoYC2 / Exo2EgoDVC (2025) — ~43 h cooking; Dense captioning, procedural.",
-              "description": null,
+              "description": "ut-vision/Exo2EgoDVC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3172,7 +3172,7 @@
             {
               "node_type": "item",
               "title": "DR(eye)VE (2018) — ~6 h driving, 555K frames; Gaze prediction, driving ego video.",
-              "description": null,
+              "description": "ndrplz/dreyeve",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3203,7 +3203,7 @@
             {
               "node_type": "item",
               "title": "PVSG (2023) — 400 vids, ~150K frames; Panoptic video scene graph (ego + third-person).",
-              "description": null,
+              "description": "LilyDaytoy/OpenPVSG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3229,7 +3229,7 @@
             {
               "node_type": "item",
               "title": "OVO-S-Bench (2026) — 1,680 fully human-annotated questions over 348 continuous egocentric streams (indoor walkthroughs, daily activities, outdoor tours, and driving from nine sources) spanning 30 task types across four hierarchical levels, from instantaneous perception to allocentric mapping, for streaming spatial intelligence in multimodal LLMs.",
-              "description": null,
+              "description": "InternLM/OVO-S-Bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
             {
               "node_type": "item",
               "title": "OST (2017) — 57 sequences, 55 subjects, ~15 min/video, egocentric object search tasks, eye-tracking ground truth; 3d scene understanding & localization.",
-              "description": null,
+              "description": "Mengmi/deepfuturegaze_gan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3271,7 +3271,7 @@
             {
               "node_type": "item",
               "title": "EgoTraj (2026) — 10.7 h / 1.15M frames of Meta Quest Pro egocentric urban navigation with synchronized RGB, 6DoF head pose, gaze, and scene annotations for trajectory forecasting; the GitHub README says the dataset and dashboard will be released after publication.",
-              "description": null,
+              "description": "yehiahmad/EgoTraj",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3292,7 +3292,7 @@
             {
               "node_type": "item",
               "title": "SG-Ego (2026) — Large-scale spatio-temporal scene-graph annotations extending Ego4D: SG-Ego-Align provides ~3.8M graphs from 7,297 videos, while SG-Ego-Edit adds action-conditioned graph-edit forecasting samples for A-GEF.",
-              "description": null,
+              "description": "francescapistilli/GLEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3317,7 +3317,7 @@
             {
               "node_type": "item",
               "title": "SlugTrails (2026) — 30 Hz Aria recordings aligned to semantic CAD floor plans using laser-surveyed anchors. Protocols cover walking single frames, stationary multi-view sweeps, and walking streams with odometry. The official repository lists data and evaluation tools as coming soon.",
-              "description": null,
+              "description": "Head-inthe-Cloud/SlugTrails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3556,7 +3556,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3652,7 +3652,7 @@
         {
           "node_type": "item",
           "title": "awesome-egocentric-vision",
-          "description": null,
+          "description": "Sid2697/awesome-egocentric-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3683,7 +3683,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Egocentric",
-          "description": null,
+          "description": "EgoAlpha/Awesome-Egocentric",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3704,7 +3704,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Egocentric-and-Exocentric-Vision",
-          "description": null,
+          "description": "ayiyayi/Awesome-Egocentric-and-Exocentric-Vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3727,7 +3727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:53.186Z",
+    "last_updated": "2026-10-03T04:42:26.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
