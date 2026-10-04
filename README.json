@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 178,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 178,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -436,7 +436,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
                 "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
@@ -445,7 +445,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -834,7 +834,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
                 "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
@@ -843,7 +843,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1189,7 +1189,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
                 "homepage": null,
                 "id": 1297943021,
                 "language": "Python",
@@ -1198,7 +1198,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2357,7 +2357,7 @@
                 "id": 1277104373,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T12:45:05Z",
+                "last_commit": "2026-10-04T14:53:23Z",
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
@@ -2739,6 +2739,27 @@
             },
             {
               "node_type": "item",
+              "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
+              "description": "Abhiram824/egoexo4d_human_meshes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repo for the Ego-Exo4D human meshes dataset",
+                "homepage": "https://abhiram824.github.io/egoexo4d_human_meshes/",
+                "id": 1333922757,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T05:32:15Z",
+                "open_issues": 0,
+                "owner": "Abhiram824",
+                "repo": "egoexo4d_human_meshes",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-02T00:14:52.229Z"
+            },
+            {
+              "node_type": "item",
               "title": "VISOR (2022) — EPIC + masks / relations; Segmentation, HOI.",
               "description": "epic-kitchens/VISOR",
               "children": [],
@@ -2757,27 +2778,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
-              "description": "Abhiram824/egoexo4d_human_meshes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repo for the Ego-Exo4D human meshes dataset",
-                "homepage": "https://abhiram824.github.io/egoexo4d_human_meshes/",
-                "id": 1333922757,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-27T05:32:15Z",
-                "open_issues": 0,
-                "owner": "Abhiram824",
-                "repo": "egoexo4d_human_meshes",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-02T00:14:52.229Z"
             },
             {
               "node_type": "item",
@@ -2944,7 +2944,7 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-03T23:12:03Z",
+                "last_commit": "2026-10-04T11:03:40Z",
                 "open_issues": 246,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
@@ -3242,7 +3242,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3556,7 +3556,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3727,7 +3727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:20:12.175Z",
+    "last_updated": "2026-10-04T23:36:37.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -3739,7 +3739,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 226,
+      "stars": 227,
       "topics": [
         "awesome-list",
         "computer-vision",
