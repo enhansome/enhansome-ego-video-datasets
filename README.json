@@ -684,7 +684,7 @@
                 "id": 1309535034,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T20:44:16Z",
+                "last_commit": "2026-10-05T06:37:42Z",
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
@@ -2271,7 +2271,7 @@
                 "open_issues": 2,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -2718,6 +2718,27 @@
             },
             {
               "node_type": "item",
+              "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
+              "description": "Abhiram824/egoexo4d_human_meshes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repo for the Ego-Exo4D human meshes dataset",
+                "homepage": "https://abhiram824.github.io/egoexo4d_human_meshes/",
+                "id": 1333922757,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T05:32:15Z",
+                "open_issues": 0,
+                "owner": "Abhiram824",
+                "repo": "egoexo4d_human_meshes",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-02T00:14:52.229Z"
+            },
+            {
+              "node_type": "item",
               "title": "EMPIRE-651K (2026) — Training windows paired with explicit per-hand manipulation plans for learning manipulation-aware future hand motion. The official EMPIRE repository supplies code and schema documentation and currently marks the dataset as coming soon.",
               "description": "wangwen-banban/EMPIRE",
               "children": [],
@@ -2736,27 +2757,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ego-Exo4D-HM (2026) — Dense 4D human-motion reconstructions derived from synchronized ego/exo captures in Ego-Exo4D, accompanied by a reconstruction pipeline. Precomputed per-take reconstructions are available on Hugging Face, with installation, download, data-format, and rendering documentation.",
-              "description": "Abhiram824/egoexo4d_human_meshes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repo for the Ego-Exo4D human meshes dataset",
-                "homepage": "https://abhiram824.github.io/egoexo4d_human_meshes/",
-                "id": 1333922757,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-27T05:32:15Z",
-                "open_issues": 0,
-                "owner": "Abhiram824",
-                "repo": "egoexo4d_human_meshes",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-10-02T00:14:52.229Z"
             },
             {
               "node_type": "item",
@@ -2948,7 +2948,7 @@
                 "open_issues": 246,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3461,7 +3461,7 @@
             "open_issues": 0,
             "owner": "alexantaluo0",
             "repo": "Ego2LeRobot",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-09-27T23:25:03.707Z"
@@ -3727,7 +3727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:36:37.802Z",
+    "last_updated": "2026-10-06T01:29:35.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
