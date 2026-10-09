@@ -90,7 +90,7 @@
                 "open_issues": 1,
                 "owner": "AlayaLab",
                 "repo": "WorldRover",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1109,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -243,7 +243,7 @@
                 "open_issues": 1,
                 "owner": "fpv-labs",
                 "repo": "stera-sdk",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1109,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -424,7 +424,7 @@
                 "open_issues": 1,
                 "owner": "fpv-labs",
                 "repo": "stera-sdk",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -466,7 +466,7 @@
                 "open_issues": 1,
                 "owner": "AlayaLab",
                 "repo": "WorldRover",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -696,7 +696,7 @@
                 "open_issues": 1,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -844,7 +844,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -865,7 +865,7 @@
                 "open_issues": 2,
                 "owner": "Ziyang412",
                 "repo": "EgoMemReason",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -956,27 +956,6 @@
             },
             {
               "node_type": "item",
-              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the authors plan the dataset and code release before November 2026.",
-              "description": "Jianguo-Huang11/APM-Bench",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1392673913,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-30T10:32:02Z",
-                "open_issues": 0,
-                "owner": "Jianguo-Huang11",
-                "repo": "APM-Bench",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
               "title": "MEMORA-Bench (2026) — 45 h of EPIC-KITCHENS-100 extension video from 18 participants for memory-grounded planning toward seen and unseen goals, plus structured assessment of environment, entity, activity, and inferred-knowledge memory.",
               "description": "yuzihaowashu/MEMORA",
               "children": [],
@@ -991,6 +970,27 @@
                 "open_issues": 1,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the authors plan the dataset and code release before November 2026.",
+              "description": "Jianguo-Huang11/APM-Bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1392673913,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-30T10:32:02Z",
+                "open_issues": 0,
+                "owner": "Jianguo-Huang11",
+                "repo": "APM-Bench",
                 "stars": 5,
                 "topics": []
               },
@@ -1124,7 +1124,7 @@
                 "open_issues": 1,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1465,7 +1465,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1646,7 +1646,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-13T19:58:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zeyun-zhong",
                 "repo": "StreamTTT",
                 "stars": 12,
@@ -1657,6 +1657,27 @@
                 ]
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HowToDIV (2025) — ~24 h instructional; Dialog, procedural QA.",
+              "description": "google/howtodiv",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1028069520,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-08-19T05:41:51Z",
+                "open_issues": 1,
+                "owner": "google",
+                "repo": "howtodiv",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -1678,27 +1699,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HowToDIV (2025) — ~24 h instructional; Dialog, procedural QA.",
-              "description": "google/howtodiv",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1028069520,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-08-19T05:41:51Z",
-                "open_issues": 1,
-                "owner": "google",
-                "repo": "howtodiv",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2429,7 +2429,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "howtodiv",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3369,7 +3369,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3712,7 +3712,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3907,7 +3907,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4086,7 +4086,7 @@
                 "open_issues": 2,
                 "owner": "eth-siplab",
                 "repo": "EgoPHI",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4495,7 +4495,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4589,7 +4589,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-26T05:59:00Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
                 "stars": 89,
@@ -4634,7 +4634,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 564,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4704,7 +4704,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 564,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4721,11 +4721,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-07T22:38:04Z",
+                "last_commit": "2026-10-09T00:31:46Z",
                 "open_issues": 247,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 562,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4743,7 +4743,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-08-26T05:59:00Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
                 "stars": 89,
@@ -4851,7 +4851,7 @@
                 "open_issues": 1,
                 "owner": "Ropedia",
                 "repo": "egotools",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4963,7 +4963,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 564,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5969,7 +5969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:25:07.034Z",
+    "last_updated": "2026-10-09T00:40:36.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
