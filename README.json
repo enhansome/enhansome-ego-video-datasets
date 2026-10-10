@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 176,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 176,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -334,7 +334,7 @@
                 "open_issues": 3,
                 "owner": "JeffWang987",
                 "repo": "EgoVid",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1537,7 +1537,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T06:37:42Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
                 "stars": 121,
@@ -1737,7 +1737,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1754,7 +1754,7 @@
                 "id": 1255727155,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-06-02T05:27:42Z",
+                "last_commit": "2026-10-10T10:22:30Z",
                 "open_issues": 0,
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
@@ -2318,7 +2318,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3809,6 +3809,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
+              "description": "egosteer/egosmith",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An egocentric data pipeline that curates in-the-wild egocentric human videos into fully-annotated training data.",
+                "homepage": "https://egosteer.github.io/",
+                "id": 1277104373,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T16:33:36Z",
+                "open_issues": 0,
+                "owner": "egosteer",
+                "repo": "egosmith",
+                "stars": 86,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoObjects (2023) — 9.2K+ videos; Detection, instance seg.",
               "description": "facebookresearch/EgoObjects",
               "children": [],
@@ -3827,27 +3848,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
-              "description": "egosteer/egosmith",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An egocentric data pipeline that curates in-the-wild egocentric human videos into fully-annotated training data.",
-                "homepage": "https://egosteer.github.io/",
-                "id": 1277104373,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-06T16:33:36Z",
-                "open_issues": 0,
-                "owner": "egosteer",
-                "repo": "egosmith",
-                "stars": 85,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -3907,7 +3907,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3979,7 +3979,7 @@
                 "open_issues": 4,
                 "owner": "fredfyyang",
                 "repo": "Touch-and-Go",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4495,7 +4495,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4690,6 +4690,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
+              "description": "GaTech-RL2/EgoVerse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World",
+                "homepage": null,
+                "id": 931195201,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-10-10T04:34:42Z",
+                "open_issues": 247,
+                "owner": "GaTech-RL2",
+                "repo": "EgoVerse",
+                "stars": 566,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "HumanEgo (2026) — Minutes-per-task human egocentric demonstrations collected with Aria glasses for zero-shot human-to-robot manipulation-policy learning via interaction-centric spatial representations.",
               "description": "TX-Leo/HumanEgo",
               "children": [],
@@ -4708,27 +4729,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
-              "description": "GaTech-RL2/EgoVerse",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World",
-                "homepage": null,
-                "id": 931195201,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2026-10-09T23:07:27Z",
-                "open_issues": 247,
-                "owner": "GaTech-RL2",
-                "repo": "EgoVerse",
-                "stars": 565,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -5798,7 +5798,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 176,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5969,7 +5969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:19:52.396Z",
+    "last_updated": "2026-10-10T23:51:35.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
