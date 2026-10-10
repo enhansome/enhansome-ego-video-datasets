@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 294,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 294,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -766,7 +766,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 467,
+                "stars": 469,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -1540,7 +1540,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3369,7 +3369,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3495,7 +3495,7 @@
                 "open_issues": 0,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3712,7 +3712,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4107,7 +4107,7 @@
                 "open_issues": 0,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4537,7 +4537,7 @@
                 "open_issues": 0,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4592,7 +4592,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4721,7 +4721,7 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-09T00:31:46Z",
+                "last_commit": "2026-10-09T23:07:27Z",
                 "open_issues": 247,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
@@ -4746,7 +4746,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5060,7 +5060,7 @@
                 "open_issues": 2,
                 "owner": "Ka1Guan",
                 "repo": "RESELF",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5295,7 +5295,7 @@
                 "open_issues": 2,
                 "owner": "Ka1Guan",
                 "repo": "RESELF",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5558,7 +5558,7 @@
                 "open_issues": 2,
                 "owner": "Ka1Guan",
                 "repo": "RESELF",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5798,7 +5798,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 177,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5969,7 +5969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:40:36.191Z",
+    "last_updated": "2026-10-10T00:19:52.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
