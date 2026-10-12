@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -1029,7 +1029,7 @@
                 "id": 1401338568,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-03T04:43:17Z",
+                "last_commit": "2026-10-11T07:55:17Z",
                 "open_issues": 1,
                 "owner": "ZHAOAlexGoat",
                 "repo": "EMBER-Bench",
@@ -1205,7 +1205,7 @@
                 "open_issues": 1,
                 "owner": "jinlong17",
                 "repo": "CTVid-Bench",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -1765,6 +1765,35 @@
             },
             {
               "node_type": "item",
+              "title": "ClearText-Video (CTVid) (2026) — Text-rich egocentric videos with 550K+ frames, 1.6M human-verified text annotations, and Chinese/English QA. Matched original, degraded, and restored versions evaluate text fidelity and reasoning across video quality conditions. The public evaluation release contains GT, blur, and downsample_x4 videos plus QA v2; other paper conditions are outside that download.",
+              "description": "jinlong17/CTVid-Bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] ClearText-Video: quality-controlled text-centric video restoration and VideoQA benchmark",
+                "homepage": "https://jinlong17.github.io/CTVid-Bench/",
+                "id": 1247420796,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-09T00:13:00Z",
+                "open_issues": 1,
+                "owner": "jinlong17",
+                "repo": "CTVid-Bench",
+                "stars": 4,
+                "topics": [
+                  "benchmark",
+                  "dataset",
+                  "eccv-2026",
+                  "multimodal-llm",
+                  "scene-text",
+                  "video-question-answering",
+                  "video-restoration"
+                ]
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoEverything (2026) — 100+ h of AR egocentric video with 5K+ multiple-choice questions for human-behavior-inspired long-context video understanding. VQA annotations and generation/evaluation code are public; the dataset card documents source-video access separately.",
               "description": "SAI-Lab-NYU/EgoEverything-Dataset",
               "children": [],
@@ -1804,35 +1833,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ClearText-Video (CTVid) (2026) — Text-rich egocentric videos with 550K+ frames, 1.6M human-verified text annotations, and Chinese/English QA. Matched original, degraded, and restored versions evaluate text fidelity and reasoning across video quality conditions. The public evaluation release contains GT, blur, and downsample_x4 videos plus QA v2; other paper conditions are outside that download.",
-              "description": "jinlong17/CTVid-Bench",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2026] ClearText-Video: quality-controlled text-centric video restoration and VideoQA benchmark",
-                "homepage": "https://jinlong17.github.io/CTVid-Bench/",
-                "id": 1247420796,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-09T00:13:00Z",
-                "open_issues": 1,
-                "owner": "jinlong17",
-                "repo": "CTVid-Bench",
-                "stars": 3,
-                "topics": [
-                  "benchmark",
-                  "dataset",
-                  "eccv-2026",
-                  "multimodal-llm",
-                  "scene-text",
-                  "video-question-answering",
-                  "video-restoration"
-                ]
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
             },
             {
               "node_type": "item",
@@ -2121,7 +2121,7 @@
                 "open_issues": 1,
                 "owner": "jinlong17",
                 "repo": "CTVid-Bench",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2789,7 +2789,7 @@
                 "open_issues": 75,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3865,7 +3865,7 @@
                 "open_issues": 6,
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4086,7 +4086,7 @@
                 "open_issues": 2,
                 "owner": "eth-siplab",
                 "repo": "EgoPHI",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4634,7 +4634,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4704,7 +4704,7 @@
                 "open_issues": 247,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4725,7 +4725,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4963,7 +4963,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5750,7 +5750,7 @@
             "open_issues": 75,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "computer-vision",
               "dataset",
@@ -5969,7 +5969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:51:35.724Z",
+    "last_updated": "2026-10-12T00:00:22.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
