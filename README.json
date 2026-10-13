@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -541,6 +541,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "ME-World (2026)",
+              "description": "Shared-world environment, state-update, identity, and action consistency across generated ego streams CoMind + synthetic multi-agent interactions from Inter-X / InterHuman Paper · Site · Repository Real + synthetic benchmark; inference/training code and weights pending",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1399689400,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-09T04:08:44Z",
+                "open_issues": 2,
+                "owner": "cvlab-kaist",
+                "repo": "ME-World",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
             {
               "node_type": "item",
               "title": "EgoGenEval (2026)",
@@ -1599,7 +1620,7 @@
                 "id": 927688735,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-05-14T09:25:59Z",
+                "last_commit": "2026-10-13T08:01:09Z",
                 "open_issues": 8,
                 "owner": "hd-epic",
                 "repo": "hd-epic-annotations",
@@ -3369,10 +3390,31 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TouchScale",
+              "description": "2026 500 h corpus / 100 h currently released Visual–tactile learning, contact-rich manipulation Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
+                "homepage": "https://touch-scale.github.io/",
+                "id": 1384117482,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-08T07:22:02Z",
+                "open_issues": 1,
+                "owner": "phai-lab",
+                "repo": "touchscale",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
             },
             {
               "node_type": "item",
@@ -3712,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3823,7 +3865,7 @@
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4211,6 +4253,27 @@
             },
             {
               "node_type": "item",
+              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
+              "description": "phai-lab/touchscale",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
+                "homepage": "https://touch-scale.github.io/",
+                "id": 1384117482,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-08T07:22:02Z",
+                "open_issues": 1,
+                "owner": "phai-lab",
+                "repo": "touchscale",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
+            {
+              "node_type": "item",
               "title": "EEH-R / N-HOT3D extension (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).",
               "description": "ryhara/EventEgoHandsV2",
               "children": [],
@@ -4416,6 +4479,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "TouchScale (2026)",
+              "description": "Visual–tactile learning, contact-rich manipulation TouchScale Paper · Site · Code · HF 100 h gated release; full corpus planned before Nov 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
+                "homepage": "https://touch-scale.github.io/",
+                "id": 1384117482,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-08T07:22:02Z",
+                "open_issues": 1,
+                "owner": "phai-lab",
+                "repo": "touchscale",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
             {
               "node_type": "item",
               "title": "Coherent4D (2026)",
@@ -4721,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-13T00:37:43Z",
+                "last_commit": "2026-10-13T18:34:54Z",
                 "open_issues": 248,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 567,
+                "stars": 568,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5004,6 +5088,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SAVED-Bench / FloorSAV",
+              "description": "2026 1,988 QA / 55 recordings / 9 tasks Spatial audio-visual reasoning with dynamic agents Paper Site · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs",
+                "homepage": null,
+                "id": 1408467084,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-11T06:10:51Z",
+                "open_issues": 0,
+                "owner": "byulharang",
+                "repo": "FloorSAV",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
+            {
+              "node_type": "item",
               "title": "Beyond3D",
               "description": "2026 135 videos / 9 participants / 9,000 questions Out-of-sight spatiotemporal reasoning Paper Site · Code · HF",
               "children": [],
@@ -5026,7 +5131,7 @@
             {
               "node_type": "item",
               "title": "SlugTrails",
-              "description": "2026 3 buildings / 6 floors / 22,089 m² Floor-plan localization Paper GitHub",
+              "description": "2026 3 buildings / 6 floors / 22,089 m² Floor-plan localization Paper GitHub · HF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5078,7 +5183,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-10T12:30:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "qwerirwq",
                 "repo": "GST-Bench",
                 "stars": 0,
@@ -5390,7 +5495,7 @@
             },
             {
               "node_type": "item",
-              "title": "SlugTrails (2026) — 30 Hz Aria recordings aligned to semantic CAD floor plans using laser-surveyed anchors. Protocols cover walking single frames, stationary multi-view sweeps, and walking streams with odometry. The official repository lists data and evaluation tools as coming soon.",
+              "title": "SlugTrails (2026) — 30 Hz Aria recordings aligned to semantic CAD floor plans using laser-surveyed anchors. Protocols cover walking single frames, stationary multi-view sweeps, and walking streams with odometry. Version 1.0 is released on Hugging Face with anonymized RGB, Aria MPS trajectories, floor-plan-aligned ground truth, CAD maps, and official evaluation/finetuning splits; the repository provides supporting tools.",
               "description": "Head-inthe-Cloud/SlugTrails",
               "children": [],
               "repo_info": {
@@ -5408,6 +5513,27 @@
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SAVED-Bench / FloorSAV (2026) — AEA-derived benchmark covering cross-agent viewpoint transformations, semantic regions, and path reasoning, introduced with FloorSAV. Questions, answers, task generators, and reported results are public; source data are obtained separately and the remaining framework/inference code is forthcoming.",
+              "description": "byulharang/FloorSAV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs",
+                "homepage": null,
+                "id": 1408467084,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-11T06:10:51Z",
+                "open_issues": 0,
+                "owner": "byulharang",
+                "repo": "FloorSAV",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
             },
             {
               "node_type": "item",
@@ -5443,7 +5569,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-10T12:30:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "qwerirwq",
                 "repo": "GST-Bench",
                 "stars": 0,
@@ -5458,6 +5584,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "SAVED-Bench / FloorSAV (2026)",
+              "description": "Spatial audio-visual reasoning with dynamic agents Aria Everyday Activities (AEA) Paper · Site · Code QA and task generators released; full inference framework pending",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FloorSAV: Elucidating Spatial Audio-Visual Context with 2D Floormap for AV-LLMs",
+                "homepage": null,
+                "id": 1408467084,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-10-11T06:10:51Z",
+                "open_issues": 0,
+                "owner": "byulharang",
+                "repo": "FloorSAV",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
             {
               "node_type": "item",
               "title": "Beyond3D (2026)",
@@ -5482,7 +5629,7 @@
             {
               "node_type": "item",
               "title": "SlugTrails (2026)",
-              "description": "Single-frame, multi-view, and sequential floor-plan localization SlugTrails GitHub Data and tools coming soon",
+              "description": "Single-frame, multi-view, and sequential floor-plan localization SlugTrails GitHub · HF Version 1.0 data and supporting tools released; CC BY 4.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5576,7 +5723,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-10T12:30:54Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "qwerirwq",
                 "repo": "GST-Bench",
                 "stars": 0,
@@ -5969,7 +6116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:15:02.143Z",
+    "last_updated": "2026-10-13T23:55:48.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -5977,7 +6124,7 @@
       "id": 1188023612,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-07T10:16:39Z",
+      "last_commit": "2026-10-13T04:17:58Z",
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
@@ -5992,7 +6139,7 @@
         "video-datasets"
       ]
     },
-    "original_repository_sha": "ff527063f5f0dc9997bb4bc3cbf6939142cae66e",
+    "original_repository_sha": "52f907aec1e747037cb1e361b7d5723d33eba3ca",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
     "title": "🎥 Awesome Egocentric Video Datasets with stars"
