@@ -36,11 +36,11 @@
             "id": 1345069536,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-04T03:08:07Z",
+            "last_commit": "2026-10-12T02:40:03Z",
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 38,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1205,7 +1205,7 @@
                 "open_issues": 1,
                 "owner": "jinlong17",
                 "repo": "CTVid-Bench",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -1540,7 +1540,7 @@
                 "open_issues": 3,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1779,7 +1779,7 @@
                 "open_issues": 1,
                 "owner": "jinlong17",
                 "repo": "CTVid-Bench",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2121,7 +2121,7 @@
                 "open_issues": 1,
                 "owner": "jinlong17",
                 "repo": "CTVid-Bench",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2610,7 +2610,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2837,7 +2837,7 @@
                 "open_issues": 5,
                 "owner": "tars-robotics",
                 "repo": "World-In-Your-Hands",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3369,7 +3369,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3712,7 +3712,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3907,7 +3907,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4040,6 +4040,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
+              "description": "eth-siplab/EgoPHI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1350553732,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-16T21:48:32Z",
+                "open_issues": 2,
+                "owner": "eth-siplab",
+                "repo": "EgoPHI",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "POV-Surgery (2023) — ~88K frames, 53 seq. (synth.); Surgical hand–tool pose, segmentation.",
               "description": "BatFaceWayne/POV_Surgery",
               "children": [],
@@ -4069,27 +4090,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
-              "description": "eth-siplab/EgoPHI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1350553732,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-16T21:48:32Z",
-                "open_issues": 2,
-                "owner": "eth-siplab",
-                "repo": "EgoPHI",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -4495,7 +4495,7 @@
                 "open_issues": 1,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4592,7 +4592,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4634,7 +4634,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 567,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4676,7 +4676,7 @@
                 "open_issues": 1,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4688,27 +4688,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
-              "description": "GaTech-RL2/EgoVerse",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World",
-                "homepage": null,
-                "id": 931195201,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2026-10-10T04:34:42Z",
-                "open_issues": 247,
-                "owner": "GaTech-RL2",
-                "repo": "EgoVerse",
-                "stars": 567,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
             {
               "node_type": "item",
               "title": "HumanEgo (2026) — Minutes-per-task human egocentric demonstrations collected with Aria glasses for zero-shot human-to-robot manipulation-policy learning via interaction-centric spatial representations.",
@@ -4725,10 +4704,31 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 567,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoVerse (2026) — 1,362 h of egocentric human demonstrations spanning ~80K episodes and 1,965 tasks for robot learning from human manipulation experience.",
+              "description": "GaTech-RL2/EgoVerse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoVerse: Egocentric Data for Robot Learning from Around the World",
+                "homepage": null,
+                "id": 931195201,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-10-13T00:37:43Z",
+                "open_issues": 248,
+                "owner": "GaTech-RL2",
+                "repo": "EgoVerse",
+                "stars": 567,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -4746,7 +4746,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4809,7 +4809,7 @@
                 "open_issues": 1,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4921,7 +4921,7 @@
                 "open_issues": 0,
                 "owner": "Kratos-Wen",
                 "repo": "PROVIA",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4963,7 +4963,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 567,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5033,9 +5033,9 @@
                 "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
                 "homepage": null,
                 "id": 1331420197,
-                "language": null,
+                "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T05:51:28Z",
+                "last_commit": "2026-10-12T08:19:08Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5398,9 +5398,9 @@
                 "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
                 "homepage": null,
                 "id": 1331420197,
-                "language": null,
+                "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T05:51:28Z",
+                "last_commit": "2026-10-12T08:19:08Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5489,9 +5489,9 @@
                 "description": "🐌 SlugTrail: A benchmark and dataset for floor-plan-based indoor visual localization in large-scale public buildings.",
                 "homepage": null,
                 "id": 1331420197,
-                "language": null,
+                "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T05:51:28Z",
+                "last_commit": "2026-10-12T08:19:08Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5682,7 +5682,7 @@
             "open_issues": 0,
             "owner": "WB-WaM",
             "repo": "Pico-Ego-Collector",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-09-27T23:25:03.707Z"
@@ -5846,7 +5846,7 @@
             "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5969,7 +5969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:00:22.943Z",
+    "last_updated": "2026-10-13T02:15:02.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -5981,7 +5981,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 227,
+      "stars": 228,
       "topics": [
         "awesome-list",
         "computer-vision",
