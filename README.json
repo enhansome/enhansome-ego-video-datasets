@@ -180,7 +180,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1115,
+                "stars": 1117,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1115,
+                "stars": 1117,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -376,7 +376,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -548,12 +548,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Official implementation of \"Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction\"",
                 "homepage": null,
                 "id": 1399689400,
-                "language": "Python",
+                "language": null,
                 "license": null,
-                "last_commit": "2026-10-09T04:08:44Z",
+                "last_commit": "2026-10-14T07:22:16Z",
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "ME-World",
@@ -620,7 +620,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1558,7 +1558,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T06:37:42Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
                 "stars": 122,
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3411,7 +3411,7 @@
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -3639,7 +3639,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-20T10:33:17Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
                 "stars": 9,
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3772,7 +3772,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 273,
@@ -4190,6 +4190,27 @@
             },
             {
               "node_type": "item",
+              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
+              "description": "phai-lab/touchscale",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
+                "homepage": "https://touch-scale.github.io/",
+                "id": 1384117482,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-08T07:22:02Z",
+                "open_issues": 1,
+                "owner": "phai-lab",
+                "repo": "touchscale",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoEVHands (2026) — 5,419 real-world stereo event-camera egocentric sequences with dense 2D/3D hand keypoints across 38 gesture classes; the official repository currently says code, models, and dataset links are to be uploaded.",
               "description": "ZJUWang01/EgoEv-HandPose",
               "children": [],
@@ -4243,34 +4264,13 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-20T10:33:17Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "AhmadDarKhalil",
                 "repo": "EgoPoints",
                 "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
-              "description": "phai-lab/touchscale",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
-                "homepage": "https://touch-scale.github.io/",
-                "id": 1384117482,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-08T07:22:02Z",
-                "open_issues": 1,
-                "owner": "phai-lab",
-                "repo": "touchscale",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-10-13T23:55:48.079Z"
             },
             {
               "node_type": "item",
@@ -4495,7 +4495,7 @@
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 570,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 570,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-13T18:34:54Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-14T22:25:52Z",
+                "open_issues": 249,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 568,
+                "stars": 569,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 570,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6116,7 +6116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:55:48.079Z",
+    "last_updated": "2026-10-14T23:27:29.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
