@@ -69,7 +69,7 @@
                 "open_issues": 1,
                 "owner": "Agentic-Intelligence-Lab",
                 "repo": "Atom-0",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1117,
+                "stars": 1119,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1117,
+                "stars": 1119,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -487,7 +487,7 @@
                 "open_issues": 1,
                 "owner": "Agentic-Intelligence-Lab",
                 "repo": "Atom-0",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -812,7 +812,7 @@
                 "open_issues": 10,
                 "owner": "antoyang",
                 "repo": "VidChapters",
-                "stars": 215,
+                "stars": 216,
                 "topics": [
                   "dense-video-captioning",
                   "multimodal-learning",
@@ -1050,7 +1050,7 @@
                 "id": 1401338568,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-11T07:55:17Z",
+                "last_commit": "2026-10-16T19:17:03Z",
                 "open_issues": 1,
                 "owner": "ZHAOAlexGoat",
                 "repo": "EMBER-Bench",
@@ -1276,7 +1276,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1402,7 +1402,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1702,6 +1702,27 @@
             },
             {
               "node_type": "item",
+              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
+              "description": "MCG-NJU/VIABench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
+                "homepage": null,
+                "id": 1297943021,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-13T11:07:13Z",
+                "open_issues": 0,
+                "owner": "MCG-NJU",
+                "repo": "VIABench",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoSafetyBench (2026) — 1,200 egocentric robot-view scenarios annotated at half-second granularity, split into situational and visual-channel tracks for evaluating runtime VLM safety guards.",
               "description": "AIM-Intelligence/EgoSafetyBench",
               "children": [],
@@ -1723,27 +1744,6 @@
             },
             {
               "node_type": "item",
-              "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
-              "description": "MCG-NJU/VIABench",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
-                "homepage": null,
-                "id": 1297943021,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-13T11:07:13Z",
-                "open_issues": 0,
-                "owner": "MCG-NJU",
-                "repo": "VIABench",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
               "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
               "description": "Ryougetsu3606/MyEgo",
               "children": [],
@@ -1758,7 +1758,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2213,7 +2213,7 @@
                 "open_issues": 0,
                 "owner": "MCG-NJU",
                 "repo": "VIABench",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2339,7 +2339,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2810,7 +2810,7 @@
                 "open_issues": 75,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3407,11 +3407,11 @@
                 "id": 1384117482,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T07:22:02Z",
+                "last_commit": "2026-10-16T18:36:07Z",
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -3576,7 +3576,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 56,
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3830,6 +3830,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
+              "description": "egosteer/egosmith",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An egocentric data pipeline that curates in-the-wild egocentric human videos into fully-annotated training data.",
+                "homepage": "https://egosteer.github.io/",
+                "id": 1277104373,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T16:33:36Z",
+                "open_issues": 0,
+                "owner": "egosteer",
+                "repo": "egosmith",
+                "stars": 89,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "ForceBand (2026) — 10 h multimodal corpus with egocentric video, wrist sEMG, IMU, and fingertip force for forceful manipulation. Code, a pretrained checkpoint, held-out validation chunks, and a calibration/demo subset are public; the full pretraining dataset remains under preparation.",
               "description": "Bottle101/ForceBand",
               "children": [],
@@ -3848,27 +3869,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoSteer / EgoSmith Data (2026) — The human release provides hand/camera annotations and language for 1,544,579 episodes from eight source datasets, with source video obtained separately. Its companion RealWorld release contains 54,454 teleoperated episodes across 193 tasks with robot head/chest RGB-D. Source-specific human-data licenses and Apache 2.0 robot-data terms apply.",
-              "description": "egosteer/egosmith",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An egocentric data pipeline that curates in-the-wild egocentric human videos into fully-annotated training data.",
-                "homepage": "https://egosteer.github.io/",
-                "id": 1277104373,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-06T16:33:36Z",
-                "open_issues": 0,
-                "owner": "egosteer",
-                "repo": "egosmith",
-                "stars": 88,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -3946,7 +3946,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 56,
@@ -4156,6 +4156,27 @@
             },
             {
               "node_type": "item",
+              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
+              "description": "phai-lab/touchscale",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
+                "homepage": "https://touch-scale.github.io/",
+                "id": 1384117482,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-16T18:36:07Z",
+                "open_issues": 1,
+                "owner": "phai-lab",
+                "repo": "touchscale",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T23:55:48.079Z"
+            },
+            {
+              "node_type": "item",
               "title": "TREK-150 (2021) — 150 EPIC seq; Object tracking.",
               "description": "matteo-dunnhofer/fpv-tracking-toolkit",
               "children": [],
@@ -4187,27 +4208,6 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
-              "description": "phai-lab/touchscale",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TouchScale: 500 Hours of Human Vision and Touch for Visual–Tactile Learning",
-                "homepage": "https://touch-scale.github.io/",
-                "id": 1384117482,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-08T07:22:02Z",
-                "open_issues": 1,
-                "owner": "phai-lab",
-                "repo": "touchscale",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-10-13T23:55:48.079Z"
             },
             {
               "node_type": "item",
@@ -4491,11 +4491,11 @@
                 "id": 1384117482,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T07:22:02Z",
+                "last_commit": "2026-10-16T18:36:07Z",
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -4576,7 +4576,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:29:40Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 56,
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5243,17 +5243,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                "homepage": null,
+                "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:32:39Z",
+                "last_commit": "2026-10-16T20:06:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 10,
-                "topics": []
+                "topics": [
+                  "computer-vision",
+                  "dataset",
+                  "eccv2026",
+                  "egocentric",
+                  "egocentric-vision",
+                  "eye-tracking",
+                  "gaze",
+                  "gaze-estimation",
+                  "head-pose",
+                  "human-motion-prediction",
+                  "human-trajectory-prediction",
+                  "meta-quest-pro",
+                  "mixed-reality",
+                  "multimodal",
+                  "navigation-world-model",
+                  "pedestrian-trajectory-prediction",
+                  "robotics",
+                  "trajectory-prediction",
+                  "wearable-computing",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -5358,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5433,17 +5454,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                "homepage": null,
+                "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:32:39Z",
+                "last_commit": "2026-10-16T20:06:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 10,
-                "topics": []
+                "topics": [
+                  "computer-vision",
+                  "dataset",
+                  "eccv2026",
+                  "egocentric",
+                  "egocentric-vision",
+                  "eye-tracking",
+                  "gaze",
+                  "gaze-estimation",
+                  "head-pose",
+                  "human-motion-prediction",
+                  "human-trajectory-prediction",
+                  "meta-quest-pro",
+                  "mixed-reality",
+                  "multimodal",
+                  "navigation-world-model",
+                  "pedestrian-trajectory-prediction",
+                  "robotics",
+                  "trajectory-prediction",
+                  "wearable-computing",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -5759,17 +5801,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction (2026)",
-                "homepage": null,
+                "description": "EgoTraj (ECCV 2026): real-world egocentric human trajectory dataset with 6-DoF head pose, 3D eye gaze, RGB video and scene annotations from Meta Quest Pro",
+                "homepage": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14919.pdf",
                 "id": 1198622402,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:32:39Z",
+                "last_commit": "2026-10-16T20:06:39Z",
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
                 "stars": 10,
-                "topics": []
+                "topics": [
+                  "computer-vision",
+                  "dataset",
+                  "eccv2026",
+                  "egocentric",
+                  "egocentric-vision",
+                  "eye-tracking",
+                  "gaze",
+                  "gaze-estimation",
+                  "head-pose",
+                  "human-motion-prediction",
+                  "human-trajectory-prediction",
+                  "meta-quest-pro",
+                  "mixed-reality",
+                  "multimodal",
+                  "navigation-world-model",
+                  "pedestrian-trajectory-prediction",
+                  "robotics",
+                  "trajectory-prediction",
+                  "wearable-computing",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             }
@@ -5897,7 +5960,7 @@
             "open_issues": 75,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "computer-vision",
               "dataset",
@@ -6116,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:18:35.690Z",
+    "last_updated": "2026-10-16T23:02:12.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
