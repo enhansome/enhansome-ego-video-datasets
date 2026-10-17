@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1119,
+                "stars": 1120,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1119,
+                "stars": 1120,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -445,7 +445,7 @@
                 "open_issues": 1,
                 "owner": "chenyt31",
                 "repo": "Wh0",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1050,7 +1050,7 @@
                 "id": 1401338568,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-16T19:17:03Z",
+                "last_commit": "2026-10-17T10:32:47Z",
                 "open_issues": 1,
                 "owner": "ZHAOAlexGoat",
                 "repo": "EMBER-Bench",
@@ -1465,7 +1465,7 @@
                 "open_issues": 0,
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1815,6 +1815,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoEMS (2025) — 20+ h emergency scenarios; EMS QA, multimodal.",
+              "description": "UVA-DSA/EgoEMS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repo will include all code, instructions related to the EMS multimodal dataset. ",
+                "homepage": null,
+                "id": 846129082,
+                "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
+                "last_commit": "2026-07-11T19:01:36Z",
+                "open_issues": 0,
+                "owner": "UVA-DSA",
+                "repo": "EgoEMS",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoEverything (2026) — 100+ h of AR egocentric video with 5K+ multiple-choice questions for human-behavior-inspired long-context video understanding. VQA annotations and generation/evaluation code are public; the dataset card documents source-video access separately.",
               "description": "SAI-Lab-NYU/EgoEverything-Dataset",
               "children": [],
@@ -1833,27 +1854,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoEMS (2025) — 20+ h emergency scenarios; EMS QA, multimodal.",
-              "description": "UVA-DSA/EgoEMS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This repo will include all code, instructions related to the EMS multimodal dataset. ",
-                "homepage": null,
-                "id": 846129082,
-                "language": "Jupyter Notebook",
-                "license": "CC0-1.0",
-                "last_commit": "2026-07-11T19:01:36Z",
-                "open_issues": 0,
-                "owner": "UVA-DSA",
-                "repo": "EgoEMS",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2429,7 +2429,7 @@
                 "open_issues": 0,
                 "owner": "UVA-DSA",
                 "repo": "EgoEMS",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3844,7 +3844,7 @@
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4714,11 +4714,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T19:51:53Z",
+                "last_commit": "2026-10-17T19:34:50Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 577,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4784,11 +4784,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T19:51:53Z",
+                "last_commit": "2026-10-17T19:34:50Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 577,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5043,11 +5043,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T19:51:53Z",
+                "last_commit": "2026-10-17T19:34:50Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 577,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 179,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:02:12.347Z",
+    "last_updated": "2026-10-17T22:41:03.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
