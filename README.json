@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 42,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1120,
+                "stars": 1121,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1120,
+                "stars": 1121,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -557,7 +557,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "ME-World",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -675,7 +675,7 @@
                 "open_issues": 0,
                 "owner": "Jianguo-Huang11",
                 "repo": "APM-Bench",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -914,6 +914,27 @@
             },
             {
               "node_type": "item",
+              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the authors plan the dataset and code release before November 2026.",
+              "description": "Jianguo-Huang11/APM-Bench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1392673913,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-30T10:32:02Z",
+                "open_issues": 0,
+                "owner": "Jianguo-Huang11",
+                "repo": "APM-Bench",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoExoMem (2026) — 2.6K human-verified MCQs over 390 synchronized egocentric and exocentric videos from EgoExo4D and LEMMA for cross-view memory reasoning.",
               "description": "RuipingL/EgoExoMem",
               "children": [],
@@ -932,27 +953,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the authors plan the dataset and code release before November 2026.",
-              "description": "Jianguo-Huang11/APM-Bench",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1392673913,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-30T10:32:02Z",
-                "open_issues": 0,
-                "owner": "Jianguo-Huang11",
-                "repo": "APM-Bench",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1103,7 @@
                 "open_issues": 0,
                 "owner": "Jianguo-Huang11",
                 "repo": "APM-Bench",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1561,7 +1561,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1770,12 +1770,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Code release for Token Predictors Are Not Planners: Building Physically Grounded Causal Reasoners",
+                "description": "Code release for Planning Takes More Than Token Prediction: Causal Plan for Benchmarking and Building Physically Grounded Embodied Reasoners",
                 "homepage": null,
                 "id": 1255727155,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-10T10:22:30Z",
+                "last_commit": "2026-10-20T06:19:50Z",
                 "open_issues": 0,
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
@@ -3495,7 +3495,7 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3579,7 +3579,7 @@
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3705,7 +3705,7 @@
                 "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3802,7 +3802,7 @@
                 "open_issues": 13,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3844,7 +3844,7 @@
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
-                "stars": 90,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -3865,7 +3865,7 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3949,7 +3949,7 @@
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4093,10 +4093,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-16T21:48:32Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "eth-siplab",
                 "repo": "EgoPHI",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4579,7 +4579,7 @@
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 581,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 581,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T23:56:02Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-20T20:34:25Z",
+                "open_issues": 246,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 581,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5140,7 +5140,7 @@
                 "id": 1331420197,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T08:19:08Z",
+                "last_commit": "2026-10-20T14:56:18Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5252,7 +5252,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -5428,27 +5428,6 @@
             },
             {
               "node_type": "item",
-              "title": "FloAff-Kitchen (2026) — Cross-scene, multi-view benchmark for predicting where a mobile robot should stand to execute downstream manipulation, spanning varied skills, layouts, furniture styles, and egocentric viewpoints.",
-              "description": "CSU-HERO-Lab/FloAff-Kitchen",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1312609605,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-28T13:32:32Z",
-                "open_issues": 0,
-                "owner": "CSU-HERO-Lab",
-                "repo": "FloAff-Kitchen",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
               "title": "EgoTraj (2026) — 10.7 h / 1.15M frames of Meta Quest Pro egocentric urban navigation with synchronized RGB, 6DoF head pose, gaze, and scene annotations. The official UT Box download provides data in five video archives, and the repository includes the EgoViz inspection tool.",
               "description": "yehiahmad/EgoTraj",
               "children": [],
@@ -5463,7 +5442,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -5488,6 +5467,27 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FloAff-Kitchen (2026) — Cross-scene, multi-view benchmark for predicting where a mobile robot should stand to execute downstream manipulation, spanning varied skills, layouts, furniture styles, and egocentric viewpoints.",
+              "description": "CSU-HERO-Lab/FloAff-Kitchen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1312609605,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-28T13:32:32Z",
+                "open_issues": 0,
+                "owner": "CSU-HERO-Lab",
+                "repo": "FloAff-Kitchen",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
             },
             {
               "node_type": "item",
@@ -5547,7 +5547,7 @@
                 "id": 1331420197,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T08:19:08Z",
+                "last_commit": "2026-10-20T14:56:18Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5680,7 +5680,7 @@
                 "id": 1331420197,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T08:19:08Z",
+                "last_commit": "2026-10-20T14:56:18Z",
                 "open_issues": 1,
                 "owner": "Head-inthe-Cloud",
                 "repo": "SlugTrails",
@@ -5810,7 +5810,7 @@
                 "open_issues": 1,
                 "owner": "yehiahmad",
                 "repo": "EgoTraj",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:56:41.105Z",
+    "last_updated": "2026-10-20T23:25:27.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6191,7 +6191,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 229,
+      "stars": 230,
       "topics": [
         "awesome-list",
         "computer-vision",
