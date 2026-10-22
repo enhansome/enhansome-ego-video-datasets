@@ -355,7 +355,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2943,7 +2943,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2021-04-08T16:08:48Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "Buzz-Beater",
                 "repo": "LEMMA",
                 "stars": 32,
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3991,7 +3991,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "3d",
                   "arctic",
@@ -4096,7 +4096,7 @@
                 "open_issues": 3,
                 "owner": "eth-siplab",
                 "repo": "EgoPHI",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4676,7 +4676,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T07:04:14Z",
-                "open_issues": 247,
+                "last_commit": "2026-10-22T15:40:54Z",
+                "open_issues": 261,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 570,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4830,7 +4830,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 583,
+                "stars": 584,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5375,7 +5375,7 @@
                 "id": 1251885652,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-25T21:02:33Z",
+                "last_commit": "2026-10-22T09:54:47Z",
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
@@ -5726,7 +5726,7 @@
                 "open_issues": 1,
                 "owner": "InkMind-AI",
                 "repo": "Dyn-3D",
-                "stars": 104,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5892,7 +5892,7 @@
             "open_issues": 0,
             "owner": "WB-WaM",
             "repo": "Pico-Ego-Collector",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-09-27T23:25:03.707Z"
@@ -5987,7 +5987,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:39:38.111Z",
+    "last_updated": "2026-10-22T23:37:26.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
