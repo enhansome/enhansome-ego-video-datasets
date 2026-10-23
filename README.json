@@ -355,7 +355,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -508,7 +508,7 @@
                 "open_issues": 0,
                 "owner": "ego2act",
                 "repo": "ego2act",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -714,7 +714,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-23T16:38:48Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
                 "stars": 6,
@@ -1009,7 +1009,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-23T16:38:48Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
                 "stars": 6,
@@ -1142,7 +1142,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-23T16:38:48Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "yuzihaowashu",
                 "repo": "MEMORA",
                 "stars": 6,
@@ -1951,7 +1951,7 @@
                 "id": 1215706667,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-20T14:15:17Z",
+                "last_commit": "2026-10-23T20:59:41Z",
                 "open_issues": 0,
                 "owner": "insait-institute",
                 "repo": "EgoNight",
@@ -2565,7 +2565,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-09-15T13:48:44Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ChengmingF",
                 "repo": "EventKitchen_toolkit",
                 "stars": 4,
@@ -2810,7 +2810,7 @@
                 "open_issues": 76,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 656,
+                "stars": 658,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3132,7 +3132,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-09-15T13:48:44Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ChengmingF",
                 "repo": "EventKitchen_toolkit",
                 "stars": 4,
@@ -3286,7 +3286,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2026-09-15T13:48:44Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ChengmingF",
                 "repo": "EventKitchen_toolkit",
                 "stars": 4,
@@ -3495,7 +3495,7 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3865,7 +3865,7 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 584,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 584,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T15:40:54Z",
-                "open_issues": 261,
+                "last_commit": "2026-10-23T20:03:20Z",
+                "open_issues": 264,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 584,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5379,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5960,7 +5960,7 @@
             "open_issues": 76,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 656,
+            "stars": 658,
             "topics": [
               "computer-vision",
               "dataset",
@@ -5987,7 +5987,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6117,7 +6117,7 @@
             "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:37:26.036Z",
+    "last_updated": "2026-10-23T23:32:27.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
