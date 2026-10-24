@@ -473,6 +473,27 @@
             },
             {
               "node_type": "item",
+              "title": "Ego2Act (2026) — Real-world egocentric manipulation benchmark conditioned on an initial scene and a high-level goal, spanning object clutter and multi-step task complexity. Ego2ActJudge evaluates task completion and physical plausibility without reference videos.",
+              "description": "ego2act/ego2act",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ego2Act: evaluating goal-directed manipulation in egocentric video generation",
+                "homepage": null,
+                "id": 1394849534,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-02T13:13:23Z",
+                "open_issues": 0,
+                "owner": "ego2act",
+                "repo": "ego2act",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "AtomEgo (2026) — Curated human egocentric interaction corpus and processing pipeline supporting VLA and world–action model pretraining through co-training, embodiment alignment, and joint video–action modeling. The paper reports approximately 2,659 h. Atom-0 provides the training implementations; a public corpus download remains unverified.",
               "description": "Agentic-Intelligence-Lab/Atom-0",
               "children": [],
@@ -488,27 +509,6 @@
                 "owner": "Agentic-Intelligence-Lab",
                 "repo": "Atom-0",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ego2Act (2026) — Real-world egocentric manipulation benchmark conditioned on an initial scene and a high-level goal, spanning object clutter and multi-step task complexity. Ego2ActJudge evaluates task completion and physical plausibility without reference videos.",
-              "description": "ego2act/ego2act",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ego2Act: evaluating goal-directed manipulation in egocentric video generation",
-                "homepage": null,
-                "id": 1394849534,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-02T13:13:23Z",
-                "open_issues": 0,
-                "owner": "ego2act",
-                "repo": "ego2act",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -557,7 +557,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "ME-World",
-                "stars": 22,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -2694,7 +2694,7 @@
                 "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "action-understanding",
                   "dataset",
@@ -2900,7 +2900,7 @@
                 "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "action-understanding",
                   "dataset",
@@ -3352,7 +3352,7 @@
                 "open_issues": 1,
                 "owner": "iSEE-Laboratory",
                 "repo": "EgoExo-Fitness",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "action-understanding",
                   "dataset",
@@ -3411,7 +3411,7 @@
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -4170,7 +4170,7 @@
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -4495,7 +4495,7 @@
                 "open_issues": 1,
                 "owner": "phai-lab",
                 "repo": "touchscale",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -5123,7 +5123,7 @@
                 "open_issues": 0,
                 "owner": "Beyond3D-bench",
                 "repo": "vlm-evaluation",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5470,6 +5470,27 @@
             },
             {
               "node_type": "item",
+              "title": "Beyond3D (2026) — HD-EPIC-derived questions target objects that have been relocated and then left the field of view. Eight question types connect visibility, last-seen/last-placed times, fixture-based localization, and 3D relations using object, camera, and scene annotations. The public release provides QA annotations and evaluation code; source recordings require HD-EPIC access.",
+              "description": "Beyond3D-bench/vlm-evaluation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1382431619,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-29T23:49:51Z",
+                "open_issues": 0,
+                "owner": "Beyond3D-bench",
+                "repo": "vlm-evaluation",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "FloAff-Kitchen (2026) — Cross-scene, multi-view benchmark for predicting where a mobile robot should stand to execute downstream manipulation, spanning varied skills, layouts, furniture styles, and egocentric viewpoints.",
               "description": "CSU-HERO-Lab/FloAff-Kitchen",
               "children": [],
@@ -5485,27 +5506,6 @@
                 "owner": "CSU-HERO-Lab",
                 "repo": "FloAff-Kitchen",
                 "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Beyond3D (2026) — HD-EPIC-derived questions target objects that have been relocated and then left the field of view. Eight question types connect visibility, last-seen/last-placed times, fixture-based localization, and 3D relations using object, camera, and scene annotations. The public release provides QA annotations and evaluation code; source recordings require HD-EPIC access.",
-              "description": "Beyond3D-bench/vlm-evaluation",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1382431619,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-29T23:49:51Z",
-                "open_issues": 0,
-                "owner": "Beyond3D-bench",
-                "repo": "vlm-evaluation",
-                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5663,7 +5663,7 @@
                 "open_issues": 0,
                 "owner": "Beyond3D-bench",
                 "repo": "vlm-evaluation",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5726,7 +5726,7 @@
                 "open_issues": 1,
                 "owner": "InkMind-AI",
                 "repo": "Dyn-3D",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:32:27.645Z",
+    "last_updated": "2026-10-24T22:44:32.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
