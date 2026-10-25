@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -180,7 +180,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -376,7 +376,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -487,7 +487,7 @@
                 "open_issues": 0,
                 "owner": "ego2act",
                 "repo": "ego2act",
-                "stars": 6,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -620,7 +620,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1670,7 +1670,7 @@
                 "open_issues": 1,
                 "owner": "zeyun-zhong",
                 "repo": "StreamTTT",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "streaming-video",
                   "test-time-training",
@@ -1744,27 +1744,6 @@
             },
             {
               "node_type": "item",
-              "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
-              "description": "Ryougetsu3606/MyEgo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
-                "homepage": null,
-                "id": 1099728320,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-20T15:10:45Z",
-                "open_issues": 0,
-                "owner": "Ryougetsu3606",
-                "repo": "MyEgo",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
               "title": "Causal-Plan-1M (2026) — 1M QA pairs with four-stage causal reasoning-trace annotations over 22,201 egocentric clips (770+ h curated from Ego4D, EPIC-KITCHENS, HoloAssist, MECCANO, and others), plus the 1,200-instance Causal-Plan-Bench for physically grounded embodied planning.",
               "description": "THUSI-Lab/Causal-Reasoner",
               "children": [],
@@ -1779,6 +1758,27 @@
                 "open_issues": 0,
                 "owner": "THUSI-Lab",
                 "repo": "Causal-Reasoner",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
+              "description": "Ryougetsu3606/MyEgo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                "homepage": null,
+                "id": 1099728320,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-20T15:10:45Z",
+                "open_issues": 0,
+                "owner": "Ryougetsu3606",
+                "repo": "MyEgo",
                 "stars": 6,
                 "topics": []
               },
@@ -1930,7 +1930,7 @@
                 "id": 1279657246,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-07T09:09:57Z",
+                "last_commit": "2026-10-25T16:50:45Z",
                 "open_issues": 0,
                 "owner": "UTAustin-SwarmLab",
                 "repo": "CrossView",
@@ -1951,7 +1951,7 @@
                 "id": 1215706667,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T20:59:41Z",
+                "last_commit": "2026-10-25T21:10:28Z",
                 "open_issues": 0,
                 "owner": "insait-institute",
                 "repo": "EgoNight",
@@ -2807,10 +2807,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-25T16:23:16Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3495,7 +3495,7 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3865,10 +3865,31 @@
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoTouch (2026) — 1,891 bimanual hand-object interaction episodes across 208 manipulation tasks with synchronized egocentric and wrist RGB video, 3D hand pose, and dense tactile pressure maps.",
+              "description": "Jianyi2004/TouchAnything",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1200270683,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-21T08:29:33Z",
+                "open_issues": 6,
+                "owner": "Jianyi2004",
+                "repo": "TouchAnything",
+                "stars": 86,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -3887,27 +3908,6 @@
                 "owner": "facebookresearch",
                 "repo": "EgoObjects",
                 "stars": 86,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoTouch (2026) — 1,891 bimanual hand-object interaction episodes across 208 manipulation tasks with synchronized egocentric and wrist RGB video, 3D hand pose, and dense tactile pressure maps.",
-              "description": "Jianyi2004/TouchAnything",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1200270683,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-21T08:29:33Z",
-                "open_issues": 6,
-                "owner": "Jianyi2004",
-                "repo": "TouchAnything",
-                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4805,8 +4805,8 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T20:03:20Z",
-                "open_issues": 264,
+                "last_commit": "2026-10-25T17:17:22Z",
+                "open_issues": 265,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 573,
@@ -5957,10 +5957,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-07-25T16:23:16Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 658,
+            "stars": 659,
             "topics": [
               "computer-vision",
               "dataset",
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 180,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6117,7 +6117,7 @@
             "open_issues": 4,
             "owner": "Sid2697",
             "repo": "awesome-egocentric-vision",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "activity-recognition",
               "awesome",
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:44:32.921Z",
+    "last_updated": "2026-10-25T22:49:06.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
