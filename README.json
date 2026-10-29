@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1124,
+                "stars": 1123,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1124,
+                "stars": 1123,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -557,7 +557,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "ME-World",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-10-13T23:55:48.079Z"
@@ -865,7 +865,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1019,27 +1019,6 @@
             },
             {
               "node_type": "item",
-              "title": "Ego-SpaCR / SpaC-MEM (2026) — ScanNet-derived video sessions augmented with task-oriented dialogue for cross-scene recall and counterfactual spatial queries. SpaC-MEM supplies reconstruction, memory, and evaluation code plus an Ego-SpaCR v1.0 annotation ZIP with 3,218 questions (3,100 in the official evaluation); ScanNet recordings are obtained separately.",
-              "description": "joeliang0520/SAPCR-MEM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1404784972,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-04T19:50:33Z",
-                "open_issues": 0,
-                "owner": "joeliang0520",
-                "repo": "SAPCR-MEM",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
               "title": "EMBER-Bench (2026) — Newly recorded household tasks with event and causal-chain annotations, covering progress, recovery, external interventions, and distant prerequisites. Paired next-action prediction and causal traceback test how past events constrain current action. Evaluation software is public; the complete dataset release remains pending.",
               "description": "ZHAOAlexGoat/EMBER-Bench",
               "children": [],
@@ -1054,6 +1033,27 @@
                 "open_issues": 1,
                 "owner": "ZHAOAlexGoat",
                 "repo": "EMBER-Bench",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ego-SpaCR / SpaC-MEM (2026) — ScanNet-derived video sessions augmented with task-oriented dialogue for cross-scene recall and counterfactual spatial queries. SpaC-MEM supplies reconstruction, memory, and evaluation code plus an Ego-SpaCR v1.0 annotation ZIP with 3,218 questions (3,100 in the official evaluation); ScanNet recordings are obtained separately.",
+              "description": "joeliang0520/SAPCR-MEM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1404784972,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-04T19:50:33Z",
+                "open_issues": 0,
+                "owner": "joeliang0520",
+                "repo": "SAPCR-MEM",
                 "stars": 0,
                 "topics": []
               },
@@ -1857,6 +1857,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
+              "description": "NYCU-NLP-Lab/EgoArgus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1345707965,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-01T14:59:04Z",
+                "open_issues": 0,
+                "owner": "NYCU-NLP-Lab",
+                "repo": "EgoArgus",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoSAT (2026) — 1,997 Ego4D videos (165 h) with ~4.8K QA pairs for streaming egocentric interaction understanding, covering retrospective, present, and prospective reasoning under partial observability.",
               "description": "leiyj23/EgoSAT",
               "children": [],
@@ -1896,27 +1917,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
-              "description": "NYCU-NLP-Lab/EgoArgus",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1345707965,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-01T14:59:04Z",
-                "open_issues": 0,
-                "owner": "NYCU-NLP-Lab",
-                "repo": "EgoArgus",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -2171,7 +2171,7 @@
                 "open_issues": 0,
                 "owner": "NYCU-NLP-Lab",
                 "repo": "EgoArgus",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -2402,7 +2402,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "egobabyvlm",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "ai",
                   "developmental-ai",
@@ -2610,7 +2610,7 @@
                 "open_issues": 2,
                 "owner": "langzhang2000",
                 "repo": "EyeCue",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -2807,7 +2807,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-25T16:23:16Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
                 "stars": 660,
@@ -3156,7 +3156,7 @@
                 "open_issues": 2,
                 "owner": "langzhang2000",
                 "repo": "EyeCue",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3491,7 +3491,7 @@
                 "id": 1281021141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T19:52:13Z",
+                "last_commit": "2026-10-28T21:23:29Z",
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
@@ -3823,7 +3823,7 @@
                 "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3861,7 +3861,7 @@
                 "id": 1281021141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T19:52:13Z",
+                "last_commit": "2026-10-28T21:23:29Z",
                 "open_issues": 3,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
@@ -4341,7 +4341,7 @@
                 "open_issues": 0,
                 "owner": "Abhiram824",
                 "repo": "egoexo4d_human_meshes",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-02T00:14:52.229Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4809,7 +4809,7 @@
                 "open_issues": 269,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 574,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5957,7 +5957,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-07-25T16:23:16Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "facebookresearch",
             "repo": "Ego4d",
             "stars": 660,
@@ -6056,7 +6056,7 @@
             "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:02:11.417Z",
+    "last_updated": "2026-10-29T00:26:14.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
