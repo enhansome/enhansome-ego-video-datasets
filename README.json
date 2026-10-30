@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 44,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -155,11 +155,11 @@
                 "id": 1291871738,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T03:11:04Z",
+                "last_commit": "2026-10-29T03:16:48Z",
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 181,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 296,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 296,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -309,11 +309,11 @@
                 "id": 1291871738,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T03:11:04Z",
+                "last_commit": "2026-10-29T03:16:48Z",
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 181,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1402,7 +1402,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1765,27 +1765,6 @@
             },
             {
               "node_type": "item",
-              "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
-              "description": "Ryougetsu3606/MyEgo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
-                "homepage": null,
-                "id": 1099728320,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-20T15:10:45Z",
-                "open_issues": 0,
-                "owner": "Ryougetsu3606",
-                "repo": "MyEgo",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
               "title": "EgoEMS (2025) — 20+ h emergency scenarios; EMS QA, multimodal.",
               "description": "UVA-DSA/EgoEMS",
               "children": [],
@@ -1833,6 +1812,27 @@
                 ]
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MyEgo (2026) — 541 long egocentric videos with 5K personalized questions about the camera wearer, their activities, and past context.",
+              "description": "Ryougetsu3606/MyEgo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] The dataset and code for \"Ego-Grounding for Personalized Question-Answering in Egocentric Videos\"",
+                "homepage": null,
+                "id": 1099728320,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-20T15:10:45Z",
+                "open_issues": 0,
+                "owner": "Ryougetsu3606",
+                "repo": "MyEgo",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2339,7 +2339,7 @@
                 "open_issues": 0,
                 "owner": "Ryougetsu3606",
                 "repo": "MyEgo",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 404,
+                "stars": 405,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3450,10 +3450,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T07:26:47Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "CorrineQiu",
                 "repo": "from-where-to-how",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 404,
+                "stars": 405,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4061,6 +4061,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
+              "description": "eth-siplab/EgoPHI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1350553732,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-16T21:48:32Z",
+                "open_issues": 3,
+                "owner": "eth-siplab",
+                "repo": "EgoPHI",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "VOST (2023) — 713 videos; VOS, transforming objects.",
               "description": "TRI-ML/VOST",
               "children": [],
@@ -4079,27 +4100,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoPHI force data (2026) — Real-world hand–object interaction recordings with dense object contact and force-magnitude reference measurements, plus released simulated per-vertex force annotations for ARCTIC and H2O. Supports sim-to-real evaluation of egocentric force estimation.",
-              "description": "eth-siplab/EgoPHI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1350553732,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-16T21:48:32Z",
-                "open_issues": 3,
-                "owner": "eth-siplab",
-                "repo": "EgoPHI",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -4348,6 +4348,27 @@
             },
             {
               "node_type": "item",
+              "title": "Coherent4D (2026) — Time-aligned sequences of future 3D interaction locations and full-body poses in a shared coordinate system, with continuous-space evaluation for joint interaction-location and motion forecasting. The released 233,828 samples contain annotations; source videos are obtained separately.",
+              "description": "CorrineQiu/from-where-to-how",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Project page for From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video",
+                "homepage": "https://corrineqiu.github.io/from-where-to-how/",
+                "id": 1337255594,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-14T07:26:47Z",
+                "open_issues": 2,
+                "owner": "CorrineQiu",
+                "repo": "from-where-to-how",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EMPIRE-651K (2026) — Training windows paired with explicit per-hand manipulation plans for learning manipulation-aware future hand motion. The official EMPIRE repository supplies code and schema documentation and currently marks the dataset as coming soon.",
               "description": "wangwen-banban/EMPIRE",
               "children": [],
@@ -4384,27 +4405,6 @@
                 "owner": "bbvisual",
                 "repo": "hice",
                 "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Coherent4D (2026) — Time-aligned sequences of future 3D interaction locations and full-body poses in a shared coordinate system, with continuous-space evaluation for joint interaction-location and motion forecasting. The released 233,828 samples contain annotations; source videos are obtained separately.",
-              "description": "CorrineQiu/from-where-to-how",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Project page for From Where to How: Continuous 4D Interaction Forecasting from Egocentric Video",
-                "homepage": "https://corrineqiu.github.io/from-where-to-how/",
-                "id": 1337255594,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-14T07:26:47Z",
-                "open_issues": 1,
-                "owner": "CorrineQiu",
-                "repo": "from-where-to-how",
-                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4513,10 +4513,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T07:26:47Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "CorrineQiu",
                 "repo": "from-where-to-how",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,8 +4805,8 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T21:21:32Z",
-                "open_issues": 269,
+                "last_commit": "2026-10-29T17:03:21Z",
+                "open_issues": 270,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 575,
@@ -5001,7 +5001,7 @@
                 "id": 1374520427,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T14:54:39Z",
+                "last_commit": "2026-10-29T21:13:01Z",
                 "open_issues": 0,
                 "owner": "Kratos-Wen",
                 "repo": "PROVIA",
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 588,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5379,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6004,11 +6004,11 @@
             "id": 1291871738,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T03:11:04Z",
+            "last_commit": "2026-10-29T03:16:48Z",
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 181,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:26:14.934Z",
+    "last_updated": "2026-10-30T00:25:13.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
