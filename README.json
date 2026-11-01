@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 48,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 0,
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1878,6 +1878,27 @@
             },
             {
               "node_type": "item",
+              "title": "CrossView (2026) — ~6K multi-camera video questions across autonomous driving, surveillance, ego/exo activity, and robotics, including 4–7 synchronized Ego-Exo4D cameras per egocentric question.",
+              "description": "UTAustin-SwarmLab/CrossView",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1279657246,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-25T16:50:45Z",
+                "open_issues": 0,
+                "owner": "UTAustin-SwarmLab",
+                "repo": "CrossView",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoSAT (2026) — 1,997 Ego4D videos (165 h) with ~4.8K QA pairs for streaming egocentric interaction understanding, covering retrospective, present, and prospective reasoning under partial observability.",
               "description": "leiyj23/EgoSAT",
               "children": [],
@@ -1914,27 +1935,6 @@
                 "owner": "RayNeo-AI-2025",
                 "repo": "LifeDialBench",
                 "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CrossView (2026) — ~6K multi-camera video questions across autonomous driving, surveillance, ego/exo activity, and robotics, including 4–7 synchronized Ego-Exo4D cameras per egocentric question.",
-              "description": "UTAustin-SwarmLab/CrossView",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1279657246,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-25T16:50:45Z",
-                "open_issues": 0,
-                "owner": "UTAustin-SwarmLab",
-                "repo": "CrossView",
-                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1980,6 +1980,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoGapBench (2026) — 1,000 egocentric action-selection items from multi-agent scenes without first-person body cues, designed to test whether VLMs choose actions from the correct self/other perspective.",
+              "description": "jhCOR/EgoGapBench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1283524315,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-05T00:51:30Z",
+                "open_issues": 0,
+                "owner": "jhCOR",
+                "repo": "EgoGapBench",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
             },
             {
               "node_type": "item",
@@ -2051,27 +2072,6 @@
                 "open_issues": 0,
                 "owner": "shunya-kato",
                 "repo": "LongEgoRefer",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoGapBench (2026) — 1,000 egocentric action-selection items from multi-agent scenes without first-person body cues, designed to test whether VLMs choose actions from the correct self/other perspective.",
-              "description": "jhCOR/EgoGapBench",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1283524315,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-05T00:51:30Z",
-                "open_issues": 0,
-                "owner": "jhCOR",
-                "repo": "EgoGapBench",
                 "stars": 0,
                 "topics": []
               },
@@ -2255,7 +2255,7 @@
                 "open_issues": 0,
                 "owner": "jhCOR",
                 "repo": "EgoGapBench",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3492,7 +3492,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T21:23:29Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
                 "stars": 94,
@@ -3862,7 +3862,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T21:23:29Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
                 "stars": 94,
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:46:01.036Z",
+    "last_updated": "2026-11-01T23:54:44.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
