@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-26T09:03:20Z",
+                "last_commit": "2026-11-03T14:26:56Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-26T09:03:20Z",
+                "last_commit": "2026-11-03T14:26:56Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -445,7 +445,7 @@
                 "open_issues": 1,
                 "owner": "chenyt31",
                 "repo": "Wh0",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2398,8 +2398,8 @@
                 "id": 1242522317,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-23T12:28:50Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-03T21:27:52Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "egobabyvlm",
                 "stars": 20,
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3575,7 +3575,7 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T03:29:40Z",
+                "last_commit": "2026-11-03T15:34:20Z",
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3775,7 +3775,7 @@
                 "open_issues": 4,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -3823,7 +3823,7 @@
                 "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3945,7 +3945,7 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T03:29:40Z",
+                "last_commit": "2026-11-03T15:34:20Z",
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
@@ -3991,7 +3991,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "3d",
                   "arctic",
@@ -4575,7 +4575,7 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T03:29:40Z",
+                "last_commit": "2026-11-03T15:34:20Z",
                 "open_issues": 2,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 590,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 590,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T02:32:41Z",
+                "last_commit": "2026-11-03T21:51:15Z",
                 "open_issues": 275,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 577,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 590,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6056,7 +6056,7 @@
             "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:39:26.109Z",
+    "last_updated": "2026-11-04T00:55:33.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6191,7 +6191,7 @@
       "open_issues": 0,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 231,
+      "stars": 232,
       "topics": [
         "awesome-list",
         "computer-vision",
