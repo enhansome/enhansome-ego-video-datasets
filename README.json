@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1126,
+                "stars": 1129,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-03T14:26:56Z",
+                "last_commit": "2026-11-04T22:13:31Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -243,7 +243,7 @@
                 "open_issues": 2,
                 "owner": "fpv-labs",
                 "repo": "stera-sdk",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1126,
+                "stars": 1129,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-03T14:26:56Z",
+                "last_commit": "2026-11-04T22:13:31Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -355,7 +355,7 @@
                 "open_issues": 0,
                 "owner": "Ropedia",
                 "repo": "HOMIE-toolkit",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -424,7 +424,7 @@
                 "open_issues": 2,
                 "owner": "fpv-labs",
                 "repo": "stera-sdk",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -654,7 +654,7 @@
                 "open_issues": 0,
                 "owner": "joeliang0520",
                 "repo": "SAPCR-MEM",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -787,7 +787,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 472,
+                "stars": 474,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -1019,6 +1019,27 @@
             },
             {
               "node_type": "item",
+              "title": "Ego-SpaCR / SpaC-MEM (2026) — ScanNet-derived video sessions augmented with task-oriented dialogue for cross-scene recall and counterfactual spatial queries. SpaC-MEM supplies reconstruction, memory, and evaluation code plus an Ego-SpaCR v1.0 annotation ZIP with 3,218 questions (3,100 in the official evaluation); ScanNet recordings are obtained separately.",
+              "description": "joeliang0520/SAPCR-MEM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1404784972,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-04T19:50:33Z",
+                "open_issues": 0,
+                "owner": "joeliang0520",
+                "repo": "SAPCR-MEM",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EMBER-Bench (2026) — Newly recorded household tasks with event and causal-chain annotations, covering progress, recovery, external interventions, and distant prerequisites. Paired next-action prediction and causal traceback test how past events constrain current action. Evaluation software is public; the complete dataset release remains pending.",
               "description": "ZHAOAlexGoat/EMBER-Bench",
               "children": [],
@@ -1034,27 +1055,6 @@
                 "owner": "ZHAOAlexGoat",
                 "repo": "EMBER-Bench",
                 "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Ego-SpaCR / SpaC-MEM (2026) — ScanNet-derived video sessions augmented with task-oriented dialogue for cross-scene recall and counterfactual spatial queries. SpaC-MEM supplies reconstruction, memory, and evaluation code plus an Ego-SpaCR v1.0 annotation ZIP with 3,218 questions (3,100 in the official evaluation); ScanNet recordings are obtained separately.",
-              "description": "joeliang0520/SAPCR-MEM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1404784972,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-04T19:50:33Z",
-                "open_issues": 0,
-                "owner": "joeliang0520",
-                "repo": "SAPCR-MEM",
-                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1082,7 +1082,7 @@
                 "open_issues": 0,
                 "owner": "joeliang0520",
                 "repo": "SAPCR-MEM",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1621,7 +1621,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-10-13T08:01:09Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "hd-epic",
                 "repo": "hd-epic-annotations",
                 "stars": 44,
@@ -2810,7 +2810,7 @@
                 "open_issues": 78,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3991,7 +3991,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "3d",
                   "arctic",
@@ -4714,11 +4714,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T19:34:57Z",
+                "last_commit": "2026-11-04T02:20:02Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 595,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4757,7 +4757,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-19T13:54:35Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
                 "stars": 32,
@@ -4784,11 +4784,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T19:34:57Z",
+                "last_commit": "2026-11-04T02:20:02Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 595,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T21:51:15Z",
-                "open_issues": 275,
+                "last_commit": "2026-11-04T06:13:48Z",
+                "open_issues": 276,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4890,7 +4890,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-19T13:54:35Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
                 "stars": 32,
@@ -4935,7 +4935,7 @@
                 "open_issues": 1,
                 "owner": "Ropedia",
                 "repo": "egotools",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5043,11 +5043,11 @@
                 "id": 1247864171,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T19:34:57Z",
+                "last_commit": "2026-11-04T02:20:02Z",
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 595,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5960,7 +5960,7 @@
             "open_issues": 78,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 662,
+            "stars": 663,
             "topics": [
               "computer-vision",
               "dataset",
@@ -5987,7 +5987,7 @@
             "open_issues": 0,
             "owner": "Ropedia",
             "repo": "HOMIE-toolkit",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:55:33.940Z",
+    "last_updated": "2026-11-05T01:04:21.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
