@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -201,7 +201,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-04T22:13:31Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-06T01:04:20Z",
+                "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 297,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -271,7 +271,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "DreamDojo",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-04T22:13:31Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-06T01:04:20Z",
+                "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 297,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -553,7 +553,7 @@
                 "id": 1399689400,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-14T07:22:16Z",
+                "last_commit": "2026-11-05T09:02:29Z",
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "ME-World",
@@ -2719,7 +2719,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3009,7 +3009,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3331,7 +3331,7 @@
                 "open_issues": 3,
                 "owner": "Exploring-Embodied-Emotion-official",
                 "repo": "E3",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3886,7 +3886,7 @@
                 "open_issues": 6,
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3991,7 +3991,7 @@
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "3d",
                   "arctic",
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,8 +4805,8 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T06:13:48Z",
-                "open_issues": 276,
+                "last_commit": "2026-11-05T17:58:53Z",
+                "open_issues": 281,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 580,
@@ -5005,7 +5005,7 @@
                 "open_issues": 0,
                 "owner": "Kratos-Wen",
                 "repo": "PROVIA",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5379,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:04:21.538Z",
+    "last_updated": "2026-11-06T01:08:03.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6188,7 +6188,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-13T04:17:58Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
       "stars": 232,
