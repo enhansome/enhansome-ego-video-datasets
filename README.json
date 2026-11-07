@@ -37,7 +37,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-26T02:53:12Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
             "stars": 53,
@@ -107,7 +107,7 @@
                 "id": 1331555408,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-22T10:26:31Z",
+                "last_commit": "2026-11-06T09:51:27Z",
                 "open_issues": 1,
                 "owner": "Rongdingyi",
                 "repo": "H2R-Bench",
@@ -180,7 +180,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-06T01:04:20Z",
+                "last_commit": "2026-11-06T08:58:00Z",
                 "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 301,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-06T01:04:20Z",
+                "last_commit": "2026-11-06T08:58:00Z",
                 "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 301,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -376,7 +376,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -525,7 +525,7 @@
                 "id": 1331555408,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-22T10:26:31Z",
+                "last_commit": "2026-11-06T09:51:27Z",
                 "open_issues": 1,
                 "owner": "Rongdingyi",
                 "repo": "H2R-Bench",
@@ -595,7 +595,7 @@
                 "id": 1331555408,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-22T10:26:31Z",
+                "last_commit": "2026-11-06T09:51:27Z",
                 "open_issues": 1,
                 "owner": "Rongdingyi",
                 "repo": "H2R-Bench",
@@ -620,7 +620,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -2398,8 +2398,8 @@
                 "id": 1242522317,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T21:27:52Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-06T19:44:42Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "egobabyvlm",
                 "stars": 20,
@@ -3534,7 +3534,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-29T04:33:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
                 "stars": 16,
@@ -3886,7 +3886,7 @@
                 "open_issues": 6,
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3928,7 +3928,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3987,7 +3987,7 @@
                 "id": 1283976546,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T11:52:08Z",
+                "last_commit": "2026-11-06T09:08:13Z",
                 "open_issues": 1,
                 "owner": "Sid2697",
                 "repo": "HOPformer",
@@ -4146,7 +4146,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-29T04:33:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
                 "stars": 16,
@@ -4618,7 +4618,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-29T04:33:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
                 "stars": 16,
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,7 +4805,7 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T17:58:53Z",
+                "last_commit": "2026-11-06T06:38:22Z",
                 "open_issues": 281,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:08:03.631Z",
+    "last_updated": "2026-11-07T00:22:08.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
