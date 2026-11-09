@@ -36,7 +36,7 @@
             "id": 1345069536,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-26T02:53:12Z",
+            "last_commit": "2026-11-08T06:05:51Z",
             "open_issues": 2,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-07T16:26:11Z",
+                "last_commit": "2026-11-08T04:51:44Z",
                 "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 310,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-07T16:26:11Z",
+                "last_commit": "2026-11-08T04:51:44Z",
                 "open_issues": 6,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 310,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -2589,7 +2589,7 @@
                 "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3079,6 +3079,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoPolice (2026) — 180+ h of real police body-worn camera footage with second-by-second annotations for nine high-stakes police/civilian action classes, classification folds, and multiple-choice VideoQA.",
+              "description": "princetonvisualai/EgoPolice",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1277262891,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-07-24T00:38:35Z",
+                "open_issues": 0,
+                "owner": "princetonvisualai",
+                "repo": "EgoPolice",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoCampus (2025) — ~32 h / campus paths (paper); Gaze, pedestrian ego.",
               "description": "ComputerVisionRutgers/EgoCampus",
               "children": [],
@@ -3094,27 +3115,6 @@
                 "owner": "ComputerVisionRutgers",
                 "repo": "EgoCampus",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoPolice (2026) — 180+ h of real police body-worn camera footage with second-by-second annotations for nine high-stakes police/civilian action classes, classification folds, and multiple-choice VideoQA.",
-              "description": "princetonvisualai/EgoPolice",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1277262891,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-07-24T00:38:35Z",
-                "open_issues": 0,
-                "owner": "princetonvisualai",
-                "repo": "EgoPolice",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3310,7 +3310,7 @@
                 "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3820,7 +3820,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-25T08:36:08Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
                 "stars": 142,
@@ -5379,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6053,7 +6053,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-25T08:36:08Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
             "stars": 142,
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:59:00.304Z",
+    "last_updated": "2026-11-09T00:03:59.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
