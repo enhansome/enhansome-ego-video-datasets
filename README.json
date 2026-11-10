@@ -37,7 +37,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-08T06:05:51Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
             "stars": 53,
@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-08T04:51:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-10T00:27:02Z",
+                "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 325,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-08T04:51:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-10T00:27:02Z",
+                "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 325,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -397,7 +397,7 @@
                 "open_issues": 0,
                 "owner": "fpv-labs",
                 "repo": "ego-oscar",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "ego-oscar",
                   "egocentric-vision",
@@ -445,7 +445,7 @@
                 "open_issues": 1,
                 "owner": "chenyt31",
                 "repo": "Wh0",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -787,7 +787,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -865,7 +865,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "EgoMemo",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -1561,7 +1561,7 @@
                 "open_issues": 2,
                 "owner": "Human-CLAW",
                 "repo": "HumanCLAW",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -2402,7 +2402,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "egobabyvlm",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "ai",
                   "developmental-ai",
@@ -2810,7 +2810,7 @@
                 "open_issues": 78,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 408,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4149,7 +4149,7 @@
                 "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4253,6 +4253,38 @@
             },
             {
               "node_type": "item",
+              "title": "EEH-R / N-HOT3D extension (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).",
+              "description": "ryhara/EventEgoHandsV2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[IEEE Access 2026] EventEgoHands++ & [ICIP 2025] EventEgoHands official implementation",
+                "homepage": "https://ryhara.github.io/EventEgoHandsV2/",
+                "id": 1151304059,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-30T05:01:21Z",
+                "open_issues": 1,
+                "owner": "ryhara",
+                "repo": "EventEgoHandsV2",
+                "stars": 9,
+                "topics": [
+                  "event-based",
+                  "event-based-camera",
+                  "event-based-vision",
+                  "event-camera",
+                  "hand",
+                  "hand-detection",
+                  "hand-detector",
+                  "hand-pose",
+                  "hand-pose-detection",
+                  "hand-pose-estimation"
+                ]
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoPoints (2025) — Point tracks + synthetic; Tracking in ego video.",
               "description": "AhmadDarKhalil/EgoPoints",
               "children": [],
@@ -4271,38 +4303,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EEH-R / N-HOT3D extension (2026) — EventEgoHands++ introduces real head-mounted event recordings from eight subjects, including low light, with MANO supervision and partial hand masks/boxes. Its companion N-HOT3D extension adds masks/boxes to 136 synthetic sequences (4.4 h / 480K frames).",
-              "description": "ryhara/EventEgoHandsV2",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[IEEE Access 2026] EventEgoHands++ & [ICIP 2025] EventEgoHands official implementation",
-                "homepage": "https://ryhara.github.io/EventEgoHandsV2/",
-                "id": 1151304059,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-30T05:01:21Z",
-                "open_issues": 0,
-                "owner": "ryhara",
-                "repo": "EventEgoHandsV2",
-                "stars": 8,
-                "topics": [
-                  "event-based",
-                  "event-based-camera",
-                  "event-based-vision",
-                  "event-camera",
-                  "hand",
-                  "hand-detection",
-                  "hand-detector",
-                  "hand-pose",
-                  "hand-pose-detection",
-                  "hand-pose-estimation"
-                ]
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -4621,7 +4621,7 @@
                 "open_issues": 1,
                 "owner": "Russell-Zeng",
                 "repo": "EgoTactile",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4809,7 +4809,7 @@
                 "open_issues": 282,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5379,7 +5379,7 @@
                 "open_issues": 2,
                 "owner": "InternLM",
                 "repo": "OVO-S-Bench",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5726,7 +5726,7 @@
                 "open_issues": 1,
                 "owner": "InkMind-AI",
                 "repo": "Dyn-3D",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5960,7 +5960,7 @@
             "open_issues": 78,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "computer-vision",
               "dataset",
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:03:59.076Z",
+    "last_updated": "2026-11-10T02:56:25.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6191,7 +6191,7 @@
       "open_issues": 1,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 233,
+      "stars": 234,
       "topics": [
         "awesome-list",
         "computer-vision",
