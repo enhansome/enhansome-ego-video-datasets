@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 186,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -180,7 +180,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -218,11 +218,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-10T14:07:49Z",
+                "last_commit": "2026-11-11T13:51:51Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 343,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -288,11 +288,11 @@
                 "id": 1230048805,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-10T14:07:49Z",
+                "last_commit": "2026-11-11T13:51:51Z",
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 343,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 186,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -376,7 +376,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -620,7 +620,7 @@
                 "open_issues": 2,
                 "owner": "EgoCS-400K",
                 "repo": "Dataset",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -2925,7 +2925,7 @@
                 "open_issues": 1,
                 "owner": "fpv-iplab",
                 "repo": "MECCANO",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3844,7 +3844,7 @@
                 "open_issues": 0,
                 "owner": "egosteer",
                 "repo": "egosmith",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -4191,7 +4191,7 @@
                 "open_issues": 0,
                 "owner": "matteo-dunnhofer",
                 "repo": "fpv-tracking-toolkit",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "computer-vision",
                   "egocentric-vision",
@@ -4760,7 +4760,7 @@
                 "open_issues": 2,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4893,7 +4893,7 @@
                 "open_issues": 2,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5207,7 +5207,7 @@
                 "open_issues": 0,
                 "owner": "CSU-HERO-Lab",
                 "repo": "FloAff-Kitchen",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5428,6 +5428,27 @@
             },
             {
               "node_type": "item",
+              "title": "FloAff-Kitchen (2026) — Cross-scene, multi-view benchmark for predicting where a mobile robot should stand to execute downstream manipulation, spanning varied skills, layouts, furniture styles, and egocentric viewpoints.",
+              "description": "CSU-HERO-Lab/FloAff-Kitchen",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1312609605,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-28T13:32:32Z",
+                "open_issues": 0,
+                "owner": "CSU-HERO-Lab",
+                "repo": "FloAff-Kitchen",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoTraj (2026) — 10.7 h / 1.15M frames of Meta Quest Pro egocentric urban navigation with synchronized RGB, 6DoF head pose, gaze, and scene annotations. The official UT Box download provides data in five video archives, and the repository includes the EgoViz inspection tool.",
               "description": "yehiahmad/EgoTraj",
               "children": [],
@@ -5484,27 +5505,6 @@
                 "open_issues": 0,
                 "owner": "Beyond3D-bench",
                 "repo": "vlm-evaluation",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FloAff-Kitchen (2026) — Cross-scene, multi-view benchmark for predicting where a mobile robot should stand to execute downstream manipulation, spanning varied skills, layouts, furniture styles, and egocentric viewpoints.",
-              "description": "CSU-HERO-Lab/FloAff-Kitchen",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1312609605,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-28T13:32:32Z",
-                "open_issues": 0,
-                "owner": "CSU-HERO-Lab",
-                "repo": "FloAff-Kitchen",
                 "stars": 10,
                 "topics": []
               },
@@ -5789,7 +5789,7 @@
                 "open_issues": 0,
                 "owner": "CSU-HERO-Lab",
                 "repo": "FloAff-Kitchen",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 186,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6077,7 +6077,7 @@
             "open_issues": 0,
             "owner": "matteo-dunnhofer",
             "repo": "fpv-tracking-toolkit",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "computer-vision",
               "egocentric-vision",
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:54:56.551Z",
+    "last_updated": "2026-11-12T02:00:35.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6188,7 +6188,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-13T04:17:58Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
       "stars": 234,
