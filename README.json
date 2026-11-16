@@ -36,7 +36,7 @@
             "id": 1345069536,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T03:39:58Z",
+            "last_commit": "2026-11-15T03:21:50Z",
             "open_issues": 2,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 356,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 356,
+                "stars": 359,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4697,7 +4697,7 @@
                 "open_issues": 9,
                 "owner": "assembly-101",
                 "repo": "assembly101-download-scripts",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,8 +4805,8 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T21:33:08Z",
-                "open_issues": 283,
+                "last_commit": "2026-11-15T22:44:52Z",
+                "open_issues": 288,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
                 "stars": 583,
@@ -4851,7 +4851,7 @@
                 "open_issues": 9,
                 "owner": "assembly-101",
                 "repo": "assembly101-download-scripts",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:20:26.111Z",
+    "last_updated": "2026-11-16T00:23:27.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
