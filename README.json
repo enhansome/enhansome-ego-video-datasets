@@ -37,10 +37,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-15T03:21:50Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "zhangzjn",
             "repo": "awesome-smart-glasses",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-10-08T00:25:07.034Z"
@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -222,7 +222,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -292,7 +292,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -313,7 +313,7 @@
                 "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "Open-AoE",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3575,7 +3575,7 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T15:34:20Z",
+                "last_commit": "2026-11-17T08:52:41Z",
                 "open_issues": 3,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
@@ -3945,12 +3945,42 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T15:34:20Z",
+                "last_commit": "2026-11-17T08:52:41Z",
                 "open_issues": 3,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 58,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EPIC-Contact (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.",
+              "description": "Sid2697/HOPformer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
+                "homepage": "https://sid2697.github.io/epic-contact/",
+                "id": 1283976546,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-06T09:08:13Z",
+                "open_issues": 1,
+                "owner": "Sid2697",
+                "repo": "HOPformer",
+                "stars": 51,
+                "topics": [
+                  "3d",
+                  "arctic",
+                  "egocentric-videos",
+                  "egocentric-vision",
+                  "epic-kitchens",
+                  "hand-object-interaction",
+                  "in-the-wild",
+                  "pose-estimation"
+                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -3972,36 +4002,6 @@
                 "repo": "you2me",
                 "stars": 51,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EPIC-Contact (2026) — 2.3K in-the-wild EPIC-KITCHENS stable-grasp clips (62.3K frames) with dense bijective 3D hand-object contact correspondences and posed hand/object meshes for unconstrained 3D HOI pose estimation.",
-              "description": "Sid2697/HOPformer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for HOPformer released in ECCV 2026 Paper \"Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation\"",
-                "homepage": "https://sid2697.github.io/epic-contact/",
-                "id": 1283976546,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-06T09:08:13Z",
-                "open_issues": 1,
-                "owner": "Sid2697",
-                "repo": "HOPformer",
-                "stars": 50,
-                "topics": [
-                  "3d",
-                  "arctic",
-                  "egocentric-videos",
-                  "egocentric-vision",
-                  "epic-kitchens",
-                  "hand-object-interaction",
-                  "in-the-wild",
-                  "pose-estimation"
-                ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
             },
@@ -4575,7 +4575,7 @@
                 "id": 1231599062,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T15:34:20Z",
+                "last_commit": "2026-11-17T08:52:41Z",
                 "open_issues": 3,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
@@ -4718,7 +4718,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4788,7 +4788,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4805,7 +4805,7 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T02:15:35Z",
+                "last_commit": "2026-11-18T00:00:33Z",
                 "open_issues": 304,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
@@ -4935,7 +4935,7 @@
                 "open_issues": 1,
                 "owner": "Ropedia",
                 "repo": "egotools",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5047,7 +5047,7 @@
                 "open_issues": 0,
                 "owner": "TX-Leo",
                 "repo": "HumanEgo",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5892,7 +5892,7 @@
             "open_issues": 0,
             "owner": "WB-WaM",
             "repo": "Pico-Ego-Collector",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-09-27T23:25:03.707Z"
@@ -6008,7 +6008,7 @@
             "open_issues": 4,
             "owner": "ant-research",
             "repo": "Open-AoE",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:11:45.882Z",
+    "last_updated": "2026-11-18T02:36:47.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
