@@ -3390,7 +3390,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 415,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3754,7 +3754,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 415,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4805,11 +4805,11 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T22:34:27Z",
+                "last_commit": "2026-11-21T22:11:21Z",
                 "open_issues": 306,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 584,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +6179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:45:23.782Z",
+    "last_updated": "2026-11-22T00:41:09.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
