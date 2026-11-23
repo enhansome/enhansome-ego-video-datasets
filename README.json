@@ -55,6 +55,57 @@
           "children": [
             {
               "node_type": "item",
+              "title": "HumanCOIN",
+              "description": "2026 12,500 h target / 463.82 h catalogued on Nov 21 Intent-aware multimodal manipulation pretraining Paper Site · Code · Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation",
+                "homepage": "https://flagopen.github.io/HumanCOIN",
+                "id": 1460998936,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T21:01:33Z",
+                "open_issues": 0,
+                "owner": "FlagOpen",
+                "repo": "HumanCOIN",
+                "stars": 3,
+                "topics": [
+                  "dataset",
+                  "egocentric",
+                  "robotics"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Xp-Data / Xp-Teleop",
+              "description": "2026 10K h human + 3K h robot training mixture Cross-embodiment loco-manipulation world models Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:23:58Z",
+                "open_issues": 3,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 297,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "AtomEgo",
               "description": "2026 ~2,659 h curated corpus Ego–robot co-training, embodied pretraining Paper Code",
               "children": [],
@@ -299,6 +350,32 @@
             },
             {
               "node_type": "item",
+              "title": "Xp-Data / Xp-Teleop (2026) — Ropedia W0 curates human egocentric and robot data with unified motion annotations, and introduces Xp-Teleop for long-horizon humanoid loco-manipulation. Public Xp-Teleop data and 5B inference assets are available; the full training mixture, benchmark evaluation assets, and post-training code have separate release scopes.",
+              "description": "Ropedia/ropedia-w0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:23:58Z",
+                "open_issues": 3,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 297,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "Open-AoE (2026) — ~2,000 h of smartphone-collected manipulation video from 500+ contributors with bilingual text, MANO hand pose, camera trajectory, and atomic-action annotations, plus capture-to-training tools for VLA and world-model research.",
               "description": "ant-research/Open-AoE",
               "children": [],
@@ -533,6 +610,31 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanCOIN (2026) — Three tiers pair egocentric manipulation with visual attention, bilateral sEMG, and EEG; gaze is inferred in the broad capture tiers and measured in the controlled setting. The paper reports 12,500 h, while the public catalogue snapshot lists 9,459 episodes / 463.82 h. Independent sensor clocks and calibration are provided through the reader and data manager.",
+              "description": "FlagOpen/HumanCOIN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation",
+                "homepage": "https://flagopen.github.io/HumanCOIN",
+                "id": 1460998936,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T21:01:33Z",
+                "open_issues": 0,
+                "owner": "FlagOpen",
+                "repo": "HumanCOIN",
+                "stars": 3,
+                "topics": [
+                  "dataset",
+                  "egocentric",
+                  "robotics"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             }
           ],
           "description": null,
@@ -541,6 +643,53 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoActionBench / EgoACT (2026)",
+              "description": "Action preservation, video quality, and hand–object plausibility Egocentric manipulation action-transfer cases Paper · Site · Code Generation evaluation benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] EgoACT: This repo is the official implementation of \"Decoupling Action from Egocentric Observation for World Simulation\"",
+                "homepage": null,
+                "id": 1417074824,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-21T10:04:39Z",
+                "open_issues": 0,
+                "owner": "mayuelala",
+                "repo": "EgoACT",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Xp-Data / Xp-Teleop (2026)",
+              "description": "Cross-embodiment loco-manipulation world models Xp-Data / Xp-Teleop Paper · Site · Code · HF Mixed human/robot sources; Xp-Teleop data released",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+                "homepage": "https://ropedia.github.io/ropedia-w0/",
+                "id": 1423285726,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:23:58Z",
+                "open_issues": 3,
+                "owner": "Ropedia",
+                "repo": "ropedia-w0",
+                "stars": 297,
+                "topics": [
+                  "cross-embodiment",
+                  "human-data",
+                  "loco-manipulation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "ME-World (2026)",
@@ -638,6 +787,111 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoWitness",
+              "description": "2026 8,453 QA / ~324 h source video Instance-level spatial memory Paper Site · Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoWitness: Benchmarking Instance-Level Spatial Memory and Reasoning in Egocentric Video Streams. Code, dataset, and annotations are coming soon.",
+                "homepage": null,
+                "id": 1463903669,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-19T09:04:02Z",
+                "open_issues": 0,
+                "owner": "egowitness",
+                "repo": "EgoWitness",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VideoMemBench",
+              "description": "2026 326 videos / 2,476 dialogue turns In-context memory in video conversations Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations? Evaluation tools with fixed visual input, sequential self-rollout, and dependency-aware metrics.",
+                "homepage": "https://videomembench.github.io",
+                "id": 1423953956,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-03T06:22:27Z",
+                "open_issues": 0,
+                "owner": "Oliiveralien",
+                "repo": "VideoMemBench",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ProactEgoMem",
+              "description": "2026 400 clips / 1,500 memory-quality QA Proactive streaming memory Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official repository for ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video.",
+                "homepage": null,
+                "id": 1428292198,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-22T05:55:55Z",
+                "open_issues": 0,
+                "owner": "mayhugotong",
+                "repo": "ProactEgoMem",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SENRI-Bench",
+              "description": "2026 10 videos / 25.3 h / 500 MCQs Space–event memory in long video Paper Site · HF · Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[arXiv:2610.25309] SENRI: Understanding the Space-Event Nexus in Real-Life Videos",
+                "homepage": "https://senri-video.github.io/",
+                "id": 1418395744,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:09:28Z",
+                "open_issues": 0,
+                "owner": "lan-kehan",
+                "repo": "senri",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemoProBench / MemoProAgent",
+              "description": "2026 1,804 pairs / 800 evaluation histories Memory-driven proactive intervention Paper Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the repo of our Memory Driven Proactive Agent",
+                "homepage": null,
+                "id": 1426030141,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-22T00:48:16Z",
+                "open_issues": 0,
+                "owner": "facebookresearch",
+                "repo": "Memo-Pro-Agent",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "Ego-SpaCR / SpaC-MEM",
@@ -787,7 +1041,7 @@
                 "open_issues": 13,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "EgoLife",
-                "stars": 478,
+                "stars": 480,
                 "topics": [
                   "egocentric-vision",
                   "omnimodal",
@@ -893,6 +1147,27 @@
             },
             {
               "node_type": "item",
+              "title": "MemoProBench / MemoProAgent (2026) — Egocentric video paired with distractor-rich year-long user memory, human-verified trigger windows, and joint timing/content evaluation. The public MemProBench repository provides 800 frozen evaluation memory histories; source Ego4D videos are obtained separately.",
+              "description": "facebookresearch/Memo-Pro-Agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the repo of our Memory Driven Proactive Agent",
+                "homepage": null,
+                "id": 1426030141,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-22T00:48:16Z",
+                "open_issues": 0,
+                "owner": "facebookresearch",
+                "repo": "Memo-Pro-Agent",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "MA-EgoQA (2026) — 1,741 QA pairs over six temporally aligned EgoLife egocentric streams spanning seven days, targeting multi-agent social interaction, task coordination, theory-of-mind, temporal reasoning, and environmental interaction.",
               "description": "KangsanKim07/MA-EgoQA",
               "children": [],
@@ -914,7 +1189,7 @@
             },
             {
               "node_type": "item",
-              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the authors plan the dataset and code release before November 2026.",
+              "title": "APM-Bench (2026) — Related activity sessions form interrupted life trajectories for retrospective questions and proactive responses, evaluating the utility–latency–storage trade-off. Project and repository pages are available; the official release checklist still marks the dataset and code as pending as of November 22, 2026.",
               "description": "Jianguo-Huang11/APM-Bench",
               "children": [],
               "repo_info": {
@@ -1019,6 +1294,69 @@
             },
             {
               "node_type": "item",
+              "title": "SENRI-Bench (2026) — Uninterrupted self-recorded daily-life videos with six tasks linking event cues to spaces and spatial regions or trajectories back to events. Videos and questions are public; SENRI-Agent and evaluation code are still being prepared.",
+              "description": "lan-kehan/senri",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[arXiv:2610.25309] SENRI: Understanding the Space-Event Nexus in Real-Life Videos",
+                "homepage": "https://senri-video.github.io/",
+                "id": 1418395744,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:09:28Z",
+                "open_issues": 0,
+                "owner": "lan-kehan",
+                "repo": "senri",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VideoMemBench (2026) — Multi-turn dialogues contain 1,387 turns that depend on earlier visual episodes or earlier answers, with necessity and non-leakage checks. Released videos, dialogue annotations, and evaluation code support testing cross-turn memory; this is a general-video resource, not ego-only.",
+              "description": "Oliiveralien/VideoMemBench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations? Evaluation tools with fixed visual input, sequential self-rollout, and dependency-aware metrics.",
+                "homepage": "https://videomembench.github.io",
+                "id": 1423953956,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-03T06:22:27Z",
+                "open_issues": 0,
+                "owner": "Oliiveralien",
+                "repo": "VideoMemBench",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ProactEgoMem (2026) — Daily and scientific tracks contain 300 and 100 clips, paired with 1,000 and 500 QA. Information capture, state tracking, and location tracking are evaluated at notification and tool-intervention levels. Version 1.0 data and evaluation resources are public, with held-out scoring through Codabench.",
+              "description": "mayhugotong/ProactEgoMem",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official repository for ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video.",
+                "homepage": null,
+                "id": 1428292198,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-22T05:55:55Z",
+                "open_issues": 0,
+                "owner": "mayhugotong",
+                "repo": "ProactEgoMem",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ego-SpaCR / SpaC-MEM (2026) — ScanNet-derived video sessions augmented with task-oriented dialogue for cross-scene recall and counterfactual spatial queries. SpaC-MEM supplies reconstruction, memory, and evaluation code plus an Ego-SpaCR v1.0 annotation ZIP with 3,218 questions (3,100 in the official evaluation); ScanNet recordings are obtained separately.",
               "description": "joeliang0520/SAPCR-MEM",
               "children": [],
@@ -1040,7 +1378,7 @@
             },
             {
               "node_type": "item",
-              "title": "EMBER-Bench (2026) — Newly recorded household tasks with event and causal-chain annotations, covering progress, recovery, external interventions, and distant prerequisites. Paired next-action prediction and causal traceback test how past events constrain current action. Evaluation software is public; the complete dataset release remains pending.",
+              "title": "EMBER-Bench (2026) — Newly recorded household tasks with event and causal-chain annotations, covering progress, recovery, external interventions, and distant prerequisites. Paired next-action prediction and causal traceback test how past events constrain current action. The public test release includes 699 video histories, current-frame images, and reference answers, with evaluation software; raw originals and a training split are outside this release.",
               "description": "ZHAOAlexGoat/EMBER-Bench",
               "children": [],
               "repo_info": {
@@ -1058,6 +1396,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoWitness (2026) — Week-long EgoLife and shorter Ego4D-derived recordings support seven object/room identity, history, witness, and visit-reasoning abilities. Reviewed masks and room timelines ground persistent instances across people and days. The project currently marks code, dataset, and annotations as coming soon.",
+              "description": "egowitness/EgoWitness",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoWitness: Benchmarking Instance-Level Spatial Memory and Reasoning in Egocentric Video Streams. Code, dataset, and annotations are coming soon.",
+                "homepage": null,
+                "id": 1463903669,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-19T09:04:02Z",
+                "open_issues": 0,
+                "owner": "egowitness",
+                "repo": "EgoWitness",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             }
           ],
           "description": null,
@@ -1066,6 +1425,132 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoWitness (2026)",
+              "description": "Instance-level spatial memory EgoWitness Paper · Site · Repository Code/data/annotations pending",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoWitness: Benchmarking Instance-Level Spatial Memory and Reasoning in Egocentric Video Streams. Code, dataset, and annotations are coming soon.",
+                "homepage": null,
+                "id": 1463903669,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-19T09:04:02Z",
+                "open_issues": 0,
+                "owner": "egowitness",
+                "repo": "EgoWitness",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemInStream (2026)",
+              "description": "Evidence-controlled streaming memory 3,799 questions / 17 tasks Paper · Site · Code · HF Mixed videos; tests evidence solvability and memory necessity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1438454481,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-13T17:02:12Z",
+                "open_issues": 1,
+                "owner": "HKUST-LongGroup",
+                "repo": "MemInStream",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VideoMemBench (2026)",
+              "description": "In-context memory in video conversations VideoMemBench Paper · Site · Code · HF Mixed-video extension; media and dialogue annotations released",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations? Evaluation tools with fixed visual input, sequential self-rollout, and dependency-aware metrics.",
+                "homepage": "https://videomembench.github.io",
+                "id": 1423953956,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-03T06:22:27Z",
+                "open_issues": 0,
+                "owner": "Oliiveralien",
+                "repo": "VideoMemBench",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ProactEgoMem (2026)",
+              "description": "Proactive streaming memory ProactEgoMem Paper · Site · Code · HF Public v1.0; held-out evaluation on Codabench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official repository for ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video.",
+                "homepage": null,
+                "id": 1428292198,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-22T05:55:55Z",
+                "open_issues": 0,
+                "owner": "mayhugotong",
+                "repo": "ProactEgoMem",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SENRI-Bench (2026)",
+              "description": "Space–event memory in long video SENRI-Bench Paper · Site · HF · Repository Videos/QA released; agent and evaluation code pending",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[arXiv:2610.25309] SENRI: Understanding the Space-Event Nexus in Real-Life Videos",
+                "homepage": "https://senri-video.github.io/",
+                "id": 1418395744,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:09:28Z",
+                "open_issues": 0,
+                "owner": "lan-kehan",
+                "repo": "senri",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemoProBench / MemoProAgent (2026)",
+              "description": "Memory-driven proactive intervention MemoProBench / MemoProAgent Paper · Code · HF Public memory histories; source video separate",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the repo of our Memory Driven Proactive Agent",
+                "homepage": null,
+                "id": 1426030141,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-22T00:48:16Z",
+                "open_issues": 0,
+                "owner": "facebookresearch",
+                "repo": "Memo-Pro-Agent",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "Ego-SpaCR / SpaC-MEM (2026)",
@@ -1090,7 +1575,7 @@
             {
               "node_type": "item",
               "title": "APM-Bench (2026)",
-              "description": "Cross-session persistent streaming memory APM-Bench Official · Site · Repository Project/repository available; code and data planned before Nov 2026",
+              "description": "Cross-session persistent streaming memory APM-Bench Official · Site · Repository Project/repository available; code and data still pending (Nov 22 check)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1209,6 +1694,69 @@
                 ]
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BiScopeCap-100K",
+              "description": "2026 ~100K video-level captions Hand-role-aware sub-action understanding Paper Site · Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the implementation of BiScopeNet, including the FocusAlign projection layer and MetaLoss function, for individual hand-level action and sub-action detection.",
+                "homepage": null,
+                "id": 1450756057,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T20:44:45Z",
+                "open_issues": 0,
+                "owner": "SadeghRahmaniB",
+                "repo": "biscopenet",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Omni-Life",
+              "description": "2026 400 videos / 555 intervention events Real-time omnimodal assistance Paper Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://todayai-labs.github.io/omni-life/",
+                "id": 1415510669,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T04:33:52Z",
+                "open_issues": 0,
+                "owner": "todayai-labs",
+                "repo": "omni-life",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VISTA",
+              "description": "2026 997 clips / 10 assistive task categories Multimodal accessibility assistance Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1419658656,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-15T06:33:35Z",
+                "open_issues": 0,
+                "owner": "Harvard-AI-and-Robotics-Lab",
+                "repo": "VISTA",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -1681,6 +2229,27 @@
             },
             {
               "node_type": "item",
+              "title": "Omni-Life (2026) — 290 videos require assistance and 110 require silence throughout. Real-world recordings and controlled synthetic hazards share a timing protocol for intervention coverage, response content, latency, and unwanted output. Covers device-dependent daily-life observations rather than ego-only capture.",
+              "description": "todayai-labs/omni-life",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://todayai-labs.github.io/omni-life/",
+                "id": 1415510669,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T04:33:52Z",
+                "open_issues": 0,
+                "owner": "todayai-labs",
+                "repo": "omni-life",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "VIABench (2026) — 761 first-person videos (46.9 h) recorded or shared by blind individuals with 14,526 curated annotations for proactive reminders, visual question answering, and vision-guided interaction in online and offline settings.",
               "description": "MCG-NJU/VIABench",
               "children": [],
@@ -1836,6 +2405,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
+              "description": "NYCU-NLP-Lab/EgoArgus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1345707965,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-01T14:59:04Z",
+                "open_issues": 0,
+                "owner": "NYCU-NLP-Lab",
+                "repo": "EgoArgus",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-09-27T23:25:03.707Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoEverything (2026) — 100+ h of AR egocentric video with 5K+ multiple-choice questions for human-behavior-inspired long-context video understanding. VQA annotations and generation/evaluation code are public; the dataset card documents source-video access separately.",
               "description": "SAI-Lab-NYU/EgoEverything-Dataset",
               "children": [],
@@ -1854,27 +2444,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EgoArgus (2026) — The released benchmark contains 6,978 understanding examples over 3,719 source-derived clips and 789 intervention decisions over 311 hosted videos. It tests visual–dialogue evidence conflicts, modality trust, and when assistance is warranted; source videos for understanding require separate access.",
-              "description": "NYCU-NLP-Lab/EgoArgus",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1345707965,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-01T14:59:04Z",
-                "open_issues": 0,
-                "owner": "NYCU-NLP-Lab",
-                "repo": "EgoArgus",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-09-27T23:25:03.707Z"
             },
             {
               "node_type": "item",
@@ -1938,6 +2507,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VISTA (2026) — Project Aria recordings with 1,063 scene descriptions, 1,191 QA pairs, and 2,067 goal–instruction pairs for blind and low-vision assistance. Public train/validation/test splits contain 497/50/450 clips, with synchronized visual, audio, inertial, gaze, and trajectory resources.",
+              "description": "Harvard-AI-and-Robotics-Lab/VISTA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1419658656,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-15T06:33:35Z",
+                "open_issues": 0,
+                "owner": "Harvard-AI-and-Robotics-Lab",
+                "repo": "VISTA",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -2058,6 +2648,27 @@
             },
             {
               "node_type": "item",
+              "title": "BiScopeCap-100K (2026) — Derived egocentric captions jointly describe high-level actions, left/right-hand roles, manipulated objects, and spatial grounding metadata. Introduced with BiScopeNet for sub-action recognition; the project announces dataset, derived annotations, and curation scripts upon acceptance.",
+              "description": "SadeghRahmaniB/biscopenet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the implementation of BiScopeNet, including the FocusAlign projection layer and MetaLoss function, for individual hand-level action and sub-action detection.",
+                "homepage": null,
+                "id": 1450756057,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T20:44:45Z",
+                "open_issues": 0,
+                "owner": "SadeghRahmaniB",
+                "repo": "biscopenet",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "LongEgoRefer (2026) — 1,498 referring expressions over long-form Ego4D videos averaging 45 minutes, requiring temporal and spatial localization of sparse referred objects in untrimmed egocentric recordings.",
               "description": "shunya-kato/LongEgoRefer",
               "children": [],
@@ -2128,6 +2739,111 @@
           "children": [
             {
               "node_type": "item",
+              "title": "BiScopeCap-100K (2026)",
+              "description": "Hand-role-aware sub-action understanding BiScopeCap-100K Paper · Site · Repository Data and curation release announced upon acceptance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the implementation of BiScopeNet, including the FocusAlign projection layer and MetaLoss function, for individual hand-level action and sub-action detection.",
+                "homepage": null,
+                "id": 1450756057,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T20:44:45Z",
+                "open_issues": 0,
+                "owner": "SadeghRahmaniB",
+                "repo": "biscopenet",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Omni-Life (2026)",
+              "description": "Real-time omnimodal assistance Omni-Life Paper · Code Real + synthetic multimodal assistance benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://todayai-labs.github.io/omni-life/",
+                "id": 1415510669,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T04:33:52Z",
+                "open_issues": 0,
+                "owner": "todayai-labs",
+                "repo": "omni-life",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "InteractiveBench / InteractiveWorld (2026)",
+              "description": "Closed-loop wearable-assistant guidance 120 multi-turn tasks / 6 categories Paper · Site · Code Simulator with a human agent and state-based rewards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official repo for paper InteractiveWorld A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+                "homepage": null,
+                "id": 1431754168,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-27T01:32:58Z",
+                "open_issues": 4,
+                "owner": "facebookresearch",
+                "repo": "InteractiveWorld",
+                "stars": 222,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AgentVQA (2026)",
+              "description": "Offline agentic visual understanding 1,000 examples / 23 source datasets / 5 domains Paper · Site · Code · HF Mixed web, robot, ego-video, game, and spatial-planning domains",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evaluation code for AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
+                "homepage": "https://zlab-princeton.github.io/AgentVQA/",
+                "id": 1426429044,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-23T04:02:43Z",
+                "open_issues": 0,
+                "owner": "zlab-princeton",
+                "repo": "AgentVQA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VISTA (2026)",
+              "description": "Multimodal accessibility assistance VISTA Paper · Site · Code · HF Dataset and inference resources available",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1419658656,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-15T06:33:35Z",
+                "open_issues": 0,
+                "owner": "Harvard-AI-and-Robotics-Lab",
+                "repo": "VISTA",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "ClearText-Video (CTVid) (2026)",
               "description": "Scene-text VideoQA, restoration ClearText-Video (CTVid) Official · Site · Code · HF Dataset+benchmark",
               "children": [],
@@ -2171,7 +2887,7 @@
                 "open_issues": 0,
                 "owner": "NYCU-NLP-Lab",
                 "repo": "EgoArgus",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -2510,6 +3226,76 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoActionBench (dense action captioning)",
+              "description": "2026 1,407 videos / 41,132 action annotations Atomic action captioning and temporal localization Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+                "homepage": "https://egoaction-bench.github.io",
+                "id": 1439660785,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-04T15:24:39Z",
+                "open_issues": 0,
+                "owner": "player0718",
+                "repo": "EgoActionBench",
+                "stars": 6,
+                "topics": [
+                  "action-understanding",
+                  "benchmark",
+                  "dense-captioning",
+                  "egocentric-video",
+                  "embodied-ai",
+                  "vision-language-model"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MotorSense",
+              "description": "2026 100 h paper corpus / 70.4 h public package Video–EMG action representation learning Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1231630793,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-28T23:53:41Z",
+                "open_issues": 0,
+                "owner": "edess442",
+                "repo": "MotorSense",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SOMA",
+              "description": "2026 1,632 human-verified questions Fine-grained body-motion understanding Paper Site · Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1434301117,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-30T10:16:07Z",
+                "open_issues": 1,
+                "owner": "amathislab",
+                "repo": "soma",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "RevalExo",
@@ -3121,6 +3907,34 @@
             },
             {
               "node_type": "item",
+              "title": "EgoActionBench (dense action captioning) (2026) — Human-refined English annotations locate atomic actions on left-hand, right-hand, and bimanual timelines, with structured verb, object, tool, and motion references. The benchmark evaluates semantic fidelity, timing, and action precision/recall. Videos and JSONL annotations are hosted on Hugging Face; access follows the dataset-page conditions.",
+              "description": "player0718/EgoActionBench",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+                "homepage": "https://egoaction-bench.github.io",
+                "id": 1439660785,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-04T15:24:39Z",
+                "open_issues": 0,
+                "owner": "player0718",
+                "repo": "EgoActionBench",
+                "stars": 6,
+                "topics": [
+                  "action-understanding",
+                  "benchmark",
+                  "dense-captioning",
+                  "egocentric-video",
+                  "embodied-ai",
+                  "vision-language-model"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "EventKitchen (2026) — 5.5 h of unscripted cooking from 10 participants in 13 kitchens, captured with stereo event cameras plus synchronized RGB, depth, and IMU and annotated with 10,762 action segments and 13,482 object boxes.",
               "description": "ChengmingF/EventKitchen_toolkit",
               "children": [],
@@ -3163,6 +3977,27 @@
             },
             {
               "node_type": "item",
+              "title": "MotorSense (2026) — Unscripted manipulation with synchronized egocentric video, bimanual EMG/IMU, and audio. The current package reports 370 recordings, 70.4 h, 5,209 action segments, and 4,700 contact intervals; code provides loaders and representation-learning recipes.",
+              "description": "edess442/MotorSense",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1231630793,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-28T23:53:41Z",
+                "open_issues": 0,
+                "owner": "edess442",
+                "repo": "MotorSense",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "RevalExo (2026) — Daily mobility benchmark with 10.1 h of annotations across 11 locomotion modes. All 27 participants have IMU data; 13 have paired egocentric video. Covers older adults, stroke survivors, and probable sarcopenia cohorts, with recognition, population-transfer, and vision-to-IMU tasks.",
               "description": "revalexo/revalexo",
               "children": [],
@@ -3202,6 +4037,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SOMA (2026) — Egocentric questions cover body configuration, motion dynamics, and temporal reasoning, with Nymeria and Ego-Exo4D source access documented by the project. A companion video/motion/language training resource is announced. Benchmark access is scheduled for paper acceptance.",
+              "description": "amathislab/soma",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1434301117,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-30T10:16:07Z",
+                "open_issues": 1,
+                "owner": "amathislab",
+                "repo": "soma",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             }
           ],
           "description": null,
@@ -3210,6 +4066,55 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "EgoActionBench (dense action captioning) (2026)",
+              "description": "Atomic action captioning and temporal localization EgoActionBench (dense action captioning) Paper · Site · Code · HF Dense action captioning benchmark; distinct from EgoACT generation evaluation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+                "homepage": "https://egoaction-bench.github.io",
+                "id": 1439660785,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-04T15:24:39Z",
+                "open_issues": 0,
+                "owner": "player0718",
+                "repo": "EgoActionBench",
+                "stars": 6,
+                "topics": [
+                  "action-understanding",
+                  "benchmark",
+                  "dense-captioning",
+                  "egocentric-video",
+                  "embodied-ai",
+                  "vision-language-model"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SOMA (2026)",
+              "description": "Fine-grained body-motion understanding SOMA Paper · Site · Repository Questions/training resource announced; source videos separate",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1434301117,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-30T10:16:07Z",
+                "open_issues": 1,
+                "owner": "amathislab",
+                "repo": "soma",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "CE⁴L (2026)",
@@ -3390,10 +4295,52 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoAIM / Gaze2HOI",
+              "description": "2026 4 interaction phases / 11 public demo examples Gaze-conditioned intention and interaction forecasting Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference code for Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting.",
+                "homepage": null,
+                "id": 1426462835,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T07:47:09Z",
+                "open_issues": 2,
+                "owner": "gaze2hoi",
+                "repo": "Gaze2HOI",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanTouch / SparkArena",
+              "description": "2026 1,000 h tactile human manipulation (paper) Visual–tactile pretraining and dexterous control Paper Site · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+                "homepage": "https://xsparkai.com/spark-0",
+                "id": 1422465693,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T03:03:54Z",
+                "open_issues": 0,
+                "owner": "XsparkAI",
+                "repo": "Spark-0",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -3705,7 +4652,7 @@
                 "open_issues": 14,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3754,7 +4701,7 @@
                 "open_issues": 9,
                 "owner": "apple-aiml-research",
                 "repo": "ml-egodex",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3802,7 +4749,7 @@
                 "open_issues": 14,
                 "owner": "owenzlz",
                 "repo": "EgoHOS",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3823,7 +4770,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "assemblyhands-toolkit",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4156,7 +5103,28 @@
             },
             {
               "node_type": "item",
-              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0; the full 500 h are planned before November 2026.",
+              "title": "HumanTouch / SparkArena (2026) — HumanTouch supplies full-hand tactile manipulation supervision for Spark-0. The companion SparkArena evaluates vision-only simulation and tactile-conditioned real-robot tasks on one dexterous embodiment. Framework code is available; a public HumanTouch corpus download was not verified.",
+              "description": "XsparkAI/Spark-0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+                "homepage": "https://xsparkai.com/spark-0",
+                "id": 1422465693,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T03:03:54Z",
+                "open_issues": 0,
+                "owner": "XsparkAI",
+                "repo": "Spark-0",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TouchScale (2026) — Unified capture of egocentric RGB-D, wrist RGB, and dense bimanual tactile measurements across roughly 2K task descriptions in the full corpus. The current gated release contains 100 h, 15,324 episodes, and 929 tasks under CC BY-NC 4.0 and includes 193 textured object meshes. The public card still lists this 100 h package as of November 22, 2026; the complete 500 h release was not verified.",
               "description": "phai-lab/touchscale",
               "children": [],
               "repo_info": {
@@ -4303,6 +5271,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoAIM / Gaze2HOI (2026) — Phase-aware hand–object interaction benchmark covering contact establishment, movement, manipulation, and placement, with intention labels. Public examples include RGB, gaze, observed hand/object states, and reference futures; the full dataset is announced for paper acceptance.",
+              "description": "gaze2hoi/Gaze2HOI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference code for Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting.",
+                "homepage": null,
+                "id": 1426462835,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T07:47:09Z",
+                "open_issues": 2,
+                "owner": "gaze2hoi",
+                "repo": "Gaze2HOI",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -4481,8 +5470,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "EgoAIM / Gaze2HOI (2026)",
+              "description": "Gaze-conditioned intention and interaction forecasting EgoAIM / Gaze2HOI Paper · Site · Code · HF 11 demo examples available; full benchmark pending",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference code for Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting.",
+                "homepage": null,
+                "id": 1426462835,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T07:47:09Z",
+                "open_issues": 2,
+                "owner": "gaze2hoi",
+                "repo": "Gaze2HOI",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanTouch / SparkArena (2026)",
+              "description": "Visual–tactile pretraining and dexterous control HumanTouch / SparkArena Paper · Site · Code Mixed human/robot resource; framework code available",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+                "homepage": "https://xsparkai.com/spark-0",
+                "id": 1422465693,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T03:03:54Z",
+                "open_issues": 0,
+                "owner": "XsparkAI",
+                "repo": "Spark-0",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "TouchScale (2026)",
-              "description": "Visual–tactile learning, contact-rich manipulation TouchScale Paper · Site · Code · HF 100 h gated release; full corpus planned before Nov 2026",
+              "description": "Visual–tactile learning, contact-rich manipulation TouchScale Paper · Site · Code · HF 100 h gated release; full 500 h release still unverified (Nov 22)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4704,6 +5735,53 @@
             },
             {
               "node_type": "item",
+              "title": "EgoExplorer",
+              "description": "2026 100 h corpus / 18-recording, 66-min preview Professional human loco-manipulation Paper Site · Code · HF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1416535754,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-23T05:52:55Z",
+                "open_issues": 0,
+                "owner": "InternRobotics",
+                "repo": "EgoExplorer",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanVerse / λ₀",
+              "description": "2026 500 h human loco-manipulation (paper) Human-to-humanoid whole-body skill transfer Paper Site · Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+                "homepage": "https://lambdahumanoid.github.io/",
+                "id": 1392296264,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:22:54Z",
+                "open_issues": 1,
+                "owner": "LambdaHumanoid",
+                "repo": "openlambda",
+                "stars": 169,
+                "topics": [
+                  "humanoid",
+                  "manipulation",
+                  "vla",
+                  "whole-body-control"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "HumanEgo",
               "description": "2026 Minutes-per-task Aria demonstrations Human-to-robot policy learning Paper Site · Code · HF",
               "children": [],
@@ -4805,14 +5883,40 @@
                 "id": 931195201,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-21T22:11:21Z",
+                "last_commit": "2026-11-22T07:18:01Z",
                 "open_issues": 306,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 585,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanVerse / λ₀ (2026) — Open-world human demonstrations pairing egocentric video with synchronized body and hand motion for coordinated locomotion and manipulation. The project provides openlambda tooling and links a sample; full-corpus download access was not verified.",
+              "description": "LambdaHumanoid/openlambda",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+                "homepage": "https://lambdahumanoid.github.io/",
+                "id": 1392296264,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:22:54Z",
+                "open_issues": 1,
+                "owner": "LambdaHumanoid",
+                "repo": "openlambda",
+                "stars": 169,
+                "topics": [
+                  "humanoid",
+                  "manipulation",
+                  "vla",
+                  "whole-body-control"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -4897,6 +6001,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoExplorer (2026) — Vision–motion–touch recordings with step-level descriptions and coordinated whole-body activity. The current gated preview covers ten laboratory/household task templates with aligned multimodal streams; the larger collection is being opened in stages. Capture and processing tooling is public.",
+              "description": "InternRobotics/EgoExplorer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1416535754,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-23T05:52:55Z",
+                "open_issues": 0,
+                "owner": "InternRobotics",
+                "repo": "EgoExplorer",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
             },
             {
               "node_type": "item",
@@ -4991,6 +6116,53 @@
           "children": [
             {
               "node_type": "item",
+              "title": "EgoExplorer (2026)",
+              "description": "Professional human loco-manipulation EgoExplorer Paper · Site · Code · HF Gated 66-min preview; full collection staged",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1416535754,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-23T05:52:55Z",
+                "open_issues": 0,
+                "owner": "InternRobotics",
+                "repo": "EgoExplorer",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HumanVerse / λ₀ (2026)",
+              "description": "Human-to-humanoid whole-body skill transfer HumanVerse / λ₀ Paper · Site · Code Paper reports 500 h; project links sample access",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+                "homepage": "https://lambdahumanoid.github.io/",
+                "id": 1392296264,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:22:54Z",
+                "open_issues": 1,
+                "owner": "LambdaHumanoid",
+                "repo": "openlambda",
+                "stars": 169,
+                "topics": [
+                  "humanoid",
+                  "manipulation",
+                  "vla",
+                  "whole-body-control"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "PROVIA full-trial protocol (2026)",
               "description": "Online procedural mistake/recovery detection with false-alarm budgets CaptainCook4D / IndustReal / HoloAssist / IMPACT-ego Paper · Code New evaluation protocol over existing recordings",
               "children": [],
@@ -5064,7 +6236,7 @@
                 "id": 1228841346,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T12:40:56Z",
+                "last_commit": "2026-11-22T16:41:08Z",
                 "open_issues": 0,
                 "owner": "spiglerg",
                 "repo": "tavis",
@@ -5086,6 +6258,27 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "HOLIWORLD-Data / HOLIWORLD-Bench",
+              "description": "2026 ~100 captured scenes / ~80K training QA World-grounded spatial and temporal understanding Paper Site · Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1423322143,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:59:22Z",
+                "open_issues": 2,
+                "owner": "Ropedia",
+                "repo": "holi-world",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "SAVED-Bench / FloorSAV",
@@ -5173,7 +6366,7 @@
             {
               "node_type": "item",
               "title": "GST-Bench / GST-Train",
-              "description": "2026 6,790 min synthetic video Global spatial awareness from ego video Paper Site · Repository",
+              "description": "2026 6,790 min synthetic video Global spatial awareness from ego video Paper Site · Repository · HF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5407,6 +6600,27 @@
             },
             {
               "node_type": "item",
+              "title": "HOLIWORLD-Data / HOLIWORLD-Bench (2026) — Automatically constructed world records connect scene structure, object states, interaction histories, and supporting observations. Independent human annotations on held-out recordings evaluate spatial/temporal understanding. Dataset and model release remain pending; the current repository is informational.",
+              "description": "Ropedia/holi-world",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1423322143,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:59:22Z",
+                "open_issues": 2,
+                "owner": "Ropedia",
+                "repo": "holi-world",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
               "title": "EE4D-JSM (2026) — RESELF aligns egocentric video, sparse metric scene geometry, camera trajectories, and full-body motion annotations from Ego-Exo4D for joint reconstruction in a shared coordinate frame. The paper announces code, models, and dataset release.",
               "description": "Ka1Guan/RESELF",
               "children": [],
@@ -5600,7 +6814,7 @@
             },
             {
               "node_type": "item",
-              "title": "GST-Bench / GST-Train (2026) — Human-verified global-spatial-temporal questions derived from 6,790 minutes of synthetic first-person exploration, requiring novel-view inference and mapping ego observations onto global top-down scenes, plus a companion training set. The project and repository are public; dataset and evaluation-code release is announced for October 2026.",
+              "title": "GST-Bench / GST-Train (2026) — Human-verified global-spatial-temporal questions derived from 6,790 minutes of synthetic first-person exploration, requiring novel-view inference and mapping ego observations onto global top-down scenes, plus a companion training set. The evaluation dataset is released with 12 task JSON files, images, and videos, and the repository includes inference/evaluation tooling. The separate GST-Train release was not verified.",
               "description": "qwerirwq/GST-Bench",
               "children": [],
               "repo_info": {
@@ -5626,6 +6840,80 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "HOLIWORLD-Data / HOLIWORLD-Bench (2026)",
+              "description": "World-grounded spatial and temporal understanding HOLIWORLD-Data / HOLIWORLD-Bench Paper · Site · Repository Dataset/model announced; informational repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1423322143,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T02:59:22Z",
+                "open_issues": 2,
+                "owner": "Ropedia",
+                "repo": "holi-world",
+                "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HabitatGS-LN / ScaleNav (2026)",
+              "description": "Language-conditioned local navigation 157 episodes / 45 held-out InteriorGS scenes Paper · Site · Code Photorealistic simulation benchmark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
+                "homepage": "https://zju3dv.github.io/ScaleNav/",
+                "id": 1424568989,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:49:10Z",
+                "open_issues": 1,
+                "owner": "MachEmbodied",
+                "repo": "ScaleNav",
+                "stars": 54,
+                "topics": []
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EgoShift (2026)",
+              "description": "Spatial updating under known camera turns 12,786 held-out items across 3 tasks Site · Code · HF Simulated image/view pairs with an action-only shortcut ceiling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EgoShift (WACV 2027): bounding the action-only shortcut in egocentric spatial updating for vision–language models",
+                "homepage": "https://utsa-virlab.github.io/EgoShift/",
+                "id": 1422892420,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-14T05:19:26Z",
+                "open_issues": 0,
+                "owner": "UTSA-VIRLab",
+                "repo": "EgoShift",
+                "stars": 0,
+                "topics": [
+                  "ai2thor",
+                  "benchmark",
+                  "dataset",
+                  "egocentric-vision",
+                  "evaluation",
+                  "shortcut-learning",
+                  "spatial-reasoning",
+                  "vision-language-model",
+                  "vlm",
+                  "wacv2027"
+                ]
+              },
+              "first_seen": "2026-11-23T01:08:23.828Z"
+            },
             {
               "node_type": "item",
               "title": "SAVED-Bench / FloorSAV (2026)",
@@ -5755,7 +7043,7 @@
             {
               "node_type": "item",
               "title": "GST-Bench",
-              "description": "Global spatial-temporal VQA and allocentric mapping from ego streams GST-Bench Site · Repository Data/code release announced for Oct 2026",
+              "description": "Global spatial-temporal VQA and allocentric mapping from ego streams GST-Bench Site · Repository · HF Evaluation data and tooling released; GST-Train access unverified",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5847,6 +7135,27 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "EgoCaptioner",
+          "description": "Generates scene overviews and timestamped fine-grained narration from egocentric video; inference code and model available. Paper · Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1462649538,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-20T07:51:45Z",
+            "open_issues": 1,
+            "owner": "cactusqq",
+            "repo": "EgoCaptioner",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-11-23T01:08:23.828Z"
+        },
         {
           "node_type": "item",
           "title": "CapEgo",
@@ -6056,7 +7365,7 @@
             "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "assemblyhands-toolkit",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T04:30:06.161Z"
@@ -6179,7 +7488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:41:09.236Z",
+    "last_updated": "2026-11-23T01:08:23.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -6187,11 +7496,11 @@
       "id": 1188023612,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-13T04:17:58Z",
+      "last_commit": "2026-11-22T07:25:39Z",
       "open_issues": 3,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 238,
+      "stars": 239,
       "topics": [
         "awesome-list",
         "computer-vision",
@@ -6202,7 +7511,7 @@
         "video-datasets"
       ]
     },
-    "original_repository_sha": "52f907aec1e747037cb1e361b7d5723d33eba3ca",
+    "original_repository_sha": "2f9def37bd06448362fd24963241d80b498f2fea",
     "enhanced_repository": "enhansome/enhansome-ego-video-datasets",
     "enhanced_repository_description": null,
     "title": "🎥 Awesome Egocentric Video Datasets with stars"
