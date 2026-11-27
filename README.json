@@ -69,7 +69,7 @@
                 "open_issues": 0,
                 "owner": "FlagOpen",
                 "repo": "HumanCOIN",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "dataset",
                   "egocentric",
@@ -273,7 +273,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -343,7 +343,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -585,7 +585,7 @@
                 "open_issues": 0,
                 "owner": "FlagOpen",
                 "repo": "HumanCOIN",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "dataset",
                   "egocentric",
@@ -1728,7 +1728,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T12:04:30Z",
+                "last_commit": "2026-11-26T12:29:48Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -2239,7 +2239,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T12:04:30Z",
+                "last_commit": "2026-11-26T12:29:48Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -2770,7 +2770,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T12:04:30Z",
+                "last_commit": "2026-11-26T12:29:48Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -3596,7 +3596,7 @@
                 "open_issues": 78,
                 "owner": "facebookresearch",
                 "repo": "Ego4d",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "computer-vision",
                   "dataset",
@@ -4523,7 +4523,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T08:52:41Z",
-                "open_issues": 3,
+                "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 59,
@@ -4833,7 +4833,7 @@
                 "open_issues": 6,
                 "owner": "Jianyi2004",
                 "repo": "TouchAnything",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4893,7 +4893,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T08:52:41Z",
-                "open_issues": 3,
+                "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 59,
@@ -5607,7 +5607,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T08:52:41Z",
-                "open_issues": 3,
+                "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
                 "stars": 59,
@@ -5707,7 +5707,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5766,11 +5766,11 @@
                 "id": 1392296264,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T06:22:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T10:15:23Z",
+                "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -5838,7 +5838,7 @@
                 "open_issues": 2,
                 "owner": "TimSchoonbeek",
                 "repo": "IndustReal",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -5887,7 +5887,7 @@
                 "open_issues": 306,
                 "owner": "GaTech-RL2",
                 "repo": "EgoVerse",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5904,11 +5904,11 @@
                 "id": 1392296264,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T06:22:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T10:15:23Z",
+                "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -5934,7 +5934,7 @@
                 "open_issues": 3,
                 "owner": "OpenGVLab",
                 "repo": "EgoExoLearn",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5962,6 +5962,27 @@
             },
             {
               "node_type": "item",
+              "title": "IndustReal (2024) — ~6 h industrial; Procedure steps, errors.",
+              "description": "TimSchoonbeek/IndustReal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 647187198,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-08-19T13:54:35Z",
+                "open_issues": 2,
+                "owner": "TimSchoonbeek",
+                "repo": "IndustReal",
+                "stars": 36,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T00:25:07.034Z"
+            },
+            {
+              "node_type": "item",
               "title": "EgoProceL (2022) — 62 videos / 16 tasks; Procedure learning.",
               "description": "Sid2697/EgoProceL-egocentric-procedure-learning",
               "children": [],
@@ -5980,27 +6001,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IndustReal (2024) — ~6 h industrial; Procedure steps, errors.",
-              "description": "TimSchoonbeek/IndustReal",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 647187198,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-08-19T13:54:35Z",
-                "open_issues": 2,
-                "owner": "TimSchoonbeek",
-                "repo": "IndustReal",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T00:25:07.034Z"
             },
             {
               "node_type": "item",
@@ -6147,11 +6147,11 @@
                 "id": 1392296264,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T06:22:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-26T10:15:23Z",
+                "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -7151,7 +7151,7 @@
             "open_issues": 1,
             "owner": "cactusqq",
             "repo": "EgoCaptioner",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-11-23T01:08:23.828Z"
@@ -7269,7 +7269,7 @@
             "open_issues": 78,
             "owner": "facebookresearch",
             "repo": "Ego4d",
-            "stars": 665,
+            "stars": 666,
             "topics": [
               "computer-vision",
               "dataset",
@@ -7488,7 +7488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:09:26.267Z",
+    "last_updated": "2026-11-27T03:17:06.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -7497,7 +7497,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-22T07:25:39Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
       "stars": 240,
