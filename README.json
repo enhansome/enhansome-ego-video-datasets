@@ -273,7 +273,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 375,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -343,7 +343,7 @@
                 "open_issues": 5,
                 "owner": "DAGroup-PKU",
                 "repo": "HumanNet",
-                "stars": 375,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -1728,7 +1728,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T12:29:48Z",
+                "last_commit": "2026-11-27T06:10:31Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -2239,7 +2239,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T12:29:48Z",
+                "last_commit": "2026-11-27T06:10:31Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -2770,7 +2770,7 @@
                 "id": 1415510669,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T12:29:48Z",
+                "last_commit": "2026-11-27T06:10:31Z",
                 "open_issues": 0,
                 "owner": "todayai-labs",
                 "repo": "omni-life",
@@ -2795,7 +2795,7 @@
                 "open_issues": 4,
                 "owner": "facebookresearch",
                 "repo": "InteractiveWorld",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-11-23T01:08:23.828Z"
@@ -3118,7 +3118,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "egobabyvlm",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "ai",
                   "developmental-ai",
@@ -3375,7 +3375,7 @@
                 "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3623,7 +3623,7 @@
                 "open_issues": 2,
                 "owner": "epic-kitchens",
                 "repo": "epic-kitchens-100-annotations",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -3879,7 +3879,7 @@
                 "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4215,7 +4215,7 @@
                 "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "EgoPolice",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4442,7 +4442,7 @@
                 "open_issues": 4,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4526,7 +4526,7 @@
                 "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 59,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -4812,7 +4812,7 @@
                 "open_issues": 4,
                 "owner": "Bottle101",
                 "repo": "ForceBand",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-10-08T00:25:07.034Z"
@@ -4896,7 +4896,7 @@
                 "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 59,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5022,7 +5022,7 @@
                 "open_issues": 3,
                 "owner": "eth-siplab",
                 "repo": "EgoPHI",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-09-27T23:25:03.707Z"
@@ -5610,7 +5610,7 @@
                 "open_issues": 0,
                 "owner": "zhenqis123",
                 "repo": "EgoEMG",
-                "stars": 59,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:30:06.161Z"
@@ -5770,7 +5770,7 @@
                 "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -5908,7 +5908,7 @@
                 "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -6151,7 +6151,7 @@
                 "open_issues": 0,
                 "owner": "LambdaHumanoid",
                 "repo": "openlambda",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "humanoid",
                   "manipulation",
@@ -6877,7 +6877,7 @@
                 "open_issues": 1,
                 "owner": "MachEmbodied",
                 "repo": "ScaleNav",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-11-23T01:08:23.828Z"
@@ -7151,7 +7151,7 @@
             "open_issues": 1,
             "owner": "cactusqq",
             "repo": "EgoCaptioner",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-11-23T01:08:23.828Z"
@@ -7488,7 +7488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:17:06.420Z",
+    "last_updated": "2026-11-28T02:57:39.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎥 [Awesome] Egocentric / First-Person Video Datasets 📚 Papers, Benchmarks & Resources for Ego Vision",
@@ -7500,7 +7500,7 @@
       "open_issues": 4,
       "owner": "player0718",
       "repo": "awesome-ego-video-datasets",
-      "stars": 240,
+      "stars": 241,
       "topics": [
         "awesome-list",
         "computer-vision",
